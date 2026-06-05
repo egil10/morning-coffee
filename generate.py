@@ -540,13 +540,15 @@ def main() -> int:
 
     if args.sample or args.no_email:
         print("• skipping email")
-    else:
+    elif os.environ.get("GMAIL_ADDRESS") and os.environ.get("GMAIL_APP_PASSWORD"):
         send_email(
             date_str,
             render_email_html(quiz, date_str, pretty, site),
             render_email_text(quiz, pretty, site),
             pdf_path if ok else None,
         )
+    else:
+        print("• GMAIL_ADDRESS / GMAIL_APP_PASSWORD not set — skipping email (site + PDF still built)")
 
     print(f"✓ done — {site}/newsletters/{date_str}/")
     return 0
