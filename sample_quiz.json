@@ -1,0 +1,76 @@
+{
+  "intro": "This is a sample edition used for local testing and dry runs — the questions below are illustrative, not today's real news. The live job replaces this with a fresh web-sourced quiz each morning.",
+  "questions": [
+    {
+      "question": "Sample: Which body sets the primary interest rate for the euro area?",
+      "options": ["The European Central Bank", "The Bank of England", "The Federal Reserve", "The IMF"],
+      "answer_index": 0,
+      "explanation": "The European Central Bank sets monetary policy, including the key interest rate, for countries that use the euro.",
+      "category": "Business"
+    },
+    {
+      "question": "Sample: What does the acronym 'COP' refer to in climate summits?",
+      "options": ["Council of Parliaments", "Conference of the Parties", "Committee on Pollution", "Coalition of Producers"],
+      "answer_index": 1,
+      "explanation": "COP stands for Conference of the Parties — the annual UN climate negotiation under the UNFCCC.",
+      "category": "World"
+    },
+    {
+      "question": "Sample: Which planet did the James Webb Space Telescope famously image in detail with its rings?",
+      "options": ["Mars", "Mercury", "Neptune", "Venus"],
+      "answer_index": 2,
+      "explanation": "JWST captured a striking infrared view of Neptune and its faint rings shortly after commissioning.",
+      "category": "Science & Tech"
+    },
+    {
+      "question": "Sample: The Magna Carta was originally sealed in which century?",
+      "options": ["11th century", "13th century", "15th century", "17th century"],
+      "answer_index": 1,
+      "explanation": "Magna Carta was sealed by King John in 1215, placing it in the 13th century.",
+      "category": "World"
+    },
+    {
+      "question": "Sample: Which league does a 'Ballon d'Or' winner most often come from?",
+      "options": ["Top European football leagues", "Major League Baseball", "The NBA", "Formula 1"],
+      "answer_index": 0,
+      "explanation": "The Ballon d'Or is an association football award, typically won by players in Europe's top leagues.",
+      "category": "Sport"
+    },
+    {
+      "question": "Sample: What is the capital city of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+      "answer_index": 2,
+      "explanation": "Canberra is the purpose-built capital of Australia, chosen as a compromise between Sydney and Melbourne.",
+      "category": "World"
+    },
+    {
+      "question": "Sample: In computing, what does 'LLM' stand for?",
+      "options": ["Large Language Model", "Linked List Machine", "Low Latency Memory", "Logical Layer Map"],
+      "answer_index": 0,
+      "explanation": "LLM stands for Large Language Model — the class of AI systems trained on vast text corpora.",
+      "category": "Science & Tech"
+    },
+    {
+      "question": "Sample: Which document begins with the words 'We the People'?",
+      "options": ["The Magna Carta", "The US Constitution", "The Treaty of Rome", "The UN Charter"],
+      "answer_index": 1,
+      "explanation": "The Preamble to the United States Constitution opens with 'We the People'.",
+      "category": "Politics"
+    },
+    {
+      "question": "Sample: The Louvre, home of the Mona Lisa, is located in which city?",
+      "options": ["Rome", "Madrid", "Paris", "Vienna"],
+      "answer_index": 2,
+      "explanation": "The Louvre is in Paris and houses Leonardo da Vinci's Mona Lisa.",
+      "category": "Culture"
+    },
+    {
+      "question": "Sample: Which gas do plants primarily absorb during photosynthesis?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+      "answer_index": 2,
+      "explanation": "Plants absorb carbon dioxide and release oxygen during photosynthesis.",
+      "category": "Science & Tech"
+    }
+  ],
+  "sources": ["Sample data — no live sources used"]
+}

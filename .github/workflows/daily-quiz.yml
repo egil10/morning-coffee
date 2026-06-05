@@ -1,0 +1,76 @@
+name: Morning Coffee
+
+on:
+  schedule:
+    # 06:00 UTC every day ≈ 07:00 Oslo (winter) / 08:00 (summer).
+    # Cron is always UTC — change this line to retime the brew.
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run: sample quiz, no email, no commit (just builds + uploads a preview)"
+        type: boolean
+        default: false
+
+# Lets the default GITHUB_TOKEN commit the new newsletter back to the repo.
+permissions:
+  contents: write
+
+# Never let two brews overlap.
+concurrency:
+  group: morning-coffee
+  cancel-in-progress: false
+
+jobs:
+  brew:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      # --- dry run: sample data, no secrets, no email, no commit ---
+      - name: Generate (dry run)
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
+        run: python generate.py --sample
+
+      - name: Upload preview
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: morning-coffee-preview
+          path: docs/newsletters/
+
+      # --- live: real web-sourced quiz, email, and commit ---
+      - name: Generate (live)
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RECIPIENT: ${{ secrets.RECIPIENT }}        # optional; defaults to GMAIL_ADDRESS
+          MODEL: ${{ vars.MODEL }}                   # optional; defaults to claude-opus-4-8
+          SITE_BASE_URL: ${{ vars.SITE_BASE_URL }}   # optional; defaults to the Pages URL
+        run: python generate.py
+
+      - name: Commit & push the new edition
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          if git diff --cached --quiet; then
+            echo "Nothing changed — skipping commit."
+          else
+            git commit -m "Morning Coffee: $(date -u +%Y-%m-%d)"
+            git push
+          fi
