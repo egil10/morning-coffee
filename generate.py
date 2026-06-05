@@ -448,7 +448,7 @@ def render_email_text(quiz: dict, pretty: str, site_url: str) -> str:
 # --------------------------------------------------------------------------- #
 def send_email(date_str, html_body, text_body, pdf_path):
     sender = os.environ["GMAIL_ADDRESS"]
-    password = os.environ["GMAIL_APP_PASSWORD"]
+    password = os.environ["GMAIL_APP_PASSWORD"].replace(" ", "")  # Gmail shows it in groups of 4
     recipient = os.environ.get("RECIPIENT") or sender
 
     msg = EmailMessage()
