@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
     inputs:
       dry_run:
-        description: "Dry run: sample quiz, no email, no commit (just builds + uploads a preview)"
+        description: "Dry run: sample quiz, no Claude, no email, no commit (just builds + uploads a preview)"
         type: boolean
         default: false
 
@@ -38,7 +38,7 @@ jobs:
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
 
-      # --- dry run: sample data, no secrets, no email, no commit ---
+      # ---------- dry run: sample data, no token, no email, no commit ----------
       - name: Generate (dry run)
         if: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
         run: python generate.py --sample
@@ -50,17 +50,52 @@ jobs:
           name: morning-coffee-preview
           path: docs/newsletters/
 
-      # --- live: real web-sourced quiz, email, and commit ---
-      - name: Generate (live)
+      # ---------- live: Claude (your subscription) writes the quiz, Python ships it ----------
+      - name: Write today's quiz with Claude
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}
+        uses: anthropics/claude-code-action@v1
+        with:
+          # Subscription auth — generated locally with `claude setup-token`.
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          # Swap the model to claude-opus-4-8 for sharper questions (uses more of your plan).
+          claude_args: "--allowedTools WebSearch,WebFetch,Write,Read,Edit --max-turns 30 --model claude-sonnet-4-6"
+          prompt: |
+            You are the editor of "Morning Coffee", a daily news quiz.
+            Use the WebSearch tool to find the most important and interesting news
+            from roughly the last 48 hours across world, politics, business and
+            markets, science and technology, and culture and sport. Then write a
+            10-question multiple-choice quiz and save it with the Write tool to a
+            file named exactly `quiz_raw.json` in the repository root.
+
+            That file must contain ONLY valid JSON — no markdown, no prose, no code
+            fences — in exactly this shape:
+            {
+              "intro": "one or two warm sentences setting up today's quiz",
+              "questions": [
+                {
+                  "question": "the question text",
+                  "options": ["option one", "option two", "option three", "option four"],
+                  "answer_index": 0,
+                  "explanation": "one or two sentences explaining the answer with the key fact",
+                  "category": "World | Politics | Business | Science & Tech | Culture | Sport"
+                }
+              ],
+              "sources": ["short label of a key story or outlet you used"]
+            }
+
+            Rules: exactly 10 questions; exactly 4 options each; answer_index is the
+            0-based index of the correct option; vary the categories; make the wrong
+            options plausible; exactly one unambiguous correct answer each. Do not
+            commit, push, or open a pull request — only write the file.
+
+      - name: Render, email & archive
         if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           RECIPIENT: ${{ secrets.RECIPIENT }}        # optional; defaults to GMAIL_ADDRESS
-          MODEL: ${{ vars.MODEL }}                   # optional; defaults to claude-opus-4-8
           SITE_BASE_URL: ${{ vars.SITE_BASE_URL }}   # optional; defaults to the Pages URL
-        run: python generate.py
+        run: python generate.py --from-json quiz_raw.json
 
       - name: Commit & push the new edition
         if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}

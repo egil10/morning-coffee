@@ -3,3 +3,5 @@ __pycache__/
 .venv/
 venv/
 .DS_Store
+# transient quiz written by the Claude Code Action, then rendered by generate.py
+quiz_raw.json

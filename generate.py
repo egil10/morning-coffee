@@ -485,6 +485,8 @@ def main() -> int:
 
     ap = argparse.ArgumentParser(description="Generate the Morning Coffee quiz.")
     ap.add_argument("--sample", action="store_true", help="use sample_quiz.json; no API call, no email")
+    ap.add_argument("--from-json", default=None, metavar="PATH",
+                    help="render a quiz JSON produced elsewhere (e.g. by Claude Code); no API call")
     ap.add_argument("--no-email", action="store_true", help="generate and save, but do not send email")
     ap.add_argument("--model", default=None, help="override the Claude model id")
     ap.add_argument("--base-url", default=None, help="override the public site base URL")
@@ -504,6 +506,11 @@ def main() -> int:
         print("• sample mode — loading sample_quiz.json")
         quiz = json.loads((ROOT / "sample_quiz.json").read_text(encoding="utf-8"))
         validate_quiz(quiz)
+    elif args.from_json:
+        print(f"• loading quiz from {args.from_json}")
+        quiz = parse_quiz_json(Path(args.from_json).read_text(encoding="utf-8"))
+        validate_quiz(quiz)
+        print(f"  got {len(quiz['questions'])} questions")
     else:
         print(f"• generating quiz with {model} (web search)…")
         quiz = generate_quiz(model)
