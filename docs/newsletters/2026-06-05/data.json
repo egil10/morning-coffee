@@ -1,0 +1,69 @@
+{
+  "title": "Job Radar",
+  "intro": "Finn.no yielded a fresh crop of finance roles today, led by several postings from the past 24 hours. Bindeleddet (bindeleddet.no/jobs/) returned HTTP 404 and could not be fetched; nu.nhhs.no/en/jobs/ loaded but its content was fully truncated by the fetch tool, so both sources return no listings.",
+  "sections": [
+    {
+      "heading": "Bindeleddet",
+      "items": []
+    },
+    {
+      "heading": "NHHS NU",
+      "items": []
+    },
+    {
+      "heading": "Finn.no – Finans",
+      "items": [
+        {
+          "title": "Operativ Finance Manager",
+          "subtitle": "Randstad AS",
+          "meta": "Hamar · posted today",
+          "summary": "A hands-on finance manager role placed via Randstad, responsible for operational financial management in Hamar.",
+          "url": "https://www.finn.no/job/ad/466031208"
+        },
+        {
+          "title": "Head of Finance",
+          "subtitle": "Thor Medical ASA",
+          "meta": "Oslo · posted today",
+          "summary": "Senior finance leadership position at Thor Medical ASA, overseeing the company's financial operations in Oslo.",
+          "url": "https://www.finn.no/job/ad/466019302"
+        },
+        {
+          "title": "Regnskapsfører / Finance Business Partner",
+          "subtitle": "Renasys Solutions AS",
+          "meta": "Førde · posted today",
+          "summary": "Dual accounting and business-partner role at Renasys Solutions, combining bookkeeping with strategic financial support.",
+          "url": "https://www.finn.no/job/ad/465998444"
+        },
+        {
+          "title": "Key Account Manager, Nordea Finans Bodø",
+          "subtitle": "Nordea",
+          "meta": "Bodø · posted 23 hours ago",
+          "summary": "Client-facing key account manager role within Nordea Finans, serving the Bodø region.",
+          "url": "https://www.finn.no/job/ad/465934772"
+        },
+        {
+          "title": "Økonomimedarbeider",
+          "subtitle": "Finans Norge",
+          "meta": "Oslo · posted 1 day ago",
+          "summary": "Finance staff position at the Norwegian Finance industry association, supporting day-to-day financial operations.",
+          "url": "https://www.finn.no/job/ad/465893058"
+        },
+        {
+          "title": "Finance & Accounting Specialist",
+          "subtitle": "Nofence",
+          "meta": "Oslo · posted 1 day ago",
+          "summary": "Finance and accounting specialist role at agri-tech company Nofence, handling reporting and financial controls.",
+          "url": "https://www.finn.no/job/ad/465892507"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "bindeleddet.no/jobs",
+    "nu.nhhs.no/en/jobs",
+    "finn.no/job (finans)"
+  ],
+  "date": "2026-06-05",
+  "pretty": "Friday, 05 June 2026",
+  "generated_at": "2026-06-05 14:51 CEST"
+}
