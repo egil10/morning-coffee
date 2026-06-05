@@ -2,9 +2,10 @@ name: Morning Coffee
 
 on:
   schedule:
-    # 06:00 UTC every day ≈ 07:00 Oslo (winter) / 08:00 (summer).
-    # Cron is always UTC — change this line to retime the brew.
-    - cron: "0 6 * * *"
+    # TEMPORARY TEST — every 10 minutes. When done, delete this line and
+    # uncomment the normal one below.
+    - cron: "*/10 * * * *"
+    # - cron: "0 6 * * 1-5"   # normal: weekdays 06:00 UTC (~07-08 Oslo)
   workflow_dispatch:
     inputs:
       dry_run:
