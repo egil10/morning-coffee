@@ -1,0 +1,141 @@
+{
+  "intro": "From Iranian drone strikes closing a Gulf airport to a quantum computing company's blockbuster Wall Street debut, the last 48 hours have been anything but quiet. Grab your coffee and see how closely you've been paying attention.",
+  "questions": [
+    {
+      "question": "On June 3, 2026, Iran struck Kuwait's international airport with a wave of ballistic missiles and drones. How many projectiles did Kuwait's defence ministry report detecting?",
+      "options": [
+        "7",
+        "30",
+        "50",
+        "12"
+      ],
+      "answer_index": 1,
+      "explanation": "Kuwait's defence ministry detected 30 ballistic missiles and drones in the Iranian strike, which killed one Indian national and injured 63 others, forcing the airport to close.",
+      "category": "World"
+    },
+    {
+      "question": "NASA's James Webb Space Telescope made the first direct detection of which molecule on an interstellar visitor, comet 3I/ATLAS?",
+      "options": [
+        "Water vapor",
+        "Carbon dioxide",
+        "Methane",
+        "Ammonia"
+      ],
+      "answer_index": 2,
+      "explanation": "Webb's MIRI instrument detected methane gas on 3I/ATLAS — the first time methane has been found on any interstellar object. The comet also displayed unusually high carbon dioxide levels compared with solar-system comets.",
+      "category": "Science & Tech"
+    },
+    {
+      "question": "Despite having no intelligence background, which official did President Trump nominate as acting director of national intelligence in June 2026?",
+      "options": [
+        "Bill Pulte",
+        "Todd Blanche",
+        "Pete Hegseth",
+        "Kash Patel"
+      ],
+      "answer_index": 0,
+      "explanation": "Trump tapped Bill Pulte, a housing official, as acting DNI. The appointment drew scrutiny given Pulte's lack of any prior intelligence or national-security experience.",
+      "category": "Politics"
+    },
+    {
+      "question": "Quantum computing company Quantinuum debuted on Nasdaq on June 4, 2026, in the largest traditional IPO for a pure-play quantum computing firm. How much capital did it raise?",
+      "options": [
+        "$890 million",
+        "$1.25 billion",
+        "$1.5 billion",
+        "$1.68 billion"
+      ],
+      "answer_index": 3,
+      "explanation": "Quantinuum priced at $60 per share, opened at $68, and raised $1.68 billion in an upsized offering. Honeywell International retained roughly 49% of voting power following the deal.",
+      "category": "Business"
+    },
+    {
+      "question": "Which U.S. homebuilder agreed in early June 2026 to be acquired by Berkshire Hathaway for $6.8 billion in cash, sending its shares up 22%?",
+      "options": [
+        "D.R. Horton",
+        "PulteGroup",
+        "NVR Inc.",
+        "Taylor Morrison Home"
+      ],
+      "answer_index": 3,
+      "explanation": "Taylor Morrison Home agreed to an all-cash takeover by Warren Buffett's Berkshire Hathaway, marking one of Berkshire's largest acquisitions in the residential homebuilding sector.",
+      "category": "Business"
+    },
+    {
+      "question": "The 2026 NBA Finals opened with a Game 1 victory for the New York Knicks (105–95). Which team are the Knicks facing in the Finals?",
+      "options": [
+        "San Antonio Spurs",
+        "Oklahoma City Thunder",
+        "Boston Celtics",
+        "Denver Nuggets"
+      ],
+      "answer_index": 0,
+      "explanation": "The Knicks defeated the Spurs 105–95 in Game 1, with Game 2 scheduled for June 5 in San Antonio. New York is appearing in the Finals for the first time since 1999; the Spurs are anchored by star Victor Wembanyama.",
+      "category": "Sport"
+    },
+    {
+      "question": "State media photos showed Kim Jong Un visiting a new North Korean facility in June 2026. Analysts believe the site is likely a plant to produce what?",
+      "options": [
+        "Long-range ballistic missiles",
+        "Conventional artillery shells",
+        "Weapons-grade uranium",
+        "Military surveillance drones"
+      ],
+      "answer_index": 2,
+      "explanation": "Analysts concluded from North Korean state media photos that Kim Jong Un toured a facility designed to produce weapons-grade uranium for nuclear bombs.",
+      "category": "World"
+    },
+    {
+      "question": "A Phase 3 trial published in the New England Journal of Medicine found that daraxonrasib nearly doubled median overall survival in patients with previously treated metastatic pancreatic cancer. What was the median survival reported for daraxonrasib?",
+      "options": [
+        "9.1 months",
+        "10.8 months",
+        "11.5 months",
+        "13.2 months"
+      ],
+      "answer_index": 3,
+      "explanation": "Daraxonrasib, an oral RAS(ON) inhibitor, achieved a median overall survival of 13.2 months, compared with 6.6 months for standard chemotherapy — a near-doubling for one of the hardest cancers to treat.",
+      "category": "Science & Tech"
+    },
+    {
+      "question": "Which animated franchise released its fifth film in June 2026, more than 30 years after the original premiered in 1995?",
+      "options": [
+        "Shrek",
+        "Toy Story",
+        "Ice Age",
+        "The Incredibles"
+      ],
+      "answer_index": 1,
+      "explanation": "Toy Story 5 opened in June 2026, returning Woody, Buzz, and friends to cinemas three decades after the original Toy Story revolutionised computer animation in 1995.",
+      "category": "Culture"
+    },
+    {
+      "question": "In June 2026, Acting U.S. Attorney General Todd Blanche announced the Justice Department was halting which controversial Trump administration initiative?",
+      "options": [
+        "The 'America First' border litigation fund",
+        "The DOGE federal efficiency account",
+        "The $1.8 billion 'anti-weaponization' fund",
+        "The national security asset seizure program"
+      ],
+      "answer_index": 2,
+      "explanation": "Blanche told lawmakers the DOJ would not move forward with the $1.8 billion 'anti-weaponization' fund, even as Senate GOP leaders pushed to advance a separate $70 billion immigration enforcement bill.",
+      "category": "Politics"
+    }
+  ],
+  "sources": [
+    "Al Jazeera — Iran drone and missile attack on Kuwait airport, June 3 2026",
+    "NASA Science Blog — Webb detects methane on interstellar comet 3I/ATLAS",
+    "CNN Politics — Trump taps Bill Pulte as acting director of national intelligence",
+    "CNBC — Quantinuum Nasdaq IPO raises $1.68 billion",
+    "CNBC — Berkshire Hathaway acquires Taylor Morrison Home for $6.8 billion",
+    "ESPN / NBA.com — Knicks vs Spurs 2026 NBA Finals Game 1 result",
+    "NPR / Democracy Now — North Korea nuclear uranium production facility",
+    "ScienceDaily — Daraxonrasib Phase 3 trial in metastatic pancreatic cancer",
+    "About Amazon / Prime Video — Toy Story 5 June 2026 release",
+    "CNN Politics — DOJ halts anti-weaponization fund"
+  ],
+  "title": "Morning Coffee",
+  "date": "2026-06-05",
+  "pretty": "Friday, 05 June 2026",
+  "generated_at": "2026-06-05 14:11 CEST"
+}
