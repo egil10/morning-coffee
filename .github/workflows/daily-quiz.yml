@@ -95,7 +95,8 @@ jobs:
         env:
           GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-          RECIPIENT: ${{ secrets.RECIPIENT }}        # optional; defaults to GMAIL_ADDRESS
+          # Sender is the bot Gmail; always deliver to your personal inbox.
+          RECIPIENT: ${{ vars.RECIPIENT || 'egilfure@gmail.com' }}
           SITE_BASE_URL: ${{ vars.SITE_BASE_URL }}   # optional; defaults to the Pages URL
         run: python generate.py --from-json quiz_raw.json
 

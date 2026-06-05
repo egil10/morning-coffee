@@ -453,7 +453,7 @@ def send_email(date_str, html_body, text_body, pdf_path):
 
     msg = EmailMessage()
     msg["Subject"] = f"☕ Morning Coffee Quiz — {date_str}"
-    msg["From"] = sender
+    msg["From"] = f"Morning Coffee <{sender}>"
     msg["To"] = recipient
     msg.set_content(text_body)
     msg.add_alternative(html_body, subtype="html")
