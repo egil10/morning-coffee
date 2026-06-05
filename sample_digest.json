@@ -1,0 +1,27 @@
+{
+  "title": "Job Radar (sample)",
+  "intro": "Sample edition for local testing and dry runs — these listings are illustrative, not live scrapes. The live job replaces this with fresh postings each morning.",
+  "sections": [
+    {
+      "heading": "Bindeleddet",
+      "items": [
+        {"title": "Summer Internship – Investment Banking", "subtitle": "Example Bank ASA", "meta": "Oslo · Deadline 15 Jun", "summary": "Ten-week summer programme for penultimate-year students across M&A and ECM.", "url": "https://bindeleddet.no/jobs/"},
+        {"title": "Graduate Analyst – Strategy", "subtitle": "Example Consulting", "meta": "Oslo · Rolling", "summary": "Entry-level strategy role working across Nordic clients.", "url": "https://bindeleddet.no/jobs/"}
+      ]
+    },
+    {
+      "heading": "NHHS (nu.nhhs.no)",
+      "items": [
+        {"title": "Trainee Programme 2026", "subtitle": "Example Energy", "meta": "Bergen · Deadline 1 Jul", "summary": "Two-year rotational trainee programme spanning finance and operations.", "url": "https://nu.nhhs.no/en/jobs/"}
+      ]
+    },
+    {
+      "heading": "Finn.no — finans",
+      "items": [
+        {"title": "Financial Controller", "subtitle": "Example Group", "meta": "Oslo · Full-time", "summary": "Controller role owning the monthly close and management reporting.", "url": "https://www.finn.no/job/search?q=finans"},
+        {"title": "Junior Risk Analyst", "subtitle": "Example Insurance", "meta": "Remote (Norway) · Deadline 20 Jun", "summary": "Support market- and credit-risk modelling for a mid-size insurer.", "url": "https://www.finn.no/job/search?q=finans"}
+      ]
+    }
+  ],
+  "sources": ["bindeleddet.no/jobs", "nu.nhhs.no/en/jobs", "finn.no/job (finans)"]
+}

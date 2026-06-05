@@ -1,6 +1,4 @@
-# Morning Coffee — daily news quiz
-# Pin floors loose so CI always gets a recent build that supports the
-# web_search_20260209 server tool and claude-opus-4-8.
-anthropic>=0.69
+# Morning Coffee — renders the agent's digest to web + PDF and emails it.
+# (Claude itself runs via the Claude Code Action in CI, not a pip package.)
 playwright>=1.40
 tzdata>=2024.1

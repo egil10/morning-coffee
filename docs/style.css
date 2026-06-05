@@ -179,6 +179,20 @@ footer .wrap { padding: 22px 24px; }
 
 .empty { color: rgb(var(--muted)); font-size: 15px; }
 
+/* ---- digest: sections of items (jobs, briefings, …) ---- */
+.block { margin-top: 30px; }
+.block-h {
+  font-size: 12px; font-weight: 600; text-transform: lowercase; letter-spacing: 0.06em;
+  color: rgb(var(--muted)); margin: 0 0 12px;
+}
+.item-top { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; }
+.item-title { font-size: 16px; font-weight: 600; letter-spacing: -0.01em; color: rgb(var(--fg)); }
+a.item-title:hover { color: rgb(var(--accent)); text-decoration: none; }
+.item-meta { font-size: 12px; color: rgb(var(--muted)); white-space: nowrap; }
+.item-sub { font-size: 13px; color: rgb(var(--accent)); margin-top: 3px; }
+.item-sum { font-size: 14px; color: rgb(var(--muted)); margin: 8px 0 0; }
+.note { color: rgb(var(--muted)); font-size: 14px; }
+
 /* scrollbar */
 ::-webkit-scrollbar { width: 11px; height: 11px; }
 ::-webkit-scrollbar-thumb { background: rgb(var(--border)); border-radius: 999px; }

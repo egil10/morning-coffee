@@ -1,13 +1,18 @@
 # ☕ morning-coffee
 
-An automated daily news quiz. Every morning a GitHub Action asks Claude to read
-the latest news (via web search), writes **10 multiple-choice questions**, then:
+An **agent test bench**: on a schedule, a GitHub Action runs **Claude Code** (on a
+Claude subscription) and ships whatever it produces as an email + a published web
+archive. Swapping the "bot" is just a prompt change in the workflow.
 
-- 📧 **emails** you an HTML quiz with a **PDF** attached, and
-- 🌐 **publishes** it to a website that keeps a browsable **archive** of every edition.
+**Currently running — a Job Radar:** each morning it scrapes the latest postings from
+[Bindeleddet](https://bindeleddet.no/jobs/), [NHHS](https://nu.nhhs.no/en/jobs/) and
+[Finn (finans)](https://www.finn.no/job/search?q=finans), summarises them, then:
 
-The whole archive lives in this repo under [`docs/`](docs/) — each day's quiz is a
-folder of `index.html` + `quiz.pdf` + `quiz.json`, committed automatically.
+- 📧 **emails** you the digest with a **PDF** attached, and
+- 🌐 **publishes** it to a browsable **archive** of every edition.
+
+The archive lives under [`docs/`](docs/) — each edition is a folder of
+`index.html` + `digest.pdf` + `data.json`, committed automatically.
 
 - **Website:** https://egil10.github.io/morning-coffee/ *(after you enable Pages — see below)*
 - **Design:** styled per [`BLUEPRINT.md`](BLUEPRINT.md) — off-white canvas, one teal accent, hairline cards, lowercase labels.
@@ -54,11 +59,11 @@ The job commits each new edition into `docs/`.
 
 ### 5. ✅ Test it now (no waiting for tomorrow)
 - **Actions → Morning Coffee → Run workflow.**
-  - Leave **Dry run = false** to do the *real* thing immediately (generates a quiz, emails you, commits, updates the site).
-  - Or set **Dry run = true** to build a sample quiz with **no token and no email** — it just uploads a `morning-coffee-preview` artifact you can download to eyeball the PDF/HTML. Great for checking rendering before secrets are set.
+  - Leave **Dry run = false** to do the *real* thing immediately (gathers the postings, emails you, commits, updates the site).
+  - Or set **Dry run = true** to build the sample digest with **no token and no email** — it just uploads a `morning-coffee-preview` artifact you can download to eyeball the PDF/HTML. Great for checking rendering before secrets are set.
 
 ### 6. *(Optional)* knobs
-- **Model:** questions use `claude-sonnet-4-6` by default. For sharper ones, change `--model claude-opus-4-8` in `claude_args` inside [`.github/workflows/daily-quiz.yml`](.github/workflows/daily-quiz.yml) (uses more of your plan).
+- **Model:** the bot uses `claude-sonnet-4-6` by default. For richer summaries, change `--model claude-opus-4-8` in `claude_args` inside [`.github/workflows/daily-quiz.yml`](.github/workflows/daily-quiz.yml) (uses more of your plan).
 - **`SITE_BASE_URL`** repo variable (**Settings → Secrets and variables → Actions → Variables**) — only if you rename the repo or use a custom domain.
 - **Change the time:** edit the `cron` line in the workflow. It's in **UTC** — `0 6 * * *` is 06:00 UTC (~07:00–08:00 in Oslo).
 
@@ -70,38 +75,35 @@ The job commits each new edition into `docs/`.
 pip install -r requirements.txt
 python -m playwright install chromium
 
-python generate.py --sample                              # sample quiz → HTML + PDF + index (no creds)
-python generate.py --from-json quiz_raw.json --no-email  # render a quiz Claude already wrote
+python generate.py --sample                          # sample digest → HTML + PDF + index (no creds)
+python generate.py --from-json data.json --no-email  # render a digest Claude already wrote
 ```
 
-The live daily run is driven by the GitHub Action (Claude Code writes the quiz, then
-`generate.py` ships it); locally, `--sample` is the easy way to preview the design.
-Outputs land in `docs/newsletters/<date>/`. Open `docs/index.html` in a browser.
-
-> `python generate.py` with no flags instead calls the **metered Anthropic API**
-> (needs `ANTHROPIC_API_KEY`) — a fallback if you ever prefer pay-as-you-go.
+The live daily run is driven by the GitHub Action (Claude Code writes `data.json`,
+then `generate.py` ships it); locally, `--sample` is the easy way to preview the
+design. Outputs land in `docs/newsletters/<date>/`. Open `docs/index.html` in a browser.
 
 ---
 
 ## 🗂️ How it's wired
 
 ```
-generate.py                 the whole engine (generate → render → archive → email)
-sample_quiz.json            canned data for --sample / dry runs
-requirements.txt            anthropic, playwright, tzdata
+generate.py                 renders + ships a digest (render → archive → email)
+sample_digest.json          canned data for --sample / dry runs
+requirements.txt            playwright, tzdata
 .github/workflows/
-  daily-quiz.yml            the cron + manual "Run workflow" job
+  daily-quiz.yml            the cron + manual "Run workflow" job (holds the bot's prompt)
 docs/                       ← GitHub Pages serves this folder
   index.html                archive homepage (regenerated every run)
-  style.css, app.js         site design (BLUEPRINT) + tiny theme/quiz JS
+  style.css, app.js         site design (BLUEPRINT) + tiny theme toggle
   newsletters/<date>/
-    index.html              the interactive quiz page
-    quiz.pdf                the emailed PDF
-    quiz.json               raw quiz data (also drives the archive index)
+    index.html              the edition's web page
+    digest.pdf              the emailed PDF
+    data.json               the edition's data (also drives the archive index)
 ```
 
-**Flow:** the **Claude Code Action** (your subscription) web-searches the news and
-writes `quiz_raw.json` → `generate.py` validates it and renders an interactive web
-page, a Chromium-printed PDF, and an inline-styled email → saves under `docs/` →
-emails via Gmail SMTP → rebuilds the archive index → the workflow commits & pushes,
-refreshing the website.
+**Flow:** the **Claude Code Action** (your subscription) gathers the postings and
+writes `data.json` → `generate.py` validates it and renders a web page, a
+Chromium-printed PDF, and an inline-styled email → saves under `docs/` → emails via
+Gmail SMTP → rebuilds the archive index → the workflow commits & pushes, refreshing
+the website.

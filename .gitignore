@@ -3,5 +3,6 @@ __pycache__/
 .venv/
 venv/
 .DS_Store
-# transient quiz written by the Claude Code Action, then rendered by generate.py
-quiz_raw.json
+# transient digest written by the Claude Code Action at repo root (leading slash
+# so committed per-edition docs/newsletters/*/data.json are NOT ignored)
+/data.json
