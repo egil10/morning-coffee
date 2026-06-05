@@ -2,10 +2,10 @@ name: Morning Coffee
 
 on:
   schedule:
-    # TEMPORARY TEST — every 10 minutes. When done, delete this line and
-    # uncomment the normal one below.
-    - cron: "*/10 * * * *"
-    # - cron: "0 6 * * 1-5"   # normal: weekdays 06:00 UTC (~07-08 Oslo)
+    # 05:50 UTC = 07:50 in Oslo while it's on CEST (GMT+02, summer).
+    # NOTE: GitHub cron is UTC with no DST. When Oslo returns to CET (GMT+01,
+    # ~late October) this fires at 06:50 local — change to "50 6 * * *" then.
+    - cron: "50 5 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
@@ -53,54 +53,51 @@ jobs:
           name: morning-coffee-preview
           path: docs/newsletters/
 
-      # ---------- live: Claude (your subscription) gathers the jobs, Python ships it ----------
-      - name: Gather job postings with Claude
+      # ---------- live: Claude (your subscription) gathers the headlines, Python ships it ----------
+      - name: Gather top headlines with Claude
         if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}
         uses: anthropics/claude-code-action@v1
         with:
           # Subscription auth — generated locally with `claude setup-token`.
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           # Swap to --model claude-opus-4-8 for richer summaries (uses more of your plan).
-          claude_args: "--allowedTools WebFetch,WebSearch,Write,Read,Edit --max-turns 40 --model claude-sonnet-4-6"
+          claude_args: "--allowedTools WebSearch,WebFetch,Write,Read,Edit --max-turns 30 --model claude-sonnet-4-6"
           prompt: |
-            You are a job-scouting assistant. Using the WebFetch tool, fetch each of
-            these pages and extract the most recent job and internship postings you can
-            actually find on them:
-              - https://bindeleddet.no/jobs/
-              - https://nu.nhhs.no/en/jobs/
-              - https://www.finn.no/job/search?q=finans
+            You are a news editor. Using the WebSearch tool, find the 5 most important
+            news stories from the last 24 hours worldwide — spanning politics, the
+            economy and markets, science and technology, and major world events. Pick
+            the five most significant overall (not five from one topic).
 
-            For each posting capture: the role title, the employer/company, the location
-            and any application deadline, the direct link, and a one-sentence summary.
-            Group postings by source site (about the 6 most recent/relevant per source).
-            Only include postings you genuinely found on the pages — NEVER invent or
-            guess listings. If a page will not load or has nothing usable, include that
-            source with an empty "items" list.
+            For each story capture: a clear headline, the outlet/source, roughly how
+            long ago it broke, a one or two sentence summary of what happened and why it
+            matters, and a link. Only include real stories actually reported in the last
+            24 hours — never invent or pad to reach five.
 
             Save the result with the Write tool to a file named exactly `data.json` in
             the repository root, containing ONLY valid JSON (no markdown, no prose, no
             code fences) in exactly this shape:
             {
-              "title": "Job Radar",
-              "intro": "one or two sentences summarising today's pickings",
+              "title": "Morning Headlines",
+              "intro": "one sentence setting up the day's top stories",
               "sections": [
                 {
-                  "heading": "Bindeleddet",
+                  "heading": "Top 5 · last 24 hours",
                   "items": [
                     {
-                      "title": "role title",
-                      "subtitle": "employer / company",
-                      "meta": "location · deadline (if any)",
-                      "summary": "one sentence on the role",
-                      "url": "direct link to the posting"
+                      "title": "the headline",
+                      "subtitle": "outlet / source",
+                      "meta": "~Xh ago · region or topic",
+                      "summary": "one or two sentences: what happened and why it matters",
+                      "url": "link to the story"
                     }
                   ]
                 }
               ],
-              "sources": ["bindeleddet.no/jobs", "nu.nhhs.no/en/jobs", "finn.no/job (finans)"]
+              "sources": ["outlets you drew from"]
             }
 
-            Do not commit, push, or open a pull request — only write the file.
+            Exactly 5 items, most important first. Do not commit, push, or open a
+            pull request — only write the file.
 
       - name: Render, email & archive
         if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}

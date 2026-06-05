@@ -4,9 +4,8 @@ An **agent test bench**: on a schedule, a GitHub Action runs **Claude Code** (on
 Claude subscription) and ships whatever it produces as an email + a published web
 archive. Swapping the "bot" is just a prompt change in the workflow.
 
-**Currently running — a Job Radar:** each morning it scrapes the latest postings from
-[Bindeleddet](https://bindeleddet.no/jobs/), [NHHS](https://nu.nhhs.no/en/jobs/) and
-[Finn (finans)](https://www.finn.no/job/search?q=finans), summarises them, then:
+**Currently running — Morning Headlines:** each morning it pulls the **top 5 news
+stories from the last 24 hours**, summarises them, then:
 
 - 📧 **emails** you the digest with a **PDF** attached, and
 - 🌐 **publishes** it to a browsable **archive** of every edition.

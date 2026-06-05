@@ -1,27 +1,17 @@
 {
-  "title": "Job Radar (sample)",
-  "intro": "Sample edition for local testing and dry runs — these listings are illustrative, not live scrapes. The live job replaces this with fresh postings each morning.",
+  "title": "Morning Headlines (sample)",
+  "intro": "Sample edition for local testing and dry runs — these headlines are illustrative, not live. The live job replaces this with the real top 5 from the last 24 hours each morning.",
   "sections": [
     {
-      "heading": "Bindeleddet",
+      "heading": "Top 5 · last 24 hours",
       "items": [
-        {"title": "Summer Internship – Investment Banking", "subtitle": "Example Bank ASA", "meta": "Oslo · Deadline 15 Jun", "summary": "Ten-week summer programme for penultimate-year students across M&A and ECM.", "url": "https://bindeleddet.no/jobs/"},
-        {"title": "Graduate Analyst – Strategy", "subtitle": "Example Consulting", "meta": "Oslo · Rolling", "summary": "Entry-level strategy role working across Nordic clients.", "url": "https://bindeleddet.no/jobs/"}
-      ]
-    },
-    {
-      "heading": "NHHS (nu.nhhs.no)",
-      "items": [
-        {"title": "Trainee Programme 2026", "subtitle": "Example Energy", "meta": "Bergen · Deadline 1 Jul", "summary": "Two-year rotational trainee programme spanning finance and operations.", "url": "https://nu.nhhs.no/en/jobs/"}
-      ]
-    },
-    {
-      "heading": "Finn.no — finans",
-      "items": [
-        {"title": "Financial Controller", "subtitle": "Example Group", "meta": "Oslo · Full-time", "summary": "Controller role owning the monthly close and management reporting.", "url": "https://www.finn.no/job/search?q=finans"},
-        {"title": "Junior Risk Analyst", "subtitle": "Example Insurance", "meta": "Remote (Norway) · Deadline 20 Jun", "summary": "Support market- and credit-risk modelling for a mid-size insurer.", "url": "https://www.finn.no/job/search?q=finans"}
+        {"title": "Sample headline one about a major world event", "subtitle": "Example Wire", "meta": "~2h ago · World", "summary": "A placeholder summary of what happened and why it matters.", "url": "https://example.com/1"},
+        {"title": "Sample headline two on markets and the economy", "subtitle": "Example Times", "meta": "~5h ago · Business", "summary": "A placeholder summary of a market-moving development.", "url": "https://example.com/2"},
+        {"title": "Sample headline three from science and tech", "subtitle": "Example Science", "meta": "~8h ago · Science & Tech", "summary": "A placeholder summary of a notable research or product story.", "url": "https://example.com/3"},
+        {"title": "Sample headline four on politics", "subtitle": "Example Post", "meta": "~12h ago · Politics", "summary": "A placeholder summary of a political development and its stakes.", "url": "https://example.com/4"},
+        {"title": "Sample headline five, a notable culture or sport story", "subtitle": "Example Daily", "meta": "~18h ago · Culture", "summary": "A placeholder summary of a widely covered story.", "url": "https://example.com/5"}
       ]
     }
   ],
-  "sources": ["bindeleddet.no/jobs", "nu.nhhs.no/en/jobs", "finn.no/job (finans)"]
+  "sources": ["Example Wire", "Example Times", "Example Science"]
 }
