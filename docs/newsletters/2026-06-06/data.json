@@ -1,0 +1,60 @@
+{
+  "title": "Morning Headlines",
+  "intro": "Gulf ceasefire tensions reach a new breaking point, U.S. lawmakers lock in $70 billion for border enforcement, Ukraine strikes deep into Russia, and artificial intelligence delivers a vaccine milestone.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Iran-Gulf war: US strikes Qeshm Island as Kuwait airport is hit and ceasefire talks collapse",
+          "subtitle": "Washington Post / Al Jazeera",
+          "meta": "~3 days ago · Middle East",
+          "summary": "Iran fired missiles and drones at U.S. bases in Kuwait and Bahrain, killing one person and badly damaging Kuwait's international airport; the U.S. responded by striking an Iranian military facility on Qeshm Island. Ceasefire negotiations have since broken down, with Tehran suspending contact with mediators, raising fears of further escalation.",
+          "url": "https://www.washingtonpost.com/world/2026/06/03/us-iran-trade-strikes-kuwait-airport-hit-amid-stalled-peace-talks/"
+        },
+        {
+          "title": "Strait of Hormuz shipping paralysis enters fourth month, oil markets under historic strain",
+          "subtitle": "Gulf News / IEA",
+          "meta": "ongoing · Global Economy",
+          "summary": "The world's most critical oil chokepoint is operating at a fraction of normal capacity, with the IEA calling it the largest supply disruption in the history of the global oil market. Over 1,550 vessels and 22,500 mariners remain stranded as Brent crude hovers near multi-year highs and global supply chains reroute at enormous cost.",
+          "url": "https://gulfnews.com/world/mena/three-months-of-paralysis-strait-of-hormuz-remains-a-ghost-route-1.500560668"
+        },
+        {
+          "title": "Ukraine strikes St. Petersburg oil terminal hours before Putin opens flagship economic forum",
+          "subtitle": "NPR / CNN",
+          "meta": "~3 days ago · Europe",
+          "summary": "Ukrainian long-range drones flew more than 1,000 km to hit one of Russia's largest oil transshipment terminals in St. Petersburg, setting it ablaze just as Vladimir Putin opened the city's annual international economic forum. A separate drone strike also damaged a Russian guided-missile corvette at Kronstadt naval base.",
+          "url": "https://www.npr.org/2026/06/03/nx-s1-5844793/ukrainian-drones-hit-st-petersburg"
+        },
+        {
+          "title": "US Senate passes $70 billion immigration enforcement bill in overnight vote",
+          "subtitle": "NPR / CNBC",
+          "meta": "~18h ago · U.S. Politics",
+          "summary": "Senators voted 52–47 to fund ICE and the Border Patrol for three years, overcoming a Republican rebellion over an unrelated $1.8 billion Justice Department settlement fund that nearly derailed the bill. The legislation now heads to a House that has already left for the weekend.",
+          "url": "https://www.cnbc.com/2026/06/05/senate-passes-70-billion-in-new-funds-for-ice-border-patrol.html"
+        },
+        {
+          "title": "AI-designed 'universal' coronavirus vaccine passes its first human trial",
+          "subtitle": "ScienceDaily / pharmaphorum",
+          "meta": "~1 day ago · Science & Technology",
+          "summary": "Cambridge University researchers reported that an AI-designed vaccine candidate produced safe, broad immune responses against SARS-CoV-2 and related bat coronaviruses not yet known to infect humans — the first time a vaccine designed entirely by artificial intelligence has completed a human trial. A larger Phase 2 efficacy study is now being planned.",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260605023357.htm"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Washington Post",
+    "Al Jazeera",
+    "Gulf News",
+    "IEA",
+    "NPR",
+    "CNN",
+    "CNBC",
+    "ScienceDaily",
+    "pharmaphorum"
+  ],
+  "date": "2026-06-06",
+  "pretty": "Saturday, 06 June 2026",
+  "generated_at": "2026-06-06 10:21 CEST"
+}
