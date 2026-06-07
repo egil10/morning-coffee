@@ -1,0 +1,60 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A Sunday of high-stakes elections and an escalating Gulf conflict dominates a packed news day, with a landmark science milestone rounding out the week.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Iran Fires Missiles at Kuwait and Bahrain After US Strikes Iranian Radar Sites",
+          "subtitle": "Al Jazeera / Gulf News",
+          "meta": "~1d ago · Middle East",
+          "summary": "Iran launched ballistic missiles at Gulf states Kuwait and Bahrain after the US struck Iranian radar and surveillance sites near the Strait of Hormuz, with six of seven missiles intercepted. The attack marks a sharp escalation in the US-Iran conflict that began in February, rattling Gulf allies and keeping the Strait — a chokepoint for global oil — effectively closed.",
+          "url": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon"
+        },
+        {
+          "title": "Armenia Goes to the Polls in Election That Could Seal Break with Russia",
+          "subtitle": "Bloomberg",
+          "meta": "~today · Eastern Europe / Geopolitics",
+          "summary": "Armenians are voting in parliamentary elections on June 7 to decide whether PM Nikol Pashinyan wins a mandate to pivot the country toward the EU and away from Moscow, a historic realignment backed publicly by the European Union. Russia has reportedly been running covert operations to undermine Pashinyan, making the result a bellwether for the Russia-West struggle over post-Soviet states.",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-07/armenia-holds-parliamentary-election-with-russia-ties-in-focus"
+        },
+        {
+          "title": "Peru Holds Polarised Presidential Run-Off Between Fujimori and Leftist Sánchez",
+          "subtitle": "Al Jazeera",
+          "meta": "~today · Latin America",
+          "summary": "Peruvians are voting today in a statistically tied run-off between hard-right Keiko Fujimori and leftist Roberto Sánchez, with 13 percent of voters still undecided heading into polling day. The outcome will set the direction of Latin America's sixth-largest economy, with deep divisions over economic management, security, and democratic norms.",
+          "url": "https://www.aljazeera.com/news/2026/6/5/fujimori-vs-sanchez-what-to-know-about-perus-presidential-run-off-election"
+        },
+        {
+          "title": "US Adds 172,000 Jobs in May, More Than Doubling Forecasts",
+          "subtitle": "NPR / Bloomberg",
+          "meta": "~2d ago · Economy",
+          "summary": "The May jobs report beat economist expectations of 85,000 by a wide margin, with leisure and hospitality — buoyed partly by World Cup hiring — leading gains, while the unemployment rate held at 4.3%. Despite the strong headline number, core inflation at 3.3% is fuelling debate about whether the Fed will be forced to raise rates later this year.",
+          "url": "https://www.npr.org/2026/06/05/nx-s1-5847669/jobs-labor-market-unemployment-wages-inflation"
+        },
+        {
+          "title": "AI-Designed 'Universal' Coronavirus Vaccine Passes First Human Trial",
+          "subtitle": "pharmaphorum / Journal of Infection",
+          "meta": "~2d ago · Science & Health",
+          "summary": "Researchers announced that pEVAC-PS, a needle-free DNA vaccine designed entirely by AI using global coronavirus surveillance data, proved safe and stimulated immune responses against not only COVID-19 and SARS but also related bat viruses that have never infected humans. It is the first AI-designed vaccine to reach human testing and is now heading to a larger Phase 2 trial.",
+          "url": "https://pharmaphorum.com/news/first-human-trial-backs-ai-designed-universal-vaccine"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Al Jazeera",
+    "Gulf News",
+    "Bloomberg",
+    "NPR",
+    "pharmaphorum",
+    "ScienceDaily",
+    "Fox Business",
+    "CNBC",
+    "Euronews"
+  ],
+  "date": "2026-06-07",
+  "pretty": "Sunday, 07 June 2026",
+  "generated_at": "2026-06-07 10:43 CEST"
+}
