@@ -1,0 +1,61 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A major earthquake in the Philippines, Russian drone strikes on a Chornobyl nuclear site, a high-stakes Ukraine summit in London, a blowout US jobs report rattling Wall Street, and a landmark cancer study headline the past 24 hours.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "7.8-Magnitude Earthquake Strikes Philippines, Killing at Least 19 and Triggering Tsunami Warnings",
+          "subtitle": "NPR / Al Jazeera",
+          "meta": "~24h ago · Asia-Pacific",
+          "summary": "A powerful offshore quake hit southern Mindanao early Monday, killing at least 19 people, injuring more than 200, and sending a 1-meter tsunami into coastal villages. President Marcos declared emergency status, shut schools for 3.2 million students, and aftershocks as strong as 6.5 magnitude continued for hours.",
+          "url": "https://www.npr.org/2026/06/07/g-s1-126830/7-8-magnitude-quake-hits-southern-philippines-tsunami-risk-for-some-coasts"
+        },
+        {
+          "title": "Zelenskyy Meets Starmer, Macron, and Merz in London to Escalate Military Support",
+          "subtitle": "NBC News",
+          "meta": "~12h ago · Europe / Diplomacy",
+          "summary": "Ukraine's top Western allies gathered in London to agree on scaling up interceptor production and co-developing anti-ballistic missile and deep-strike capabilities, the most concrete commitment to offensive aid since Russia fired Oreshnik hypersonic missiles at Ukrainian cities. The summit signals a shift from defensive to offensive posture among Ukraine's backers.",
+          "url": "https://www.nbcnews.com/world/russia-ukraine-news"
+        },
+        {
+          "title": "Russian Drone Strikes Chornobyl Nuclear-Waste Storage Facility",
+          "subtitle": "Kyiv Post / Institute for the Study of War",
+          "meta": "~18h ago · Europe / War",
+          "summary": "A Russian Shahed-type drone struck a nuclear-waste storage site near the Chornobyl Nuclear Power Plant in Kyiv Oblast overnight, while a barrage of 236 drones targeted cities across Ukraine. The Chornobyl strike raises immediate radiological concerns and follows Russia attacking two Ukrainian civilian search-and-rescue vessels in the Black Sea.",
+          "url": "https://www.kyivpost.com/post/77708"
+        },
+        {
+          "title": "US May Jobs Report Doubles Expectations, Sending Stocks and Rate-Cut Hopes Lower",
+          "subtitle": "Yahoo Finance / CNBC / Charles Schwab",
+          "meta": "~6h ago · US Economy",
+          "summary": "The US economy added 172,000 jobs in May—roughly twice what analysts forecast—while unemployment held at 4.3%, triggering a 'good news is bad news' market reaction: S&P 500 futures fell ~2.6%, Nasdaq futures dropped ~4.8%, and the 10-year Treasury yield surged to 4.54% as traders shelved Federal Reserve rate-cut bets.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080620478.html"
+        },
+        {
+          "title": "GLP-1 Drugs Like Ozempic and Wegovy Linked to 30% Lower Breast Cancer Risk in Large Study",
+          "subtitle": "Science News / SciTechDaily",
+          "meta": "~24h ago · Health / Science",
+          "summary": "A large observational study found women taking GLP-1 receptor agonists—the drug class behind Ozempic, Wegovy, and Mounjaro—were about 30% less likely to develop breast cancer than comparable non-users. The finding adds to growing evidence that this class of diabetes and weight-loss drugs may have broad anti-cancer properties.",
+          "url": "https://www.sciencenews.org/sn-magazine/june-2026"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "NPR",
+    "Al Jazeera",
+    "NBC News",
+    "Kyiv Post",
+    "Institute for the Study of War",
+    "Yahoo Finance",
+    "CNBC",
+    "Charles Schwab",
+    "Science News",
+    "SciTechDaily"
+  ],
+  "date": "2026-06-08",
+  "pretty": "Monday, 08 June 2026",
+  "generated_at": "2026-06-08 12:11 CEST"
+}
