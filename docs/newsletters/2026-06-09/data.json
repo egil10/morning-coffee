@@ -1,0 +1,60 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A fragile Middle East ceasefire crumbles under the heaviest strikes in months, a deadly Philippine earthquake triggers a Pacific tsunami, and an accelerating Ebola outbreak with no approved vaccine tests global health defenses.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Iran–Israel Ceasefire Falters as Both Sides Trade Worst Strikes Since April",
+          "subtitle": "CNN",
+          "meta": "~24h ago · Middle East",
+          "summary": "The US-brokered ceasefire between Israel and Iran has effectively broken down, with both sides exchanging their most severe strikes since negotiations began; Trump vowed the US naval blockade would remain 'in full force' until a final peace deal is signed, while a senior Iranian official told CNN that Tehran doubts US sincerity. The conflict, which began in February 2026, now risks re-escalating into open war.",
+          "url": "https://www.cnn.com/2026/06/07/world/live-news/iran-war-trump-israel-lebanon"
+        },
+        {
+          "title": "7.8 Earthquake Kills at Least 32 in Southern Philippines, Triggers Tsunami Waves",
+          "subtitle": "Al Jazeera / CBS News",
+          "meta": "~24h ago · Asia-Pacific",
+          "summary": "A powerful offshore quake struck southern Mindanao, killing at least 32 people, injuring more than 200, and sending a 3-foot tsunami into nearby coastlines, with smaller waves recorded as far as Indonesia and southern Japan. General Santos City, population 722,000, sustained serious damage and aftershocks as strong as magnitude 6.5 continued through the day.",
+          "url": "https://www.aljazeera.com/news/2026/6/8/tsunami-warnings-issued-after-8-2-magnitude-earthquake-off-philippines"
+        },
+        {
+          "title": "DRC Ebola Outbreak Spreading at 'Unprecedented Pace,' Africa CDC Warns",
+          "subtitle": "NPR / CDC",
+          "meta": "~18h ago · Africa",
+          "summary": "The Bundibugyo strain of Ebola—for which there is no approved vaccine or treatment—has reached 515 confirmed cases across 17 health zones in Ituri and spread into North and South Kivu provinces, with Uganda recording 19 additional cases. The US CDC projects a 65% chance case counts will exceed 20,000 within three months if isolation rates remain low.",
+          "url": "https://www.npr.org/2026/06/08/nx-s1-5849203/ebola-outbreak-drc-africa-cdc"
+        },
+        {
+          "title": "Apple Unveils 'Siri AI' Powered by Google Gemini at WWDC 2026",
+          "subtitle": "TechCrunch / CNBC",
+          "meta": "~20h ago · Technology",
+          "summary": "Apple debuted a fully rebuilt assistant branded 'Siri AI' at its annual developers conference, integrating Google Gemini for deeper conversational capability, system-wide context awareness, and a new standalone app, alongside iOS 27 and macOS Golden Gate. The feature won't reach EU or China customers at launch due to regulatory hurdles, and Apple's share price slipped nearly 2% on the news.",
+          "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/"
+        },
+        {
+          "title": "Markets Rebound on Chip Rally, but Rising Treasury Yields and CPI Data Keep Rate-Hike Fears Alive",
+          "subtitle": "Charles Schwab / TheStreet",
+          "meta": "~12h ago · Markets",
+          "summary": "US equities recovered Monday—Nasdaq +1.4%, S&P 500 +0.9%—led by Marvell (+9%) and Micron (+7%) after Friday's 4% Nasdaq plunge, which was sparked by a blowout jobs report and weak Broadcom guidance. The 10-year Treasury yield held near 4.56% and markets now price a 72% chance of at least one Fed rate hike this year, making Tuesday's CPI print the week's pivotal risk event.",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CNN",
+    "Al Jazeera",
+    "CBS News",
+    "NPR",
+    "CDC",
+    "TechCrunch",
+    "CNBC",
+    "Charles Schwab",
+    "TheStreet"
+  ],
+  "date": "2026-06-09",
+  "pretty": "Tuesday, 09 June 2026",
+  "generated_at": "2026-06-09 10:54 CEST"
+}
