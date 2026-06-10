@@ -1,0 +1,58 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A US-Iran military exchange dominates a volatile Tuesday, rattling global energy markets, while domestic politics and international unrest add to a turbulent 24 hours.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "US Strikes Iran After Apache Helicopter Is Downed Near Strait of Hormuz",
+          "subtitle": "NPR / NBC News / Al Jazeera",
+          "meta": "~18h ago · Middle East / Geopolitics",
+          "summary": "Iran shot down a US Army Apache helicopter patrolling the Strait of Hormuz on Monday; CENTCOM launched retaliatory strikes against Iranian air-defense and radar sites Tuesday. Iran then escalated further, targeting air bases and infrastructure in Bahrain, Kuwait, and Jordan — marking one of the most direct US-Iran military confrontations in years.",
+          "url": "https://www.npr.org/2026/06/09/nx-s1-5851845/trump-confirms-iran-shot-down-helicopter-says-u-s-must-respond"
+        },
+        {
+          "title": "Strait of Hormuz Effectively Closed as US-Iran Dual Blockade Disrupts Global Energy",
+          "subtitle": "CNBC",
+          "meta": "~18h ago · Markets / Energy",
+          "summary": "The Strait of Hormuz — through which roughly 20% of global oil transits — is effectively shut under a dual US-Iran blockade, sending shockwaves through energy markets. OPEC+ approved a 188,000 bpd July production increase to offset disruptions, but analysts warn supply shortfalls could deepen if the closure persists.",
+          "url": "https://www.cnbc.com/2026/06/09/trump-iran-helicopter-hormuz-strait.html"
+        },
+        {
+          "title": "Anti-Immigration Riots Erupt Across Belfast, Spread to Scotland and England",
+          "subtitle": "NPR / CBS News",
+          "meta": "~12h ago · Europe / UK",
+          "summary": "A brutal stabbing in north Belfast attributed to a Sudanese man sparked overnight riots: buses and cars were torched, and foreign-owned shops were attacked. Violence spread to Glasgow, Edinburgh, and Southampton, prompting PM Keir Starmer and Northern Ireland First Minister Michelle O'Neill to condemn what they called cowardly far-right disorder.",
+          "url": "https://www.npr.org/2026/06/10/nx-s1-5852968/uk-anti-immigration-protests-belfast"
+        },
+        {
+          "title": "US House Passes $70 Billion Immigration Enforcement Package 214–212",
+          "subtitle": "NPR / The Washington Post",
+          "meta": "~18h ago · US Politics",
+          "summary": "The House narrowly passed a bill providing $38 billion for ICE, $26 billion for Border Patrol, and $5 billion in contingency funds — locking in immigration enforcement funding through the rest of the Trump presidency. The near party-line vote sends the measure to Trump for signature and extends the administration's deportation agenda into 2029.",
+          "url": "https://www.npr.org/2026/06/09/nx-s1-5851664/house-reconciliation-vote-immigration-enforcement-ice-border-patrol"
+        },
+        {
+          "title": "FIFA World Cup 2026 Opens Across Three Nations with Star-Studded Ceremonies",
+          "subtitle": "Al Jazeera / FIFA",
+          "meta": "~6h ago · Sports / Global",
+          "summary": "The 2026 World Cup — the largest in history at 48 teams — officially launched with opening ceremonies in the United States, Canada, and Mexico, headlined by Shakira at Estadio Azteca. The tournament kicks off June 11 with Mexico vs. South Africa, making Azteca the first stadium ever to host three World Cup openers.",
+          "url": "https://www.aljazeera.com/sports/2026/6/9/world-cup-opening-ceremony-whos-performing-when-it-starts-how-to-watch"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "NPR",
+    "NBC News",
+    "The Washington Post",
+    "Al Jazeera",
+    "CNBC",
+    "CBS News",
+    "ABC7"
+  ],
+  "date": "2026-06-10",
+  "pretty": "Wednesday, 10 June 2026",
+  "generated_at": "2026-06-10 11:36 CEST"
+}
