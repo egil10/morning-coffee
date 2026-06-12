@@ -1,0 +1,60 @@
+{
+  "title": "Morning Headlines",
+  "intro": "SpaceX makes history on Wall Street as geopolitical and economic tremors reverberate worldwide — from an unresolved Iran war ceasefire claim to a fresh World Bank growth alarm.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "SpaceX Begins Nasdaq Trading in Record-Breaking $75 Billion IPO",
+          "subtitle": "NPR / Bloomberg / Axios",
+          "meta": "~12h ago · Markets",
+          "summary": "Elon Musk's SpaceX priced 555 million shares at $135 each, raising $75 billion — nearly three times Saudi Aramco's 2019 record — and began trading today under ticker SPCX at a $1.75 trillion valuation. The listing is the first of a trio of anticipated AI mega-IPOs, with OpenAI and Anthropic also having filed SEC paperwork for their own debuts.",
+          "url": "https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk"
+        },
+        {
+          "title": "Trump Claims Iran War Has Ended; Tehran Disputes Any Final Deal",
+          "subtitle": "Axios / Sunday Guardian Live",
+          "meta": "~6h ago · Geopolitics",
+          "summary": "President Trump posted on Truth Social that 'the war with Iran has ended today' and that Iran agreed never to pursue a nuclear weapon, suggesting a signing ceremony in Europe is imminent. Iran's foreign ministry denied any finalized agreement, calling reports 'speculative,' leaving the status of a reported 60-day memorandum of understanding unresolved.",
+          "url": "https://sundayguardianlive.com/world/us-israel-iran-war-news-trump-says-iran-war-has-ended-today-amid-us-iran-nuclear-deal-completion-claims-iran-rejects-final-agreement-205437/"
+        },
+        {
+          "title": "World Bank Cuts 2026 Global Growth Forecast to Post-Pandemic Low of 2.5%",
+          "subtitle": "Reuters / Investing.com",
+          "meta": "~18h ago · Economy",
+          "summary": "The World Bank slashed its 2026 global growth forecast to 2.5% — the weakest since the COVID pandemic — citing energy price spikes and financial stress caused by the Iran war. In a severe downside scenario the bank warned growth could collapse to 1.3%, with developing economies and the Middle East region hit hardest.",
+          "url": "https://www.investing.com/news/economy-news/world-bank-lowers-2026-global-growth-forecast-to-25-4737603"
+        },
+        {
+          "title": "FIFA World Cup 2026 Kicks Off Across North America",
+          "subtitle": "ESPN",
+          "meta": "~20h ago · World Events",
+          "summary": "The most-watched sporting event in history opened on June 11 with matches spread across 16 cities in the United States, Mexico, and Canada — the first World Cup jointly hosted by three nations. Mexico defeated South Africa 2-0 in the tournament opener, with South Korea also claiming a win on day one.",
+          "url": "https://www.espn.com/soccer/story/_/id/49038092/world-cup-2026-today-blog-12-06-2026-live-updates-news-fixtures-schedule-results-mexico-south-korea"
+        },
+        {
+          "title": "Second Night of Anti-Immigrant Violence Erupts in Belfast",
+          "subtitle": "Morning Star / Foreign Exchanges",
+          "meta": "~22h ago · Europe",
+          "summary": "Protesters set fires and hurled bricks and bottles at police in Belfast for a second consecutive night after a stabbing triggered a wave of anti-immigrant unrest in Northern Ireland. The riots drew comparisons to the 2024 Southport riots in England and have raised alarm about the spread of far-right mobilisation across the UK.",
+          "url": "https://morningstaronline.co.uk/article/world-brief-june-11-2026"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "NPR",
+    "Bloomberg",
+    "Axios",
+    "Sunday Guardian Live",
+    "Reuters",
+    "Investing.com",
+    "ESPN",
+    "Morning Star",
+    "Foreign Exchanges"
+  ],
+  "date": "2026-06-12",
+  "pretty": "Friday, 12 June 2026",
+  "generated_at": "2026-06-12 11:50 CEST"
+}
