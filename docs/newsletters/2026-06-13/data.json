@@ -1,0 +1,58 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A potential US-Iran peace deal dominates the day as diplomatic breakthroughs and clean-energy milestones round out a consequential Friday.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Pakistan declares 'final, agreed text' of US-Iran peace deal reached as US downs Iranian drones",
+          "subtitle": "CBS News / ABC News",
+          "meta": "~12h ago · Middle East",
+          "summary": "Pakistan's prime minister announced that negotiators have agreed on a final text to end the US-Iran war that began in February 2026, with Iran committing to never develop nuclear weapons in exchange for sanctions relief and the reopening of the Strait of Hormuz; US forces shot down multiple Iranian attack drones in the same hours, underscoring the fragility of the moment.",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement/"
+        },
+        {
+          "title": "EU unblocks Ukraine and Moldova membership talks after Hungary drops veto",
+          "subtitle": "Euronews / The Washington Post",
+          "meta": "~20h ago · Europe",
+          "summary": "EU ambassadors unanimously agreed to open the first cluster of accession negotiations with Ukraine and Moldova, with formal talks set for June 15 in Luxembourg; the breakthrough follows Hungary lifting its two-year veto after Kyiv agreed to a minority-rights action plan, marking the most significant step yet toward Ukraine's eventual EU membership.",
+          "url": "https://www.euronews.com/my-europe/2026/06/12/eu-countries-reach-deal-to-unblock-accession-talks-with-ukraine-and-moldova"
+        },
+        {
+          "title": "World's first large-scale hydrogen engine feeds electricity into a national grid",
+          "subtitle": "Euronews",
+          "meta": "~6h ago · Technology / Energy",
+          "summary": "A pure-hydrogen combustion engine built by Finland's Wärtsilä successfully supplied power to Spain's national grid — a world first for large-scale hydrogen power generation — demonstrating a potential solution to the intermittency problem that has limited renewable energy expansion.",
+          "url": "https://www.euronews.com/next/2026/06/13/worlds-first-large-scale-hydrogen-engine-starts-generating-electricity"
+        },
+        {
+          "title": "Oil falls toward $85 on Iran deal hopes; equities gain ahead of first Warsh Fed decision",
+          "subtitle": "Charles Schwab / Bloomberg",
+          "meta": "~8h ago · Markets",
+          "summary": "Crude oil dropped roughly 2% as traders priced in an imminent reopening of the Strait of Hormuz; global equity markets extended gains on the same optimism ahead of Wednesday's Federal Reserve rate decision, the first chaired by new Chair Kevin Warsh, where a rate increase is widely expected after last week's stronger-than-expected jobs report.",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "title": "Poland's F-35 'Hussarz' jets officially enter service with ceremonial flyover of major cities",
+          "subtitle": "Euronews",
+          "meta": "~24h ago · Defense / NATO",
+          "summary": "Poland formally commissioned its first three F-35A stealth fighters at Łask Air Base, followed by a flypast over Warsaw, Gdańsk, Kraków, and Łódź; the jets, nicknamed 'Hussarz,' are part of a 32-aircraft, $4.6 billion order and mark a major step in reinforcing NATO's eastern flank.",
+          "url": "https://www.euronews.com/my-europe/2026/06/12/hussarz-roar-over-poland-as-first-f-35s-officially-enter-service"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CBS News",
+    "ABC News",
+    "Euronews",
+    "The Washington Post",
+    "Radio Free Europe/Radio Liberty",
+    "Charles Schwab",
+    "Bloomberg"
+  ],
+  "date": "2026-06-13",
+  "pretty": "Saturday, 13 June 2026",
+  "generated_at": "2026-06-13 10:44 CEST"
+}
