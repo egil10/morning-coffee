@@ -1,0 +1,61 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A possible U.S.-Iran peace deal that could reopen the Strait of Hormuz tops a packed Sunday, alongside a joint strike on a major gang leader, World Cup drama, and a landmark physics result.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Trump Says Iran Peace Deal Set for Today; Tehran Disputes Timing",
+          "subtitle": "Al Jazeera / CBS News / NPR",
+          "meta": "~12h ago · Middle East",
+          "summary": "President Trump declared on Truth Social that a ceasefire agreement with Iran — including immediate reopening of the Strait of Hormuz and steps to dismantle Iran's nuclear program — would be signed Sunday, while Iranian officials said a finalized pact was unlikely so soon. The deal, brokered with Pakistani mediation, would end a conflict that has roiled global energy markets since earlier this year.",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution"
+        },
+        {
+          "title": "U.S. and Venezuela Kill Top Tren de Aragua Leader in Joint Strike",
+          "subtitle": "CBS News / CNN / NPR",
+          "meta": "~36h ago · Latin America",
+          "summary": "A joint U.S.-Venezuela military operation killed Hector Rusthenford Guerrero Flores — 'Niño Guerrero' — who led the Tren de Aragua transnational gang for over a decade, growing it from a Venezuelan prison gang into a criminal network spanning the Americas, with CIA intelligence support. The strike signals an unusual level of security cooperation between Washington and Caracas.",
+          "url": "https://www.cbsnews.com/news/trump-says-u-s-killed-tren-de-aragua-leader-airstrike-nino-guerrero/"
+        },
+        {
+          "title": "Crude Oil Slides 2%, Markets Rally as Iran Deal Nears",
+          "subtitle": "CNBC / Charles Schwab",
+          "meta": "~12h ago · Economy & Markets",
+          "summary": "Global equities posted weekly gains and crude oil fell roughly 2% to near $85 a barrel as investors priced in the potential lifting of Iran oil sanctions and reopening of the Strait of Hormuz, a chokepoint for roughly 20% of global seaborne oil. A finalized deal would represent the most significant shift in global energy supply this year.",
+          "url": "https://www.cnbc.com/amp/2026/06/13/trump-iran-deal-strait-of-hormuz.html"
+        },
+        {
+          "title": "Scotland Win First World Cup Match in 36 Years, Beating Haiti 1-0",
+          "subtitle": "ESPN",
+          "meta": "~6h ago · Sports / World Cup 2026",
+          "summary": "John McGinn's deflected strike gave Scotland a historic 1-0 victory over Haiti on Day 4 of the FIFA World Cup, ending a 36-year drought stretching back to 1990. Brazil and Morocco drew 0-0 in the day's other marquee fixture, with Germany, the Netherlands, and Ivory Coast also in action.",
+          "url": "https://www.espn.com/soccer/story/_/id/49058587/world-cup-2026-today-blog-14-06-2026-live-updates-news-fixtures-schedule-results-scotland-win-brazil-morocco-draw"
+        },
+        {
+          "title": "China's JUNO Observatory Publishes Landmark Neutrino Results in Nature",
+          "subtitle": "ScienceDaily / Scientific American / Nature",
+          "meta": "~2d ago · Science",
+          "summary": "The Jiangmen Underground Neutrino Observatory in China released its debut physics results in Nature, refining neutrino oscillation measurements by a factor of 1.6 over all prior experiments combined — using just 59 days of data from a detector the size of a ten-story building. The result puts JUNO on track to resolve which type of neutrino is lightest, one of the biggest open questions in particle physics.",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260612032026.htm"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Al Jazeera",
+    "CBS News",
+    "CNN",
+    "NPR",
+    "CNBC",
+    "Charles Schwab",
+    "ESPN",
+    "ScienceDaily",
+    "Scientific American",
+    "Nature"
+  ],
+  "date": "2026-06-14",
+  "pretty": "Sunday, 14 June 2026",
+  "generated_at": "2026-06-14 11:00 CEST"
+}
