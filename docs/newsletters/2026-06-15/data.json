@@ -1,0 +1,62 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A landmark US-Iran ceasefire deal dominates June 15 as world leaders gather for the G7 in France, while Russia unleashes its most destructive missile barrage of the year on Kyiv.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "US and Iran Reach Deal to End War, Reopen Strait of Hormuz",
+          "subtitle": "NPR / PBS NewsHour",
+          "meta": "~12h ago · Middle East & geopolitics",
+          "summary": "President Trump announced an agreement with Tehran to end more than three months of war and reopen the Strait of Hormuz to commercial shipping, with a formal signing set for Friday in Switzerland. The deal, which would halt the US naval blockade of Iranian ports, sent oil prices to three-month lows and triggered a broad global market rally, though Iran and the US still have conflicting statements on the terms of subsequent nuclear negotiations.",
+          "url": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates"
+        },
+        {
+          "title": "Russia Fires 611 Drones and 70 Missiles at Ukraine; Kyiv's Pechersk Lavra Set Ablaze",
+          "subtitle": "CNN / Kyiv Independent",
+          "meta": "~14h ago · Ukraine war",
+          "summary": "One of the largest single barrages of the war struck Kyiv overnight, killing at least 5 rescuers in Kharkiv, wounding more than 20 in the capital, and igniting a fire that destroyed roughly 800 square metres of the roof of the Dormition Cathedral at the UNESCO-listed Kyiv Pechersk Lavra monastery, leaving 140,000 households without power. Russia denied hitting the centuries-old religious site, claiming a US-made Patriot missile caused the damage.",
+          "url": "https://www.cnn.com/2026/06/14/europe/kyiv-pechersk-lavra-monastery-fire-russian-attack-intl-hnk"
+        },
+        {
+          "title": "G7 Leaders Convene in Evian to Secure Iran Deal and Address Lebanon Crisis",
+          "subtitle": "France 24 / ABC News",
+          "meta": "~8h ago · Diplomacy",
+          "summary": "French President Macron opened the G7 summit in Evian with the US-Iran ceasefire top of the agenda, pressing allies to lock in a durable reopening of the Strait of Hormuz, coordinate support for Lebanese sovereignty, and push for binding curbs on Iran's nuclear and ballistic-missile programmes. Trump is attending his first G7 since the Iran conflict began, giving the summit unusual weight.",
+          "url": "https://www.france24.com/en/europe/20260615-trump-to"
+        },
+        {
+          "title": "Oil Sinks to Three-Month Lows as Markets Rally on Iran Ceasefire",
+          "subtitle": "Yahoo Finance / CNBC",
+          "meta": "~6h ago · Markets & economy",
+          "summary": "Global equities surged and crude oil prices fell sharply after the Iran deal announcement, with S&P futures rising more than 1% and Nasdaq futures gaining 1.7% at the open on Monday, reflecting the relief that the world's most critical oil shipping lane is set to reopen. The rally comes just ahead of the June 16–17 FOMC meeting, at which the Fed is widely expected to hold rates steady at 3.50–3.75% and release updated economic projections.",
+          "url": "https://finance.yahoo.com/economy/policy/articles/monday-june-15-2026-224300338.html"
+        },
+        {
+          "title": "FIFA World Cup 2026: Germany Rout Curaçao 7–1 as Group Stage Hits Full Stride",
+          "subtitle": "Olympics.com / Fox Sports",
+          "meta": "~18h ago · Sport & culture",
+          "summary": "Kai Havertz scored twice and Germany ran out emphatic 7–1 winners over first-timers Curaçao on Sunday, one of several group-stage matches across the expanded 48-team tournament being co-hosted by the United States, Canada, and Mexico. The Netherlands and Côte d'Ivoire also opened their campaigns on Day 4, with the World Cup already drawing record global viewership.",
+          "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-every-match-result-sunday-14-june-live-scores"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "NPR",
+    "PBS NewsHour",
+    "CNN",
+    "Kyiv Independent",
+    "France 24",
+    "ABC News",
+    "Yahoo Finance",
+    "CNBC",
+    "Olympics.com",
+    "Radio Free Europe/Radio Liberty",
+    "NBC News"
+  ],
+  "date": "2026-06-15",
+  "pretty": "Monday, 15 June 2026",
+  "generated_at": "2026-06-15 13:40 CEST"
+}
