@@ -1,0 +1,61 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A landmark US-Iran ceasefire reshapes global geopolitics as G7 leaders convene in France, oil markets swing sharply, a Norwegian royal scandal reaches its verdict, and the 2026 World Cup delivers its first major shocks.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "U.S. and Iran Sign Framework Deal to End War and Reopen the Strait of Hormuz",
+          "subtitle": "NPR / NBC News / CNN",
+          "meta": "~24h ago · Middle East & Global",
+          "summary": "President Trump and VP Vance virtually signed an agreement with Iran to immediately halt all military operations, lift the US naval blockade, and reopen the Strait of Hormuz, with 60 days of nuclear negotiations to follow. The deal, brokered with Pakistan as mediator, ends a nearly four-month conflict that killed thousands and severed a chokepoint carrying roughly 20% of the world's traded oil.",
+          "url": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates"
+        },
+        {
+          "title": "G7 Leaders Open Summit in France With Iran Deal and Ukraine War Topping the Agenda",
+          "subtitle": "NPR / France 24",
+          "meta": "~12h ago · Diplomacy",
+          "summary": "World leaders gathered today in Évian-les-Bains for the 52nd G7 Summit, with French President Macron calling the US-Iran pact 'a very important step for peace' even as Trump faces sharp criticism from European allies who were not consulted before the US went to war with Iran. Ukraine's future and trade remain on the agenda for the three-day summit.",
+          "url": "https://www.npr.org/2026/06/16/g-s1-128325/g7-leaders-summit"
+        },
+        {
+          "title": "Oil Falls Below $100 a Barrel as Global Markets Rally on Iran Ceasefire",
+          "subtitle": "Bloomberg / IG International",
+          "meta": "~12h ago · Markets & Economy",
+          "summary": "Brent crude dropped nearly 5% on the Iran ceasefire news, slipping below $100 a barrel for the first time in months, while equities and bonds surged worldwide. Analysts caution that the IEA estimates over 14 million barrels per day of supply remain shut in, and that global trade flows through Hormuz will take months to normalize even after mine-clearance is complete.",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-15/us-and-iran-say-they-ve-agreed-deal-to-reopen-hormuz-this-week"
+        },
+        {
+          "title": "Norwegian Crown Princess's Son Sentenced to 4 Years in Prison for Rape",
+          "subtitle": "CBS News / NPR / Euronews",
+          "meta": "~24h ago · Europe",
+          "summary": "An Oslo court convicted Marius Borg Høiby, 29 — the son of Crown Princess Mette-Marit and stepson of heir-to-the-throne Crown Prince Haakon — on two counts of rape and 32 additional offences including repeated domestic abuse, sending shockwaves through the Norwegian monarchy. Høiby's lawyers said he will appeal the rape and domestic-abuse convictions.",
+          "url": "https://www.cbsnews.com/news/norway-crown-princess-son-convicted-rape-4-years-prison/"
+        },
+        {
+          "title": "World Cup 2026: Saudi Arabia and Cape Verde Hold Uruguay and Spain to Shock Draws",
+          "subtitle": "ESPN",
+          "meta": "~18h ago · Sport & Culture",
+          "summary": "Day six of the 2026 FIFA World Cup produced some of the tournament's biggest upsets, with Saudi Arabia holding Uruguay and Cape Verde drawing against Spain — results that scramble early group-stage standings and signal the tournament's increasingly competitive field. The World Cup is being jointly hosted by the United States, Canada, and Mexico.",
+          "url": "https://www.espn.com/soccer/story/_/id/49079625/world-cup-2026-today-blog-16-06-2026-live-updates-news-fixtures-schedule-results-four-draws-monday"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "NPR",
+    "NBC News",
+    "CNN",
+    "Bloomberg",
+    "CBS News",
+    "Euronews",
+    "France 24",
+    "IG International",
+    "ESPN",
+    "Al Jazeera"
+  ],
+  "date": "2026-06-16",
+  "pretty": "Tuesday, 16 June 2026",
+  "generated_at": "2026-06-16 12:51 CEST"
+}
