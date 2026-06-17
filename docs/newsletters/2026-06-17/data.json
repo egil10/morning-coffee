@@ -1,0 +1,64 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A dense 24 hours: the G7 wraps in Évian with declarations on Ukraine, AI and a new Ebola crisis; the US-Iran ceasefire moves toward a formal signing; the Fed inaugurates a new chair; and Messi makes World Cup history.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "G7 Closes in Évian With Joint Statements on Ukraine, AI and Ebola",
+          "subtitle": "Bloomberg / EU Council",
+          "meta": "~6h ago · Global politics",
+          "summary": "Leaders of the Group of Seven wrapped their Évian summit with joint declarations backing tougher Russia sanctions and new arms for Ukraine, while AI executives from OpenAI and Anthropic joined dedicated governance sessions. The summit also produced a coordinated health-security response to the Bundibugyo Ebola outbreak spreading across the DRC-Uganda border.",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/17/g7-leaders-joint-statements-evian-france-16-17-june-2026/"
+        },
+        {
+          "title": "US and Iran Agree Framework to End War and Reopen Strait of Hormuz",
+          "subtitle": "NPR / NBC News",
+          "meta": "~48h ago · Middle East",
+          "summary": "Washington and Tehran reached an initial deal to extend their ceasefire for 60 days and reopen the Strait of Hormuz to commercial shipping, with a formal signing ceremony set for Friday in Switzerland. If it holds, the agreement would end more than three months of hostilities and unlock one of the world's most critical oil shipping lanes.",
+          "url": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates"
+        },
+        {
+          "title": "No-Vaccine Bundibugyo Ebola Strain Spreads Across DRC-Uganda Border",
+          "subtitle": "WHO / Gov.UK / Africa CDC",
+          "meta": "~24h ago · Global health",
+          "summary": "An outbreak of the Bundibugyo Ebola species — for which no approved vaccine or treatment exists — has been confirmed in conflict-affected eastern DRC and Uganda, prompting an emergency G7 statement. The US pledged an additional $500 million for containment while the EU committed €493 million in emergency aid and health-security support.",
+          "url": "https://www.gov.uk/government/news/g7-leaders-call-for-a-coordinated-response-to-the-bundibugyo-ebola-outrbreak-16-june-2026"
+        },
+        {
+          "title": "Fed Holds Rates as Kevin Warsh Makes His Debut as Chair at First FOMC Meeting",
+          "subtitle": "Kiplinger / StockTitan",
+          "meta": "~4h ago · US economy & markets",
+          "summary": "The Federal Reserve held its target rate at 3.50–3.75%, a decision markets had priced at 97% certainty, but all eyes are on new Fed Chair Kevin Warsh's first post-meeting press conference for early signals on forward guidance. Warsh's tone matters especially now: core inflation has eased to 2.2% while Bank of America's market-top warning checklist has hit 70%.",
+          "url": "https://www.kiplinger.com/news/live/fed-meeting-updates-and-commentary-june-2026"
+        },
+        {
+          "title": "Messi Scores Hat Trick to Equal Klose's All-Time World Cup Goals Record",
+          "subtitle": "ESPN / NBC Sports",
+          "meta": "~8h ago · World Cup 2026",
+          "summary": "Lionel Messi netted three goals in Argentina's 3-0 opening win over Algeria at the 2026 World Cup, becoming the oldest player to score a World Cup hat trick and equaling Miroslav Klose's record of 16 all-time World Cup goals. With Argentina guaranteed at least two more group matches, Messi has a clear path to becoming the tournament's outright all-time top scorer.",
+          "url": "https://www.espn.com/soccer/story/_/id/49089516/messi-nets-hat-trick-ties-klose-record-1th-world-cup-goal"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Bloomberg",
+    "EU Council",
+    "NPR",
+    "NBC News",
+    "WHO",
+    "Africa CDC",
+    "Gov.UK",
+    "Kiplinger",
+    "StockTitan",
+    "ESPN",
+    "NBC Sports",
+    "CBC News",
+    "Business Standard"
+  ],
+  "date": "2026-06-17",
+  "pretty": "Wednesday, 17 June 2026",
+  "generated_at": "2026-06-17 12:23 CEST"
+}
