@@ -1,0 +1,61 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A landmark US-Iran ceasefire signed at Versailles dominates a consequential 24 hours also shaped by a hawkish Federal Reserve pivot, G7 unity on Ukraine, a foiled White House assassination plot, and the Atlantic hurricane season's first landfall.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Trump Signs 14-Point MOU with Iran at Versailles, Ending Months of Conflict",
+          "subtitle": "NBC News / The Hill",
+          "meta": "~4h ago · Middle East / Diplomacy",
+          "summary": "President Trump and Iranian President Pezeshkian signed an interim agreement brokered by Pakistan that halts hostilities on all fronts, waives US sanctions to let Iran export oil immediately, and commits both sides to 60 days of talks toward a permanent deal, with the Strait of Hormuz set to reopen within 30 days. The accord ends a war that began in late February 2026 and marks the most significant US-Iran diplomatic breakthrough in decades.",
+          "url": "https://www.nbcnews.com/world/iran/strait-hormuz-reopen-us-lift-iran-sanctions-14-point-deal-seeking-end-rcna350513"
+        },
+        {
+          "title": "G7 Closes in Évian with Trump Backing Ukraine and Pledging Iran Reconstruction Aid",
+          "subtitle": "The Christian Science Monitor",
+          "meta": "~18h ago · Europe / Geopolitics",
+          "summary": "The 52nd G7 Summit concluded in Évian-les-Bains, France, with Trump agreeing to a joint communiqué supporting Ukraine and hinting at renewing Russian sanctions — a notably cooperative stance after years of summit discord. Leaders also pledged post-war reconstruction support for Iran, with France and Britain committing to help reopen and patrol the Strait of Hormuz.",
+          "url": "https://www.csmonitor.com/World/Europe/2026/0617/g7-summit-europe-trump"
+        },
+        {
+          "title": "Fed Holds Rates Under New Chair Warsh, Drops Cut Guidance and Signals Possible Hike",
+          "subtitle": "CNBC",
+          "meta": "~20h ago · Economy / Markets",
+          "summary": "In his first meeting as Fed chair, Kevin Warsh held the benchmark rate at 3.5%–3.75% but stripped the statement of forward guidance for cuts and signaled the next move could be a rate increase, as US inflation hit 4.2% in May — a three-year high driven largely by oil-price shocks from the Iran conflict. Markets repriced sharply to reflect a more hawkish Fed outlook.",
+          "url": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html"
+        },
+        {
+          "title": "FBI Arrests Five in Alleged Explosive-Drone and Sniper Plot Targeting White House UFC Event",
+          "subtitle": "ABC News / NBC News",
+          "meta": "~22h ago · United States / Security",
+          "summary": "Federal agents foiled an alleged multi-stage attack on UFC Freedom 250 at the White House South Lawn that involved explosive-laden drones meant to spark a mass evacuation, funneling crowds toward a pre-staged sniper team; a screenshot found by investigators listed probable targets including President Trump, Vice President Vance, Netanyahu, and Elon Musk. Five suspects across four states were charged, including a 19-year-old whose own parents alerted police.",
+          "url": "https://abcnews.com/US/fbi-disrupts-plot-targeting-ufc-event-sources/story?id=133915057"
+        },
+        {
+          "title": "Tropical Storm Arthur Makes Landfall on Texas Coast, Killing at Least Two",
+          "subtitle": "The Washington Post",
+          "meta": "~6h ago · United States / Weather",
+          "summary": "Arthur, the first named storm of the 2026 Atlantic hurricane season, came ashore in Matagorda County, Texas, with 45 mph winds and is forecast to dump up to 20 inches of rain across the Texas and Louisiana Gulf Coasts through Friday, with storm surge of 2–4 feet threatening areas from Galveston to Morgan City. At least two deaths have already been reported from flash flooding ahead of landfall.",
+          "url": "https://www.washingtonpost.com/weather/2026/06/17/potential-tropical-storm-may-bring-life-threatening-floods-south-through-friday/"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "NBC News",
+    "The Hill",
+    "Gulf News",
+    "The Christian Science Monitor",
+    "CNBC",
+    "NPR",
+    "ABC News",
+    "CBS News",
+    "The Washington Post",
+    "Fox 26 Houston"
+  ],
+  "date": "2026-06-18",
+  "pretty": "Thursday, 18 June 2026",
+  "generated_at": "2026-06-18 12:02 CEST"
+}
