@@ -1,0 +1,58 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A landmark US-Iran ceasefire deal hits its first stumbling block as nuclear follow-up talks collapse, while transatlantic partnerships buckle and domestic surveillance expands at home.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "US Lifts Iran Naval Blockade as 60-Day Nuclear Clock Begins",
+          "subtitle": "NPR",
+          "meta": "~2d ago · Middle East",
+          "summary": "The US lifted its blockade of Iranian ports and the Strait of Hormuz reopened after Trump and Vance signed a ceasefire agreement with Tehran, beginning a 60-day window for nuclear negotiations and resuming Iranian oil exports under sanctions relief. It marks the most significant US-Iran diplomatic breakthrough in years, though the durability of the deal is already in doubt.",
+          "url": "https://www.npr.org/2026/06/18/nx-s1-5863517/trump-iran-deal-blockade-strait-hormuz"
+        },
+        {
+          "title": "Iran Nuclear Talks in Switzerland Canceled as Hezbollah Clashes Flare",
+          "subtitle": "Bloomberg",
+          "meta": "~12h ago · Middle East",
+          "summary": "VP Vance postponed his planned trip to Bürgenstock, Switzerland for follow-up nuclear talks with Iran after renewed Israel-Hezbollah fighting threatened the fragile ceasefire, with Iran citing Israeli military operations in Lebanon. Switzerland's Foreign Ministry confirmed the cancellation, underscoring how precarious the newly signed agreement remains.",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-19/vance-delays-swiss-trip-as-white-house-says-talks-never-simple"
+        },
+        {
+          "title": "Meloni Rebukes Trump's 'Fabricated' Story; Italy Cancels Top Diplomat's US Trip",
+          "subtitle": "NPR / PBS NewsHour",
+          "meta": "~12h ago · Europe",
+          "summary": "Italian PM Giorgia Meloni publicly accused Trump of inventing a story that she 'begged' him for a photo at the G7, posting a video rebuttal declaring 'Italy and I do not beg.' Her foreign minister abruptly cancelled a scheduled visit to Washington, marking the sharpest public break yet between the US and its closest European ally.",
+          "url": "https://www.npr.org/2026/06/19/nx-s1-5864264/meloni-trump-fight-beg"
+        },
+        {
+          "title": "Andy Burnham Wins UK By-Election, Sets Up Labour Leadership Challenge to Starmer",
+          "subtitle": "Al Jazeera / CBC News",
+          "meta": "~12h ago · United Kingdom",
+          "summary": "Greater Manchester Mayor Andy Burnham won the Makerfield by-election, entering Parliament and positioning himself to formally challenge PM Keir Starmer for the Labour leadership. Starmer said he will fight any challenge, but Burnham needs the backing of just 81 Labour MPs to trigger a contest.",
+          "url": "https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-crucial-uk-by-election-in-blow-to-keir-starmer"
+        },
+        {
+          "title": "DHS Plans to Give Local Police ICE's Facial Recognition App",
+          "subtitle": "NPR",
+          "meta": "~24h ago · United States",
+          "summary": "A leaked DHS document reveals plans to equip roughly 1,300 local police agencies deputized by ICE with a mobile facial-recognition app that scans faces against 250 million government records and retains photos for 15 years. Civil liberties advocates warn the program dramatically extends immigration surveillance into routine local policing.",
+          "url": "https://www.npr.org/2026/06/18/nx-s1-5855721/dhs-document-shares-plan-to-give-local-police-departments-facial-recognition-tech"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "NPR",
+    "Bloomberg",
+    "PBS NewsHour",
+    "Al Jazeera",
+    "CBC News",
+    "ABC News",
+    "CBS News"
+  ],
+  "date": "2026-06-20",
+  "pretty": "Saturday, 20 June 2026",
+  "generated_at": "2026-06-20 10:38 CEST"
+}
