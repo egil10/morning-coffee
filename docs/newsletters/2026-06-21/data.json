@@ -1,0 +1,61 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A fragile US-Iran ceasefire teeters as Switzerland talks collapse, Ukraine escalates its war with Russia's largest drone strike on Moscow to date, and the Federal Reserve's new chairman signals a possible rate hike before year-end.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "US-Iran Interim Deal Under Threat After Switzerland Peace Talks Collapse",
+          "subtitle": "CNBC",
+          "meta": "~48h ago · Geopolitics / Middle East",
+          "summary": "Hours after the US and Iran signed a 14-point ceasefire memorandum on June 18, the planned follow-on talks at Switzerland's Bürgenstock resort were canceled when Iran claimed Israel's strikes on Lebanon violated the deal and moved to close the Strait of Hormuz. VP Vance pulled out of the trip, leaving the fragile accord's future — and global oil shipping lanes — deeply uncertain.",
+          "url": "https://www.cnbc.com/2026/06/19/us-iran-talks-switzerland-canceled-interim-deal-markets.html"
+        },
+        {
+          "title": "Ukraine Launches Largest-Ever Drone Attack on Moscow, Strikes Oil Refinery",
+          "subtitle": "CNN",
+          "meta": "~72h ago · War / Europe",
+          "summary": "Ukraine sent nearly 1,000 drones across Russia in its biggest single offensive of the war, with 194 intercepted over Moscow alone; fires broke out at the Kapotnya oil refinery just 15 km from the Kremlin, all major Moscow airports were briefly closed, and at least 17 people were injured. President Zelenskyy said the strikes sent a message that 'it is time the war ended.'",
+          "url": "https://edition.cnn.com/2026/06/18/europe/ukraine-strikes-moscow-oil-refinery-intl-hnk"
+        },
+        {
+          "title": "Fed Holds Rates Steady but Dot Plot Flags Rate Hike Risk Under New Chair Warsh",
+          "subtitle": "CNBC",
+          "meta": "~96h ago · Economy / Markets",
+          "summary": "In Kevin Warsh's first FOMC meeting as Fed chair, the committee held the federal funds rate at 3.50–3.75%, but the updated dot plot showed nine of 18 policymakers now expect at least one rate increase before year-end 2026 — pushing the median year-end rate projection a quarter-point higher and triggering a bond sell-off. Warsh notably withheld his own dot, adding uncertainty about the committee's direction.",
+          "url": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html"
+        },
+        {
+          "title": "DHS Document Reveals Plan to Arm 1,300 Local Police Forces With ICE Facial Recognition App",
+          "subtitle": "NPR",
+          "meta": "~48h ago · Policy / Technology",
+          "summary": "A leaked Department of Homeland Security document outlines plans to distribute a mobile facial recognition app to roughly 1,300 local police agencies deputized under ICE's 287(g) Task Force program; officers would scan faces during routine stops against a 250-million-record database including State Department visa files and TSA airport records, with photos stored for 15 years — raising alarms from civil liberties groups about mass surveillance of US citizens.",
+          "url": "https://www.npr.org/2026/06/18/nx-s1-5855721/dhs-document-shares-plan-to-give-local-police-departments-facial-recognition-tech"
+        },
+        {
+          "title": "China's May Exports Surge 19.4% to Record $376.8 Billion on AI-Chip and EV Demand",
+          "subtitle": "Caixin Global",
+          "meta": "~48h ago · Economy / Trade",
+          "summary": "China's overseas shipments hit an all-time monthly high in May 2026, far outpacing the 15% forecast, as demand for semiconductors and AI hardware soared and EV exports jumped 54% year-on-year; the trade surplus widened to $105.4 billion, underscoring China's dominant role in global manufacturing even as its domestic economy faces headwinds.",
+          "url": "https://www.caixinglobal.com/2026-06-19/chinas-may-exports-surge-19-on-ai-chip-demand-and-electric-vehicle-boom-102455655.html"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CNBC",
+    "CNN",
+    "NPR",
+    "Caixin Global",
+    "Washington Post",
+    "CBS News",
+    "NBC News",
+    "Al Jazeera",
+    "Fox News",
+    "ABC News"
+  ],
+  "date": "2026-06-21",
+  "pretty": "Sunday, 21 June 2026",
+  "generated_at": "2026-06-21 11:34 CEST"
+}
