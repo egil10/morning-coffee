@@ -1,0 +1,61 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A British prime minister steps down, nuclear diplomacy hangs in the balance, and war reshapes fuel supplies — here are the five stories defining Monday, June 22.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "UK Prime Minister Keir Starmer Resigns After Labour Revolt",
+          "subtitle": "Time / Washington Post / NBC News",
+          "meta": "~2h ago · UK Politics",
+          "summary": "Starmer announced his resignation Monday morning following a weekend of speculation sparked by Labour's crushing local-election losses and Andy Burnham's by-election win; he becomes the sixth British PM to leave office in a decade. He will remain caretaker until a leadership contest concludes by September, with Burnham immediately declaring his candidacy.",
+          "url": "https://time.com/article/2026/06/22/uk-prime-minister-keir-starmer-resignation-reports-burnham-leadership-potential/"
+        },
+        {
+          "title": "US and Iran Hold Direct Talks as Trump Threatens to Resume Bombing",
+          "subtitle": "CBS News / CNN / NPR",
+          "meta": "~8h ago · Middle East",
+          "summary": "American and Iranian negotiators met face-to-face Sunday in a 60-day sprint to lock down a permanent nuclear deal, but Trump rattled the talks by telling Fox News the US could resume strikes and 'take over' the Strait of Hormuz if an agreement is not reached. Mediators Qatar and Pakistan called the session 'positive and constructive,' with technical talks continuing in Switzerland this week.",
+          "url": "https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/"
+        },
+        {
+          "title": "Ukraine Strikes Crimea Oil Depots, Forcing Civilian Gasoline Ban",
+          "subtitle": "NPR / NBC News / Fortune",
+          "meta": "~18h ago · Europe / War",
+          "summary": "Overnight Ukrainian drone strikes on a Crimean oil depot and a Krasnodar fuel terminal killed four people and prompted Russia's Kremlin-appointed governor to halt all civilian gasoline sales indefinitely — the worst fuel crisis on the peninsula since its 2014 annexation. Speculators are reportedly selling petrol at double the market price as stranded tourists flood an emergency hotline.",
+          "url": "https://www.npr.org/2026/06/21/g-s1-129200/ukrainian-attacks-russia-crimea-halt-gas-sales"
+        },
+        {
+          "title": "Colombia Swings Right: Trump-Backed De La Espriella Wins Presidential Race",
+          "subtitle": "Al Jazeera / NPR / CNN",
+          "meta": "~14h ago · Latin America",
+          "summary": "Far-right lawyer and businessman Abelardo 'El Tigre' de la Espriella edged out left-wing rival Iván Cepeda 49.7% to 48.7% in Sunday's runoff, becoming the most-voted presidential candidate in Colombian history and marking a sharp political reversal for the country. He has pledged a sweeping military offensive against guerrilla groups on his first day in office.",
+          "url": "https://www.aljazeera.com/news/2026/6/22/colombian-right-wing-candidate-de-la-espriella-wins-tight-presidential-race"
+        },
+        {
+          "title": "Intel Surges 10.6% After Trump Announces Apple Will Use Intel Chips Made in US",
+          "subtitle": "TheStreet / Yahoo Finance",
+          "meta": "~5h ago · Markets / Tech",
+          "summary": "Shares of Intel jumped sharply Monday after President Trump announced the semiconductor giant will produce chips for Apple domestically, lifting the broader chip sector — Nvidia gained 2.8% and Micron climbed 8.5%. The broader market edged lower, however, as the Fed's newly hawkish stance and this week's PCE inflation reading kept investors cautious.",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-22-2026"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Time",
+    "Washington Post",
+    "NBC News",
+    "CBS News",
+    "CNN",
+    "NPR",
+    "Al Jazeera",
+    "Fortune",
+    "TheStreet",
+    "Yahoo Finance"
+  ],
+  "date": "2026-06-22",
+  "pretty": "Monday, 22 June 2026",
+  "generated_at": "2026-06-22 13:29 CEST"
+}
