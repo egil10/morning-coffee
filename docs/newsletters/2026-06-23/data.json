@@ -1,0 +1,62 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A turbulent Monday brings a G7 political earthquake, a potential Middle East nuclear breakthrough, and escalating US-China tensions — alongside a record-breaking night at the World Cup.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Keir Starmer Resigns as UK Prime Minister",
+          "subtitle": "CNBC / NPR / CNN",
+          "meta": "~18h ago · Politics · Europe",
+          "summary": "Starmer stepped down on June 22 after a Labour revolt triggered by dire local-election results and the surging far-right Reform UK, making him the sixth British prime minister to resign outside Downing Street in seven years. Andy Burnham, former Manchester mayor, is widely expected to succeed him around July 18–19, making the UK's seventh PM in a decade.",
+          "url": "https://www.cnbc.com/2026/06/22/keir-starmer-resigns-uk-prime-minister.html"
+        },
+        {
+          "title": "US and Iran Agree on Roadmap for Nuclear Deal in Switzerland",
+          "subtitle": "CNBC / NPR / CBS News",
+          "meta": "~24h ago · World Events · Middle East",
+          "summary": "After talks in Geneva, US and Iranian negotiators agreed on a 60-day roadmap toward curbing Iran's nuclear program and keeping the Strait of Hormuz open; four working groups were established covering sanctions, nuclear affairs, reconstruction, and monitoring. VP Vance called it a \"very, very good\" foundation, and mediators Qatar and Pakistan confirmed \"encouraging progress\" despite Trump's threats to strike Iran.",
+          "url": "https://www.cnbc.com/2026/06/22/us-iran-roadmap-final-deal-switzerland-talks-lebanon-deconfliction.html"
+        },
+        {
+          "title": "China Sanctions 10 US Defense Firms in Tit-for-Tat Tech Escalation",
+          "subtitle": "Fortune / Washington Post / PBS",
+          "meta": "~24h ago · Geopolitics · US-China",
+          "summary": "Beijing announced export bans on dual-use goods to ten American defense contractors — including drone makers, rare-earth miners, and L3Harris — after Washington added Alibaba and Baidu to its Pentagon military-company blacklist. China's Finance Ministry separately barred government entities from purchasing products from 46 American firms including Lockheed Martin, Raytheon, and General Dynamics units.",
+          "url": "https://fortune.com/2026/06/22/china-sanctions-10-us-defense-companies-pentagon-chinese-military/"
+        },
+        {
+          "title": "Messi Breaks the All-Time FIFA World Cup Scoring Record",
+          "subtitle": "ESPN",
+          "meta": "~12h ago · World Events · Sport",
+          "summary": "Lionel Messi scored twice against Austria at the 2026 FIFA World Cup to reach 18 career World Cup goals, surpassing the previous all-time record and cementing his legacy at a tournament hosted in North America. The feat came as Kylian Mbappé and Erling Haaland also scored braces, heating up what is set to be a historic Golden Boot race.",
+          "url": "https://www.espn.com/soccer/story/_/id/49150996/world-cup-2026-today-blog-23-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi"
+        },
+        {
+          "title": "Russell 2000 Closes Above 3,000 for the First Time as Oil Tumbles",
+          "subtitle": "The Rio Times / CaixaBank Research",
+          "meta": "~12h ago · Economy · Markets",
+          "summary": "US small-cap stocks hit a historic milestone as the Russell 2000 index closed above 3,000 for the first time ever, even as large-cap tech faltered with Alphabet shedding 5%. Oil prices fell more than 3% on easing Middle East risk after the US Treasury allowed Iranian oil sales alongside the Switzerland peace talks.",
+          "url": "https://www.riotimesonline.com/global-economy-briefing-june-23-2026/"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CNBC",
+    "NPR",
+    "CNN",
+    "Fortune",
+    "The Washington Post",
+    "PBS NewsHour",
+    "CBS News",
+    "ESPN",
+    "The Rio Times",
+    "CaixaBank Research",
+    "Al Jazeera"
+  ],
+  "date": "2026-06-23",
+  "pretty": "Tuesday, 23 June 2026",
+  "generated_at": "2026-06-23 10:53 CEST"
+}
