@@ -1,0 +1,64 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A 24-hour span defined by a historic US–Iran diplomatic breakthrough, a sharp AI-driven market sell-off, and political earthquakes in Britain and South America.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Iran Agrees to UN Nuclear Inspectors as Strait of Hormuz Begins to Reopen",
+          "subtitle": "CNN / Axios / CNBC",
+          "meta": "~12h ago · Middle East",
+          "summary": "Following marathon peace talks in Switzerland, Iran agreed to allow IAEA inspectors back in and the US temporarily lifted oil sanctions; the UN's International Maritime Organization launched a coordinated evacuation of more than 11,000 seafarers stranded in the Persian Gulf since the Strait closed in February. The deal represents the most significant de-escalation in the US–Iran conflict since hostilities erupted, though disputes remain over the exact scope of the inspection agreement.",
+          "url": "https://www.cnn.com/2026/06/23/world/live-news/iran-war-trump-lebanon-israel"
+        },
+        {
+          "title": "Global Markets Rocked by AI 'Bubble' Fears as Tech Stocks Plunge",
+          "subtitle": "NPR / Bloomberg",
+          "meta": "~24h ago · Economy & Markets",
+          "summary": "Investors dumped AI and semiconductor stocks amid growing doubt over returns on more than $1.6 trillion in cumulative AI investment, sending the Nasdaq down 2.2%, Micron down 13%, Nvidia down 4%, and South Korea's Kospi tumbling far enough to trigger a circuit breaker. The sell-off echoes dot-com era anxieties and comes as both OpenAI and Anthropic are reportedly weighing landmark IPOs.",
+          "url": "https://www.npr.org/2026/06/23/nx-s1-5867633/ai-selloff-tech-stocks-bubble-nasdaq"
+        },
+        {
+          "title": "UK Prime Minister Keir Starmer Resigns; Andy Burnham Favourite to Succeed Him",
+          "subtitle": "Al Jazeera / ITV News / CNN",
+          "meta": "~48h ago · UK Politics",
+          "summary": "Starmer stepped down as Britain's prime minister less than two years after Labour's 2024 landslide, citing relentless internal pressure and dismal council-election results driven by the surge of far-right Reform UK. Greater Manchester Mayor Andy Burnham, sworn in as an MP hours after the announcement, is widely seen as the frontrunner to become the UK's seventh leader in ten years.",
+          "url": "https://www.aljazeera.com/news/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister-and-who-will-take-over"
+        },
+        {
+          "title": "Congo Ebola Outbreak Surpasses 1,000 Cases, Now Second-Largest on Record",
+          "subtitle": "UN News / WHO / CDC",
+          "meta": "~24h ago · Global Health",
+          "summary": "The DRC Ebola outbreak — caused by the Bundibugyo virus — has reached more than 1,000 confirmed cases and 267 deaths across multiple provinces, with the infection also spreading into Uganda. Health officials describe it as the highest first-month case count ever recorded for an Ebola outbreak in Africa, raising urgent fears of wider regional spread.",
+          "url": "https://news.un.org/en/story/2026/06/1167786"
+        },
+        {
+          "title": "Trump-Backed Far-Right Candidate Wins Colombia's Presidential Runoff, Sparking Protests",
+          "subtitle": "CBS News / France 24",
+          "meta": "~48h ago · Americas",
+          "summary": "Abelardo de la Espriella, a flamboyant lawyer with no prior public office, narrowly defeated leftist Iván Cepeda by less than one percentage point in Colombia's presidential runoff — a result Trump celebrated and thousands of Colombians protested in the streets of Bogotá and Medellín. The outcome marks a hard-right turn for South America's fourth-largest economy, with de la Espriella pledging El Salvador-style mega-prisons and new oil exploration.",
+          "url": "https://www.cbsnews.com/news/colombia-presidential-vote-trump-candidate-wins-sparking-protests/"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CNN",
+    "Axios",
+    "CNBC",
+    "NPR",
+    "Al Jazeera",
+    "ITV News",
+    "UN News",
+    "WHO",
+    "CDC",
+    "CBS News",
+    "France 24",
+    "Euronews",
+    "Gulf News"
+  ],
+  "date": "2026-06-24",
+  "pretty": "Wednesday, 24 June 2026",
+  "generated_at": "2026-06-24 10:49 CEST"
+}
