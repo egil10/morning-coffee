@@ -1,0 +1,61 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A packed day on the world stage: the U.S. sends a wartime spending bill to Congress, the Ebola outbreak sets a grim record, markets revolt against AI spending, Europe bakes in historic heat, and Britain braces for its seventh prime minister in a decade.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "White House asks Congress for $87.6 billion to cover Iran war costs",
+          "subtitle": "PBS NewsHour / ABC News",
+          "meta": "~24h ago · U.S. Politics",
+          "summary": "The White House sent Congress a supplemental spending request on Wednesday seeking $67 billion to replenish Pentagon stocks expended during Operation Epic Fury — the U.S.-led strikes on Iran — alongside $11.1 billion in farm aid and $1.4 billion for the Ebola response. The request sets up a sharp confrontation with lawmakers from both parties who have publicly opposed further Iran-war spending.",
+          "url": "https://www.pbs.org/newshour/politics/white-house-seeks-87-6b-from-congress-for-iran-war-costs-u-s-farmers-and-ebola-response"
+        },
+        {
+          "title": "DRC Ebola outbreak becomes second-largest ever, surpassing 1,094 confirmed cases",
+          "subtitle": "WHO / NBC News",
+          "meta": "~48h ago · Global Health",
+          "summary": "The Democratic Republic of Congo's Ebola outbreak — caused by the Bundibugyo strain, for which no approved vaccine or treatment exists — has crossed 1,094 confirmed cases and 277 deaths, making it the second-largest Ebola epidemic on record and the fastest-growing ever. The WHO declared a public health emergency of international concern in May; the outbreak has since spread into Uganda.",
+          "url": "https://www.nbcnews.com/data-graphics/ebola-outbreak-2026-cases-virus-tracking-maps-spread-congo-ugangda-us-rcna347102"
+        },
+        {
+          "title": "AI stocks crater globally as investors ask whether the boom is 'one big bubble'",
+          "subtitle": "NPR / CNBC",
+          "meta": "~24h ago · Markets & Technology",
+          "summary": "The Nasdaq fell 2.2% and South Korea's Kospi collapsed 10% — triggering a market circuit breaker — as investors dumped AI and semiconductor stocks over mounting doubts about returns on more than $580 billion in annual AI investment. Nvidia and Alphabet both declined for a second straight session, and Micron Technology shed more than 13%.",
+          "url": "https://www.npr.org/2026/06/23/nx-s1-5867633/ai-selloff-tech-stocks-bubble-nasdaq"
+        },
+        {
+          "title": "Europe's deadly heatwave shatters records: France hits 44.3 °C, 40+ drown",
+          "subtitle": "Al Jazeera / Euronews",
+          "meta": "~12h ago · Climate & World Events",
+          "summary": "France recorded its all-time hottest temperature at 44.3 °C (111.7 °F) as red heat alerts extended from Spain — where temperatures hit 45.1 °C — to the UK, which broke its June record for the third time in one week. At least 40 people drowned in France as crowds rushed to unsupervised waterways to escape the heat, with further deaths reported in Spain and Italy.",
+          "url": "https://www.aljazeera.com/news/2026/6/24/deaths-disruptions-across-europe-what-you-should-know-about-the-heatwave"
+        },
+        {
+          "title": "UK PM Keir Starmer resigns, leaving Britain to seek its seventh leader in a decade",
+          "subtitle": "CNBC / CNN / Al Jazeera",
+          "meta": "~3d ago · U.K. Politics",
+          "summary": "Starmer announced his resignation on June 22 after less than two years in office, bowing to intense pressure from Labour MPs rattled by the rapid rise of Reform UK and poor local-election results. Greater Manchester Mayor Andy Burnham is widely tipped as successor, with the leadership contest set to conclude before Parliament returns in September.",
+          "url": "https://www.cnbc.com/2026/06/22/keir-starmer-resigns-uk-prime-minister.html"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "PBS NewsHour",
+    "ABC News",
+    "WHO",
+    "NBC News",
+    "NPR",
+    "CNBC",
+    "CNN",
+    "Al Jazeera",
+    "Euronews",
+    "Euronews"
+  ],
+  "date": "2026-06-25",
+  "pretty": "Thursday, 25 June 2026",
+  "generated_at": "2026-06-25 10:44 CEST"
+}
