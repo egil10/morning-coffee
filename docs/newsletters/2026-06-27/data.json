@@ -1,0 +1,59 @@
+{
+  "title": "Morning Headlines",
+  "intro": "U.S. military strikes on Iran, a catastrophic Venezuelan earthquake, and a fragile new Middle East peace framework define a tense Friday around the world.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "U.S. Strikes Iran After Drone Attack on Cargo Ship in Strait of Hormuz",
+          "subtitle": "NBC News / Al Jazeera",
+          "meta": "~18h ago · Middle East",
+          "summary": "Iran launched drones at vessels in the Strait of Hormuz, with one striking a Singapore-flagged cargo ship and violating a ceasefire memorandum signed just one week earlier. The U.S. responded by hitting Iranian missile and drone storage sites and coastal radar installations — the most dangerous escalation between the two nations since their brief war began.",
+          "url": "https://www.nbcnews.com/news/us-news/us-launches-strikes-iran-attack-ship-strait-hormuz-rcna351992"
+        },
+        {
+          "title": "Venezuela Earthquake Death Toll Reaches 920 as Nation Declares Emergency",
+          "subtitle": "NPR / ABC News",
+          "meta": "~36h ago · Latin America",
+          "summary": "Twin magnitude-7.5 and 7.2 earthquakes struck northwestern Venezuela on June 24, killing at least 920 people, injuring over 4,500, and leaving 50,000 missing — the country's deadliest seismic event in more than a century. Acting President Delcy Rodríguez declared a national state of emergency as international rescue teams from Mexico, El Salvador, and the Dominican Republic began arriving.",
+          "url": "https://www.npr.org/2026/06/26/nx-s1-5870651/venezuela-earthquakes-caracas"
+        },
+        {
+          "title": "Rubio Announces U.S.-Brokered Israel-Lebanon Framework Peace Deal",
+          "subtitle": "CNBC / Al Jazeera",
+          "meta": "~12h ago · Middle East",
+          "summary": "Secretary of State Marco Rubio unveiled a trilateral framework agreement signed by the U.S., Israel, and Lebanon in Washington, calling for Hezbollah to disarm and withdraw from southern Lebanon through a structured, U.S.-facilitated process. The deal marks a significant diplomatic step, but Hezbollah — not party to the agreement — has already rejected it as \"gratuitous concessions.\"",
+          "url": "https://www.cnbc.com/2026/06/26/israel-lebanon-hezbollah-ceasefire-rubio.html"
+        },
+        {
+          "title": "Tech Stocks Drag Markets as AI Cost Fears and Consumer Gloom Mount",
+          "subtitle": "Charles Schwab / CNN Markets",
+          "meta": "~4h ago · Economy & Markets",
+          "summary": "U.S. equities opened mixed Friday with tech leading declines as investors grow increasingly wary of spiraling AI infrastructure costs, while the final University of Michigan Consumer Sentiment reading came in near historic lows at 48.9. Geopolitical tensions linked to the Iran escalation have also pushed Treasury yields sharply higher on renewed inflation fears.",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "title": "FIFA World Cup 2026: Cape Verde Makes History, Uruguay Eliminated on Day 17",
+          "subtitle": "ESPN",
+          "meta": "~6h ago · Sports / Global",
+          "summary": "Cape Verde advanced to the knockout stage for the first time in their history, Uruguay were eliminated, and Egypt secured a landmark first-ever knockout-round berth with a 1-1 draw against Iran. Belgium topped Group G with a commanding 5-1 demolition of New Zealand.",
+          "url": "https://www.espn.com/soccer/story/_/id/49194724/world-cup-2026-today-blog-27-06-2026-live-updates-news-fixtures-schedule-results-cape-verde-uruguay-england"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "NBC News",
+    "Al Jazeera",
+    "NPR",
+    "ABC News",
+    "CNBC",
+    "Charles Schwab",
+    "CNN Markets",
+    "ESPN"
+  ],
+  "date": "2026-06-27",
+  "pretty": "Saturday, 27 June 2026",
+  "generated_at": "2026-06-27 10:22 CEST"
+}
