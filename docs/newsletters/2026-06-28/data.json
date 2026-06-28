@@ -1,0 +1,60 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A cascade of crises dominates Sunday's news: Venezuela's earthquake death toll surges past 1,400 as the rescue window closes, U.S. warplanes hit Iran for a second night, and a tropical storm evacuates millions across East Asia.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Venezuela Earthquake Death Toll Climbs to 1,430 as 72-Hour Survival Window Closes",
+          "subtitle": "Al Jazeera / ABC News",
+          "meta": "~12h ago · Latin America",
+          "summary": "Rescue teams from 24 countries are racing against time after twin magnitude-7.2 and 7.5 earthquakes struck Venezuela's coast on June 24–25, killing at least 1,430 people, injuring thousands more, and leaving over 51,000 missing. The critical 72-hour survival window is nearly exhausted, aid bottlenecks persist, and the death toll is expected to rise significantly.",
+          "url": "https://www.aljazeera.com/news/2026/6/27/venezuelans-dig-for-earthquake-survivors-as-72-hour-rescue-window-nears-end"
+        },
+        {
+          "title": "U.S. Launches Second Night of Airstrikes on Iran After Drone Hits Commercial Tanker",
+          "subtitle": "Al Jazeera / NBC News",
+          "meta": "~18h ago · Middle East",
+          "summary": "U.S. Central Command struck Iranian targets for a second consecutive night, responding to a drone that struck a commercial tanker in the Strait of Hormuz. The attacks signal that a June 17 U.S.-Iran memorandum of understanding is under severe strain, raising fears of a broader regional war that could disrupt global oil supplies.",
+          "url": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone"
+        },
+        {
+          "title": "UN Commission Finds Israel Committing Genocide in Gaza as Death Toll Tops 73,000",
+          "subtitle": "UN News / PBS NewsHour",
+          "meta": "~24h ago · Middle East",
+          "summary": "A UN independent commission released findings in June 2026 that Israel is deliberately targeting Palestinian children and committing genocide and atrocity crimes in Gaza, where the death toll has surpassed 73,000 — including 20,000 children — since October 2023. The report amplifies international pressure as Israeli operations continue despite a nominal ceasefire.",
+          "url": "https://news.un.org/en/story/2026/06/1167790"
+        },
+        {
+          "title": "Hezbollah Rejects Lebanon-Israel Ceasefire That Requires Its Disarmament",
+          "subtitle": "Washington Times / Washington Post",
+          "meta": "~20h ago · Middle East",
+          "summary": "Hezbollah leader Naim Kassem declared that the group will not comply with the framework deal brokered between Lebanon and Israel because it conditions an Israeli withdrawal on Hezbollah disarming — terms Kassem called \"surrender and defeat.\" The rejection leaves Lebanon's ceasefire agreement in limbo and threatens a renewed escalation on the country's southern front.",
+          "url": "https://www.washingtontimes.com/news/2026/jun/27/lebanons-deal-israel-requires-hezbollah-disarm-might-difficult/"
+        },
+        {
+          "title": "Tropical Storm Mekkhala Leaves Taiwan Underwater; Japan Evacuates 2.2 Million",
+          "subtitle": "Al Jazeera / Taipei Times",
+          "meta": "~16h ago · East Asia",
+          "summary": "Tropical Storm Mekkhala dumped more than 100 mm of rain per hour on Taiwan, flooding Taipei's districts, severing the main north-south railway, and triggering landslide alerts across the island. The storm then battered southern and western Japan, forcing evacuation orders for 2.2 million people, cancelling over 200 flights, and temporarily halting a Toyota factory.",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/tropical-storm-mekkhala-leaves-taiwan-underwater"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Al Jazeera",
+    "ABC News",
+    "CNN",
+    "NBC News",
+    "PBS NewsHour",
+    "UN News",
+    "Washington Times",
+    "Washington Post",
+    "Taipei Times"
+  ],
+  "date": "2026-06-28",
+  "pretty": "Sunday, 28 June 2026",
+  "generated_at": "2026-06-28 10:38 CEST"
+}
