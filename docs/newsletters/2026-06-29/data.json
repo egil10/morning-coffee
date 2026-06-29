@@ -1,0 +1,59 @@
+{
+  "title": "Morning Headlines",
+  "intro": "Iran's nuclear deal hangs on a parliamentary knife-edge, Venezuela's earthquake toll surpasses 1,450, and three American firefighters die on the Colorado-Utah line — a volatile Monday around the world.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Iran Threatens to Halt Nuclear Talks as Hormuz Tanker Traffic Collapses to 5%",
+          "subtitle": "CBS News",
+          "meta": "~6h ago · Middle East",
+          "summary": "Iran threatened a \"complete halt\" to U.S.-Iran negotiations, accusing Washington of violating MOU terms, while its parliament prepares a June 29-30 vote on ratifying or rejecting the ceasefire framework. Strait of Hormuz tanker traffic has fallen to just 5% of pre-war levels; a rejection vote could send oil surging past $110 a barrel and reignite open conflict.",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-israel-hezbollah-strait-of-hormuz-peace-deal-talks/"
+        },
+        {
+          "title": "Venezuela Earthquake Death Toll Climbs Past 1,450 With 68,000 Still Missing",
+          "subtitle": "ABC News",
+          "meta": "~12h ago · Latin America",
+          "summary": "Five days after twin 7.5 and 7.2 magnitude quakes struck northwestern Venezuela, the confirmed death toll has surpassed 1,450 with more than 68,900 people still unaccounted for. International rescue teams including hundreds of U.S. workers are on the ground as the worst seismic disaster in Venezuelan history overwhelms local emergency services.",
+          "url": "https://abcnews.com/International/live-updates/venezuela-earthquakes-updates/?id=134196335"
+        },
+        {
+          "title": "3 Federal Firefighters Killed in Wildfire Burnover on Colorado-Utah Border",
+          "subtitle": "NPR",
+          "meta": "~20h ago · United States",
+          "summary": "Three federal wildland firefighters died and two were critically burned Saturday when the Knowles Fire overtook their crew in a burnover incident near the Colorado-Utah state line. The deaths come during a severe early-summer fire season; Utah's Cottonwood Fire alone has already scorched more than 92,000 acres, the largest active wildfire in the country.",
+          "url": "https://www.npr.org/2026/06/28/g-s1-130737/wildfires-utah-colorado-firefighter-deaths-snyder"
+        },
+        {
+          "title": "Tech Stocks Slide as AI Cost Fears Rise and OpenAI IPO Seen at Risk of Delay",
+          "subtitle": "Charles Schwab / CNN Markets",
+          "meta": "~5h ago · Markets",
+          "summary": "U.S. equity markets opened lower Monday with mega-cap tech dragging major indexes, as investors grew cautious about spiraling AI infrastructure costs and reports that OpenAI's anticipated IPO could be pushed back. Money is rotating out of the sector, raising broader questions about whether AI capital spending can continue to sustain growth expectations.",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "title": "Canada Makes History, Reaches FIFA World Cup Round of 16 for First Time Ever",
+          "subtitle": "ESPN",
+          "meta": "~8h ago · Sports / World",
+          "summary": "Canada beat South Africa on June 29 to advance out of the World Cup 2026 group stage for the first time in the country's history, riding massive home-crowd energy at the tournament they co-host. The milestone caps a breakthrough moment for Canadian soccer as Brazil and Japan prepare for the day's next knockout match.",
+          "url": "https://www.espn.com/soccer/story/_/id/49213287/world-cup-2026-today-blog-29-06-2026-live-updates-news-fixtures-schedule-results-canada-brazil-japan"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CBS News",
+    "ABC News",
+    "NPR",
+    "Charles Schwab",
+    "CNN Markets",
+    "ESPN",
+    "CNBC",
+    "Al Jazeera"
+  ],
+  "date": "2026-06-29",
+  "pretty": "Monday, 29 June 2026",
+  "generated_at": "2026-06-29 12:16 CEST"
+}
