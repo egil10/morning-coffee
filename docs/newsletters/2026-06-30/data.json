@@ -1,0 +1,58 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A fragile Iran-US ceasefire holds as Witkoff heads to Doha, while a landmark Supreme Court ruling reshapes presidential power and the Venezuela earthquake death toll climbs past 1,700.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "U.S. and Iran Hold Ceasefire Talks in Doha as Hormuz Tensions Simmer",
+          "subtitle": "CBS News / Al Jazeera",
+          "meta": "~18h ago · Middle East / Geopolitics",
+          "summary": "After days of exchanging strikes near the Strait of Hormuz, the U.S. and Iran agreed to stand down; Special Envoy Steve Witkoff and Jared Kushner flew to Doha for technical talks on shipping safety and de-escalation. Tehran disputes Trump's characterisation of the meeting but oil traffic through the vital strait has resumed, making the outcome critical for global energy markets.",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-peace-talks-timetable-unclear-strait-of-hormuz-clashes/"
+        },
+        {
+          "title": "Supreme Court Overturns 91-Year-Old Precedent, Letting Trump Fire Independent Agency Heads",
+          "subtitle": "NPR / NBC Washington",
+          "meta": "~18h ago · U.S. Politics / Law",
+          "summary": "In a 6-3 ruling the Court struck down Humphrey's Executor (1935), eliminating for-cause removal protections for commissioners of agencies like the FTC and opening the door to sweeping White House control over the entire federal regulatory apparatus. The only carve-out was a 5-4 stay protecting a Federal Reserve governor pending lower-court review.",
+          "url": "https://www.npr.org/2026/06/29/nx-s1-5816232/supreme-court-ftc-independent-agencies-humphreys-executor"
+        },
+        {
+          "title": "Venezuela Earthquake Death Toll Tops 1,700 With Tens of Thousands Still Missing",
+          "subtitle": "CNN / Wikipedia",
+          "meta": "~12h ago · Latin America / Humanitarian",
+          "summary": "Six days after twin magnitude-7.2 and 7.5 quakes struck northwestern Venezuela on June 24, the confirmed dead exceed 1,700 while more than 46,600 remain missing, with the true toll expected to be far higher. The U.S. deployed 130 Marines to reopen the port of La Guaira for heavy aid and equipment, joining over 2,600 international rescuers already on the ground.",
+          "url": "https://www.cnn.com/2026/06/29/world/live-news/venezuela-earthquake-hnk"
+        },
+        {
+          "title": "Dangerous Heat Dome to Scorch Eastern U.S. Through July Fourth",
+          "subtitle": "CBS News",
+          "meta": "~10h ago · U.S. / Climate",
+          "summary": "Forecasters warn that a heat dome building over the eastern two-thirds of the country will push New York, Philadelphia, Baltimore, and Washington D.C. to record highs above 100°F this week — compounding a European heat crisis that the WHO links to more than 1,300 deaths since June 21. Public health officials are urging vulnerable populations to seek cooling centres ahead of the holiday weekend.",
+          "url": "https://www.cbsnews.com/news/dangerous-long-heat-wave-large-swathes-of-us-this-week/"
+        },
+        {
+          "title": "NASA Unveils Moon Base Roadmap, Including New Lunar Lander Awards",
+          "subtitle": "NASA",
+          "meta": "~2h ago · Science & Space",
+          "summary": "Administrator Jared Isaacman hosted a live briefing today announcing the next round of awards for commercial lunar lander missions and previewing infrastructure for a sustained human presence on the Moon, including HD cameras, rovers, and Moonfall drones for scouting. The update marks a strategic shift from Apollo-style short visits to permanent lunar habitation.",
+          "url": "https://www.nasa.gov/news-release/nasa-to-share-latest-moon-base-mission-progress/"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CBS News",
+    "Al Jazeera",
+    "NPR",
+    "NBC Washington",
+    "CNN",
+    "The Hill",
+    "NASA"
+  ],
+  "date": "2026-06-30",
+  "pretty": "Tuesday, 30 June 2026",
+  "generated_at": "2026-06-30 10:50 CEST"
+}
