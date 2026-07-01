@@ -1,0 +1,60 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A landmark Supreme Court term ends with twin constitutional rulings, a catastrophic earthquake death toll climbs in Venezuela, sweeping student-loan changes take effect, and Israel makes a historic diplomatic break.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Supreme Court Strips Independent Agencies of Protection, Hands Trump Sweeping Removal Power",
+          "subtitle": "NPR / The Washington Post",
+          "meta": "~2d ago · US Politics & Law",
+          "summary": "In a 6-3 ruling the court overturned a 91-year-old precedent and held that Trump's firing of FTC Commissioner Rebecca Kelly Slaughter was lawful, allowing the president to remove members of historically independent regulatory agencies at will. The decision puts the FTC, EEOC, CFPB, and other watchdogs under direct White House control, while the Federal Reserve's independence was left intact — for now.",
+          "url": "https://www.npr.org/2026/06/29/nx-s1-5816232/supreme-court-ftc-independent-agencies-humphreys-executor"
+        },
+        {
+          "title": "Supreme Court Upholds Birthright Citizenship 6-3, Rebukes Trump's Executive Order",
+          "subtitle": "The Washington Post / CNN Politics",
+          "meta": "~1d ago · US Politics & Law",
+          "summary": "Chief Justice John Roberts wrote the majority opinion striking down Trump's 2025 executive order that sought to deny citizenship to children born in the US to undocumented or temporary-visa-holding parents, reaffirming that the 14th Amendment guarantees automatic birthright citizenship. The ruling is a sharp defeat for the administration and closes out the Supreme Court's most consequential term in years.",
+          "url": "https://www.washingtonpost.com/politics/2026/06/30/birthright-citizenship-upheld-by-supreme-court-ruling-against-trump-order/"
+        },
+        {
+          "title": "Venezuela Earthquake Death Toll Surpasses 1,700 with Tens of Thousands Still Missing",
+          "subtitle": "Al Jazeera / UN News",
+          "meta": "~1d ago · South America / Disaster",
+          "summary": "The twin 7.2 and 7.5 magnitude earthquakes that struck northwestern Venezuela on June 24 have now killed at least 1,719 people, with over 43,000 still reported missing and around 12,000 displaced. USGS models warn the final toll could climb well above 100,000, making this one of the deadliest natural disasters in the Western Hemisphere in decades.",
+          "url": "https://www.aljazeera.com/news/2026/6/29/aftershock-hits-caracas-during-critical-hours-for-venezuela-rescue-efforts"
+        },
+        {
+          "title": "Trump's 'One Big Beautiful Bill' Student Loan Caps Take Effect Today",
+          "subtitle": "NBC News / CNBC",
+          "meta": "~Today · US Economy & Education",
+          "summary": "Starting July 1, graduate students are capped at $20,500 per year in federal loans and a $100,000 lifetime limit, Graduate PLUS loans are eliminated for new borrowers, and a $257,500 lifetime cap on all federal borrowing kicks in, pushing many professional students toward costlier private lenders. The changes — part of the sweeping reconciliation law — affect the estimated 43 million Americans with federal student debt and reshape how future borrowers finance advanced degrees.",
+          "url": "https://www.nbcnews.com/news/education/trump-big-beautiful-bill-student-loan-changes-rcna350126"
+        },
+        {
+          "title": "Israel Unanimously Recognizes the Armenian Genocide, Drawing Immediate Turkish Rebuke",
+          "subtitle": "Times of Israel / Haaretz",
+          "meta": "~3d ago · Middle East / Diplomacy",
+          "summary": "Israel's cabinet voted unanimously to formally recognize the Ottoman-era mass killings of Armenians as genocide, ending decades of silence driven by strategic ties with Turkey and marking a historic diplomatic shift amid the two countries' deteriorating relationship. Ankara condemned the move as politically motivated, and the measure now heads to the full Knesset for a ratifying vote.",
+          "url": "https://www.timesofisrael.com/government-unanimously-recognizes-armenian-genocide-amid-frosty-ties-with-turkey/"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "NPR",
+    "The Washington Post",
+    "CNN Politics",
+    "Al Jazeera",
+    "UN News",
+    "NBC News",
+    "CNBC",
+    "Times of Israel",
+    "Haaretz"
+  ],
+  "date": "2026-07-01",
+  "pretty": "Wednesday, 01 July 2026",
+  "generated_at": "2026-07-01 11:03 CEST"
+}
