@@ -1,0 +1,61 @@
+{
+  "title": "Morning Headlines",
+  "intro": "Trade upheaval, landmark Supreme Court rulings, active Middle East diplomacy, and market volatility make for a consequential July 2 worldwide.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Trump Lets USMCA Deadline Pass Without Renewal, Upending North American Trade",
+          "subtitle": "NBC News / CNBC / Washington Post",
+          "meta": "~24h ago · Trade & Economy",
+          "summary": "The Trump administration declined to renew the USMCA trade pact with Canada and Mexico before the July 1 review deadline — a stark reversal for Trump, who signed it in 2018 and called it 'the best trade deal ever.' The three countries must now renegotiate annually for a decade, injecting deep uncertainty into more than $1.6 trillion in trilateral commerce.",
+          "url": "https://www.nbcnews.com/business/economy/trump-usmca-renewal-tariffs-trade-rcna352594"
+        },
+        {
+          "title": "US–Iran Ceasefire Talks Continue in Doha as Tehran Holds Firm on Conditions",
+          "subtitle": "Al Jazeera / CNN",
+          "meta": "~18h ago · Middle East",
+          "summary": "Qatar's prime minister met US envoys Steve Witkoff and Jared Kushner in Doha as indirect negotiations seek to convert a fragile 60-day ceasefire into a lasting deal, with key disputes still open on the Strait of Hormuz, frozen Iranian assets, and Tehran's nuclear program. Iran publicly denies it is negotiating directly with Washington, complicating the path to a final agreement.",
+          "url": "https://www.aljazeera.com/news/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions"
+        },
+        {
+          "title": "Supreme Court Strikes Down Trump's Executive Order Ending Birthright Citizenship",
+          "subtitle": "Al Jazeera / NPR / SCOTUSblog",
+          "meta": "~24h ago · US Politics & Law",
+          "summary": "In a 6–3 ruling in Trump v. Barbara, Chief Justice John Roberts held that Trump's order barring citizenship for US-born children of undocumented parents is irreconcilable with the 14th Amendment, reaffirming a principle in place since 1898. Trump called the decision 'too bad for our country' and signaled he may seek congressional action to narrow birthright citizenship.",
+          "url": "https://www.aljazeera.com/news/2026/7/1/us-supreme-court-upholds-birthright-citizenship-who-wins-who-loses"
+        },
+        {
+          "title": "900+ Arrested in South Africa as Nationwide Anti-Immigrant Protests Turn Violent",
+          "subtitle": "NBC News / Washington Post",
+          "meta": "~20h ago · Africa",
+          "summary": "South African police arrested more than 900 people as anti-immigrant groups staged 120 marches on July 1 — a self-declared 'deadline' for undocumented migrants to leave the country — with 12 locations erupting in looting and violence. Hundreds of Nigerian and other foreign nationals have already fled or been voluntarily repatriated, in what observers describe as the country's worst migration-related unrest since 2008.",
+          "url": "https://www.nbcnews.com/world/africa/south-africa-arrests-nationwide-anti-migrant-protests-rcna352529"
+        },
+        {
+          "title": "US Stocks Slip as Weak ADP Data and Rate-Hike Fears Grip Markets",
+          "subtitle": "Charles Schwab / Yahoo Finance / Bloomberg",
+          "meta": "~6h ago · Markets",
+          "summary": "US equities pulled back in early Wednesday trading after ADP reported private employers added only 98,000 jobs in June, below forecasts, while investors await official June payrolls and a policy speech from Fed Chair Kevin Warsh. Futures markets now price roughly a 66% chance of a Fed rate hike in September, a sharp reversal from earlier expectations for cuts.",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "NBC News",
+    "CNBC",
+    "CNN",
+    "Washington Post",
+    "Al Jazeera",
+    "NPR",
+    "SCOTUSblog",
+    "Charles Schwab",
+    "Yahoo Finance",
+    "Bloomberg"
+  ],
+  "date": "2026-07-02",
+  "pretty": "Thursday, 02 July 2026",
+  "generated_at": "2026-07-02 10:41 CEST"
+}
