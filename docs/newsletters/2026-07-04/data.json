@@ -1,0 +1,59 @@
+{
+  "title": "Morning Headlines",
+  "intro": "America's 250th birthday arrives against a backdrop of paused Middle East peace talks, a mounting Venezuelan disaster, and an economy adding far fewer jobs than expected.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Iran Begins Week-Long Khamenei Funeral as US-Iran Peace Talks Are Paused",
+          "subtitle": "CBS News / CNN",
+          "meta": "~12h ago · Middle East",
+          "summary": "Iran opened multi-day state funeral ceremonies for Supreme Leader Ali Khamenei — assassinated in a joint US-Israeli strike in February — drawing millions of mourners to Tehran. US and Iranian negotiators have suspended peace talks in Doha for the duration of the funeral, though Qatar says discussions made 'positive progress' and will resume afterward.",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/"
+        },
+        {
+          "title": "Venezuela Earthquake Death Toll Surpasses 2,500 with 50,000+ Still Unaccounted For",
+          "subtitle": "ABC News / UN News",
+          "meta": "~24h ago · Latin America",
+          "summary": "Rescue crews are still combing through rubble nearly ten days after twin magnitude-7.5 and 7.2 earthquakes struck northwestern Venezuela on June 24, killing more than 2,595 people and injuring over 12,000. The UN reports more than 50,000 people remain unaccounted for in one of the hemisphere's worst natural disasters in years.",
+          "url": "https://abcnews.com/International/venezuela-earthquakes-latest-50000-unaccounted-death-toll-climbs/story?id=134386173"
+        },
+        {
+          "title": "US Economy Added Just 57,000 Jobs in June, Badly Missing Forecasts",
+          "subtitle": "CNBC / NPR",
+          "meta": "~2 days ago · Economy",
+          "summary": "The June payrolls report landed far below the 115,000-job consensus estimate, the weakest monthly gain since early in the pandemic era, as leisure and hospitality shed 61,000 positions. The labor force participation rate also fell to its lowest since 2021, raising fresh concerns about the durability of the US expansion amid ongoing trade-war headwinds.",
+          "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
+        },
+        {
+          "title": "Canada's Carney Secures Deal for Alberta-to-Pacific Pipeline to Reduce US Dependence",
+          "subtitle": "Al Jazeera / ABC News",
+          "meta": "~20h ago · Economy / Geopolitics",
+          "summary": "Prime Minister Mark Carney and Alberta Premier Danielle Smith unveiled a new southern-BC route for a pipeline that would carry one million barrels of oil per day to Canada's Pacific coast, opening access to Asian markets. The move is a direct response to US tariff pressure and advances Carney's goal of doubling non-US exports within a decade.",
+          "url": "https://www.aljazeera.com/economy/2026/7/3/canadas-carney-secures-deal-for-pipeline-to-expand-oil-exports-beyond-us"
+        },
+        {
+          "title": "Trump Hosts Supersized July 4 Rally on the National Mall for America's 250th",
+          "subtitle": "The Hill / CNN",
+          "meta": "~6h ago · US Politics",
+          "summary": "President Trump is staging an unprecedented Independence Day celebration featuring more than 850,000 fireworks from ten sites — dwarfing any prior Washington display — alongside a lengthy presidential address, despite forecasted 107°F heat. Air-quality experts warn that the scale of pyrotechnics combined with the extreme heat creates dangerous smoke conditions for vulnerable spectators.",
+          "url": "https://thehill.com/homenews/administration/5950451-july-4th-trump-rally-heat/"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CBS News",
+    "CNN",
+    "ABC News",
+    "UN News",
+    "CNBC",
+    "NPR",
+    "Al Jazeera",
+    "The Hill"
+  ],
+  "date": "2026-07-04",
+  "pretty": "Saturday, 04 July 2026",
+  "generated_at": "2026-07-04 10:18 CEST"
+}
