@@ -1,0 +1,59 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A deepening humanitarian catastrophe in Venezuela, rising Strait of Hormuz tensions threatening oil markets, and a historic Catholic schism headline a turbulent stretch of global news.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Venezuela Earthquake Toll Nears 3,000 With Nearly 50,000 Still Missing",
+          "subtitle": "NBC News",
+          "meta": "~1d ago · South America / Humanitarian",
+          "summary": "Twin magnitude 7.2 and 7.5 earthquakes that struck Venezuela on June 24 have left nearly 3,000 confirmed dead and up to 50,000 people unaccounted for, with the recovery effort now focused on retrieving remains rather than rescue. The scale of the disaster — compounded by Venezuela's already strained infrastructure — makes it one of the deadliest earthquake events in the Western Hemisphere in decades.",
+          "url": "https://www.nbcnews.com/world/venezuela/venezuela-earthquake-latest-death-toll-missing-rescues-la-guaira-rcna352179"
+        },
+        {
+          "title": "Iran Says It Will 'Definitely' Charge Hormuz Transit Fees, Defying U.S.",
+          "subtitle": "NBC News / Times of Israel",
+          "meta": "~1d ago · Middle East / Markets",
+          "summary": "Iran and Oman are moving to jointly impose compulsory navigation fees on vessels transiting the Strait of Hormuz, with Tehran's ambassador to China confirming the charges are coming despite explicit U.S. opposition. About 20% of the world's oil supply passes through the strait, meaning the policy could jolt global energy markets.",
+          "url": "https://www.nbcnews.com/world/iran/iran-oman-propose-fee-plan-strait-hormuz-sources-say-rcna352822"
+        },
+        {
+          "title": "Trump Calls U.S.-NATO Relationship 'Ridiculous' Days Before Ankara Summit",
+          "subtitle": "CBS News",
+          "meta": "~2d ago · Politics / Geopolitics",
+          "summary": "President Trump posted on Truth Social that it is 'ridiculous' for the U.S. to continue its 'one sided' commitment to NATO, casting doubt on American engagement just before the alliance's July 7–8 summit in Turkey. European allies are pressing for unity on Ukraine aid at the summit while Trump has repeatedly raised the prospect of withdrawing from the alliance.",
+          "url": "https://www.cbsnews.com/news/trump-nato-us-support-ridiculous/"
+        },
+        {
+          "title": "Pope Leo XIV Excommunicates Entire Clergy of Traditionalist Society of St. Pius X",
+          "subtitle": "NPR",
+          "meta": "~3d ago · Religion / Europe",
+          "summary": "The Vatican formally declared the Society of St. Pius X in schism and excommunicated its bishops and priests after the traditionalist group consecrated four bishops on July 1 without papal approval, directly defying Pope Leo XIV. The break is the most significant rupture in the Catholic Church since the SSPX's founder Marcel Lefebvre performed similar illicit ordinations in 1988.",
+          "url": "https://www.npr.org/2026/07/02/nx-s1-5878916/vatican-society-of-st-pius-x-in-schism"
+        },
+        {
+          "title": "Xi Jinping Promotes Two New Generals After Anti-Corruption Purge Depletes Senior Ranks",
+          "subtitle": "NPR",
+          "meta": "~1d ago · Asia / Politics",
+          "summary": "Chinese President Xi Jinping elevated Zhang Shuguang and Air Force Commander Wang Gang to the rank of general, filling vacancies created by a sweeping corruption crackdown that removed multiple senior officers. The promotions are widely seen as Xi's effort to install loyalists and tighten personal control over the People's Liberation Army.",
+          "url": "https://www.npr.org/2026/07/04/g-s1-131994/chinas-military-promotes-2-new-generals-after-anti-corruption-purge-thins-ranks"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "NBC News",
+    "Times of Israel",
+    "CBS News",
+    "NPR",
+    "Al Jazeera",
+    "ABC News",
+    "Washington Post",
+    "The Defense Post"
+  ],
+  "date": "2026-07-05",
+  "pretty": "Sunday, 05 July 2026",
+  "generated_at": "2026-07-05 10:36 CEST"
+}
