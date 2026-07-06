@@ -1,0 +1,61 @@
+{
+  "title": "Morning Headlines",
+  "intro": "Iran's massive state funeral for its assassinated Supreme Leader dominates world attention on a day that also sees a catastrophic typhoon strike U.S. Pacific territories, fresh cracks in the Trump-Netanyahu alliance, and record-chasing markets.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Iran's 12-Hour Funeral Procession for Assassinated Supreme Leader Draws Up to 20 Million",
+          "subtitle": "CBS News / Washington Post / NBC News",
+          "meta": "~8h ago · Middle East",
+          "summary": "A 12-hour procession through Tehran for Ayatollah Ali Khamenei — killed in a joint U.S.-Israeli airstrike on February 28 — drew an expected 15–20 million mourners in what could be the largest state funeral in Iranian history. The ceremony deepens the shadow of the ongoing U.S.-Iran war as Khamenei is set to be buried at the Imam Reza shrine in Mashhad.",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/"
+        },
+        {
+          "title": "Trump Says Netanyahu 'Knows Who the Boss Is' Ahead of Fraught White House Meeting",
+          "subtitle": "Axios",
+          "meta": "~36h ago · Politics / Middle East",
+          "summary": "President Trump publicly rebuked Israeli PM Benjamin Netanyahu — saying 'he knows who the boss is' — as the two leaders plan their first White House meeting since February, when Netanyahu presented the plan for the joint strike on Iran. Tensions have mounted over Israel's continued attacks on Lebanon, which Trump opposes and which threaten to collapse ceasefire negotiations.",
+          "url": "https://www.axios.com/2026/07/04/trump-israel-netanyahu-white-house-meeting-iran"
+        },
+        {
+          "title": "Category 5 Super Typhoon Bavi Makes Landfall on U.S. Pacific Island Territories",
+          "subtitle": "Al Jazeera / CNN / Stars and Stripes",
+          "meta": "~6h ago · Pacific / Natural Disaster",
+          "summary": "Super Typhoon Bavi, packing 180 mph sustained winds and gusts up to 215 mph, made landfall on Rota in the Northern Mariana Islands on Monday morning, with local authorities reporting 'major damages' to the island's 2,000 residents and key U.S. military installations. The storm — the third Category 5 of 2026 — is now tracking westward toward the Philippines.",
+          "url": "https://www.aljazeera.com/news/2026/7/6/super-typhoon-bavi-makes-landfall-on-us-pacific-islands"
+        },
+        {
+          "title": "Nasdaq and S&P 500 Futures Extend Rally as Dow Nears 53,000 Record",
+          "subtitle": "CNBC",
+          "meta": "~18h ago · Markets",
+          "summary": "U.S. stock futures climbed Monday — Nasdaq-100 futures up nearly 1% — extending last week's rally that lifted the Dow almost 2% toward record territory near 53,000. The gains come despite Friday's weak June jobs report showing only 57,000 payrolls added against a forecast of 115,000, stoking debate about the Federal Reserve's next move under new Chair Kevin Warsh.",
+          "url": "https://www.cnbc.com/2026/07/05/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "10-Man England Beat Mexico 3–2 in Instant World Cup Classic to Reach Quarter-Finals",
+          "subtitle": "NBC Sports / Al Jazeera / ESPN",
+          "meta": "~20h ago · Sport / World Cup 2026",
+          "summary": "Jude Bellingham's brace and Harry Kane's penalty saw England survive a red card and a furious Mexican comeback to win 3–2 in a round-of-16 thriller on July 5, widely hailed as the best match of the 2026 World Cup. The result eliminates host co-nation Mexico and sends England into the quarter-finals.",
+          "url": "https://www.nbcsports.com/soccer/live/mexico-vs-england-live-updates-score-goals-highlights-stats-from-2026-fifa-world-cup"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CBS News",
+    "Washington Post",
+    "NBC News",
+    "Axios",
+    "Al Jazeera",
+    "CNN",
+    "Stars and Stripes",
+    "CNBC",
+    "NBC Sports",
+    "ESPN"
+  ],
+  "date": "2026-07-06",
+  "pretty": "Monday, 06 July 2026",
+  "generated_at": "2026-07-06 11:49 CEST"
+}
