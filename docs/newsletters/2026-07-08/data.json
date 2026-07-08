@@ -1,0 +1,61 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A day defined by escalating conflict: the U.S. struck more than 80 targets inside Iran, NATO leaders convened in Ankara with Ukraine's fate on the line, and Russia's deadliest barrage in months killed 22 across Kyiv.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "U.S. Launches 80+ Strikes on Iran After Tanker Attacks in Strait of Hormuz",
+          "subtitle": "NPR / Bloomberg / CNN",
+          "meta": "~24h ago · Middle East",
+          "summary": "After Iranian forces struck three merchant vessels in the Strait of Hormuz—triggering fires and risking a catastrophic explosion on one LNG tanker—U.S. Central Command hit more than 80 Iranian targets including air-defense systems, coastal radar, and port facilities. The Trump administration simultaneously reimposed sanctions on Iranian oil, raising fears of a wider regional war and threatening global energy supplies through the world's most critical oil chokepoint.",
+          "url": "https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz"
+        },
+        {
+          "title": "Russia Kills 22 in Massive Overnight Missile and Drone Assault on Kyiv",
+          "subtitle": "ABC News / NPR / CBC News",
+          "meta": "~48h ago · Europe / Ukraine",
+          "summary": "Russia fired 68 missiles and 351 drones at Ukraine in one of its most intense barrages of the war, killing 15 people in Kyiv alone and exposing persistent gaps in Ukraine's air-defense network against ballistic missiles. The attack came on the eve of the NATO summit, amplifying Zelensky's calls for allies to approve longer-range weapon supplies and a formal path to membership.",
+          "url": "https://abcnews.com/International/wireStory/russias-missile-drone-attacks-ukraine-kill-22-134506761"
+        },
+        {
+          "title": "NATO Summit Opens in Ankara With Ukraine Support and Defense Spending at Center",
+          "subtitle": "Al Jazeera / CNBC",
+          "meta": "~24h ago · Europe / NATO",
+          "summary": "Leaders from all 32 NATO member states gathered in Ankara for the alliance's 36th summit, with Secretary General Mark Rutte pressing members to increase defense investment and bolster industrial output. President Trump—who said he might have skipped the summit if not hosted by Erdogan—held bilateral meetings with Erdogan and Zelensky, while the backdrop of simultaneous U.S.-Iran strikes and Russian attacks on Kyiv sharpened the stakes for every agenda item.",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara"
+        },
+        {
+          "title": "Marine Le Pen Vows to Run for French Presidency Despite Court-Ordered Ankle Monitor",
+          "subtitle": "NPR / PBS News",
+          "meta": "~12h ago · Europe / France",
+          "summary": "A Paris appeals court found Le Pen guilty of embezzlement, fined her €100,000, and sentenced her to one year under house arrest with an electronic monitor—while reducing her ban on holding office from five years to 45 months. Le Pen immediately said she will appeal to France's highest court, which would suspend the sentence, allowing her to campaign bracelet-free ahead of the April 2027 presidential election.",
+          "url": "https://www.npr.org/2026/07/08/g-s1-132467/le-pen-court-ordered-monitor"
+        },
+        {
+          "title": "Eli Lilly's Oral Weight-Loss Pill Orforglipron Outperforms Oral Semaglutide in Head-to-Head Trial",
+          "subtitle": "Scientific American / The Lancet",
+          "meta": "~24h ago · Science / Health",
+          "summary": "In the ACHIEVE-3 Phase 3 trial, Lilly's once-daily pill orforglipron produced 9.2% average body-weight loss versus 5.3% for oral semaglutide—a 73% greater relative reduction—while also delivering superior blood-sugar control in adults with type 2 diabetes. The results, published in The Lancet, strengthen Lilly's regulatory submissions in more than 40 countries and could accelerate a shift away from injectable GLP-1 therapies for millions of patients.",
+          "url": "https://www.scientificamerican.com/article/head-to-head-trial-shows-eli-lillys-oral-glp-1-orforglipron-outperforms-oral/"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "NPR",
+    "Bloomberg",
+    "CNN",
+    "ABC News",
+    "CBC News",
+    "Al Jazeera",
+    "CNBC",
+    "PBS News",
+    "Scientific American",
+    "The Lancet"
+  ],
+  "date": "2026-07-08",
+  "pretty": "Wednesday, 08 July 2026",
+  "generated_at": "2026-07-08 10:03 CEST"
+}
