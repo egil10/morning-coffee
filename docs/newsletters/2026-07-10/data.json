@@ -1,0 +1,61 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A second consecutive night of US-Iran strikes, a worsening Ebola crisis in Congo, and surging oil prices signal one of the most turbulent Fridays of 2026.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "US Strikes Iran for Second Night; Iran Fires Missiles at US Bases Across the Gulf",
+          "subtitle": "Washington Post / Al Jazeera",
+          "meta": "~20h ago · Middle East / Conflict",
+          "summary": "US forces struck roughly 90 Iranian military targets along the Strait of Hormuz coastline on Thursday night — a follow-up to 80-plus strikes the night before — while Iran retaliated by firing missiles and drones at US military installations in Bahrain, Kuwait, and Qatar, effectively collapsing a fragile ceasefire and raising fears of broader regional war.",
+          "url": "https://www.washingtonpost.com/world/2026/07/09/us-intensifies-strikes-irans-coast-along-strait-hormuz/"
+        },
+        {
+          "title": "Congo Ebola Death Toll Hits 600 as Outbreak Spreads to New Provinces and Uganda",
+          "subtitle": "Al Jazeera / Washington Times",
+          "meta": "~18h ago · Africa / Health",
+          "summary": "At least 600 people have now died in the Democratic Republic of Congo's Ebola outbreak — the fastest-climbing death toll at any comparable point in outbreak history — with 1,759 confirmed cases now spreading beyond the initial northeastern zone into previously unaffected provinces and Uganda's capital Kampala; no approved vaccine exists for this Bundibugyo strain.",
+          "url": "https://www.aljazeera.com/news/2026/7/9/confirmed-ebola-deaths-in-dr-congo-hit-600"
+        },
+        {
+          "title": "Oil Surges to Multi-Month Highs and Fed Rate-Hike Odds Jump to 70% as Iran War Rattles Markets",
+          "subtitle": "Bloomberg / Rio Times Online",
+          "meta": "~14h ago · Economy / Markets",
+          "summary": "Crude oil prices spiked to their highest level since spring as US-Iran fighting disrupted Strait of Hormuz shipping, while the 10-year US Treasury yield climbed to its highest since May; traders now price in roughly a 70% probability of a Federal Reserve rate hike at the September meeting — up from 58% the day before — as energy-driven inflation fears mount.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-09/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "title": "France Beat Morocco 2-0 to Become World Cup 2026's First Semifinalist",
+          "subtitle": "MSN / Euronews",
+          "meta": "~6h ago · Sports / World Cup 2026",
+          "summary": "Les Bleus convincingly defeated Morocco 2-0 in the quarterfinals of the 2026 FIFA World Cup — hosted across the US, Canada, and Mexico — to advance to the last four, drawing enormous global viewership and setting up what is expected to be a blockbuster semifinal matchup.",
+          "url": "https://www.msn.com/en-us/sports/soccer/world-cup-2026-today-live-updates-latest-news-as-france-ease-into-semifinals-july-10/ar-AA27C0j4"
+        },
+        {
+          "title": "Manchester Mayor Andy Burnham Expected to Succeed Keir Starmer as UK Labour Leader and Prime Minister",
+          "subtitle": "World News Group / WORLD",
+          "meta": "~4h ago · UK / Politics",
+          "summary": "Manchester Mayor Andy Burnham has emerged as the clear frontrunner to take over as leader of the UK Labour Party and succeed Keir Starmer as Prime Minister, marking a significant generational shift in British politics that could reshape the government's domestic and foreign policy priorities.",
+          "url": "https://wng.org/podcasts/friday-morning-news-july-10-2026-1783635674"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Washington Post",
+    "Al Jazeera",
+    "Bloomberg",
+    "Washington Times",
+    "MSN",
+    "World News Group",
+    "Rio Times Online",
+    "Fox News",
+    "Euronews",
+    "UN News"
+  ],
+  "date": "2026-07-10",
+  "pretty": "Friday, 10 July 2026",
+  "generated_at": "2026-07-10 10:57 CEST"
+}
