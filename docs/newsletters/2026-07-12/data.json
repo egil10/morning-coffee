@@ -1,0 +1,57 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A widening military confrontation in the Gulf, a fast-moving Ebola epidemic, and a mounting earthquake disaster in Venezuela headline a volatile 24 hours across the globe.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Iran strikes Qatar, UAE and Bahrain as Strait of Hormuz crisis escalates",
+          "subtitle": "Euronews / NPR",
+          "meta": "~4h ago · Middle East",
+          "summary": "Hours after a third round of U.S. airstrikes on Iranian targets, Iran launched missiles and drones at Bahrain, Qatar and the UAE — with explosions visible over Doha and sirens sounding near the U.S. Navy's Fifth Fleet in Bahrain. Iran has declared the Strait of Hormuz closed 'until further notice,' threatening global energy supply and pushing the region toward open war.",
+          "url": "https://www.euronews.com/2026/07/12/iran-launches-attacks-on-qatar-uae-bahrain-kuwait-following-us-strikes"
+        },
+        {
+          "title": "Ebola death toll in Congo tops 600 as outbreak spreads to new provinces",
+          "subtitle": "PBS NewsHour / NPR",
+          "meta": "~36h ago · Africa / Public Health",
+          "summary": "Congo's Ebola outbreak — now the third largest on record — has killed more than 600 people, with suspected cases appearing for the first time in the provinces of Tshopo and Haut-Uele, far from the Ituri epicenter. The Bundibugyo strain driving the outbreak has no approved vaccine or treatment; a clinical trial of two therapies began July 2.",
+          "url": "https://www.pbs.org/newshour/world/ebola-death-toll-in-congo-tops-600-new-cases-also-suspected-in-previously-unaffected-provinces"
+        },
+        {
+          "title": "Venezuela earthquake death toll rises past 4,300 with thousands still missing",
+          "subtitle": "Anadolu Agency / Al Jazeera",
+          "meta": "~24h ago · South America",
+          "summary": "The twin earthquakes (M7.2 and M7.5) that struck Venezuela on June 24 have now killed more than 4,300 people and injured over 16,700, with the U.S. Geological Survey warning the final toll could reach into the tens of thousands. Thousands remain displaced and rescue operations are ongoing across the devastated region.",
+          "url": "https://aa.com.tr/en/world/morning-briefing-july-12-2026/3995370"
+        },
+        {
+          "title": "Nine months into ceasefire, Israel now controls nearly 70% of Gaza",
+          "subtitle": "NPR",
+          "meta": "~36h ago · Middle East",
+          "summary": "Despite a U.S.-brokered ceasefire that took effect in October 2025, Israeli forces have steadily expanded their footprint inside Gaza and now control nearly 70% of the territory, up from roughly half at the ceasefire's start. About 200 Palestinians have been killed near shifting Israeli lines since the truce began, and 2 million civilians are compressed into Gaza's western coast.",
+          "url": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control"
+        },
+        {
+          "title": "Bellingham brace sends England into World Cup semifinals",
+          "subtitle": "ESPN / NPR",
+          "meta": "~12h ago · Sport / FIFA World Cup 2026",
+          "summary": "Jude Bellingham scored twice — including an extra-time winner — to lift England past Norway 2-1 in Miami, booking their first World Cup semifinal since 2018. England face either Argentina or Switzerland on July 15; Spain and France meet in Tuesday's other semifinal.",
+          "url": "https://www.espn.com/soccer/story/_/id/49336933/norway-england-world-cup-2026-result-score-recap-harry-kane-erling-haaland-jude-bellingham"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Euronews",
+    "NPR",
+    "PBS NewsHour",
+    "Anadolu Agency",
+    "Al Jazeera",
+    "ESPN"
+  ],
+  "date": "2026-07-12",
+  "pretty": "Sunday, 12 July 2026",
+  "generated_at": "2026-07-12 09:53 CEST"
+}
