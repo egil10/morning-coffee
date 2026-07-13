@@ -1,0 +1,61 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A fourth night of US-Iran strikes rocks the Middle East as oil markets surge, a deadly Ebola outbreak widens, and a wildfire of 'exceptional scale' threatens the suburbs of Paris.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "US Strikes 140 Iranian Sites; Iran Fires on Gulf States as Ceasefire Collapses",
+          "subtitle": "CNN / Al Jazeera / NPR",
+          "meta": "~12h ago · Middle East",
+          "summary": "The US carried out its fourth strike in a week against Iran overnight Saturday, hitting roughly 140 military targets; Iran responded with salvos aimed at Kuwait, Jordan, the UAE, Qatar, and Oman, and declared the Strait of Hormuz closed 'until further notice.' The exchange effectively ends a fragile memorandum of understanding and marks the sharpest escalation of the US-Iran conflict to date.",
+          "url": "https://edition.cnn.com/2026/07/12/world/live-news/iran-war-trump"
+        },
+        {
+          "title": "Oil Jumps 4% as Iran Declares Strait of Hormuz Closed",
+          "subtitle": "Al Jazeera / Bloomberg / The National",
+          "meta": "~8h ago · Markets & Economy",
+          "summary": "Brent crude surged to $79.16 a barrel — a 5.4% weekly gain — after Iran threatened to shut the Strait of Hormuz through which roughly 20% of globally traded oil flows; maritime traffic through the strait fell from 18-22 daily crossings to just six over the past 48 hours. The spike raised fresh fears of an oil-price shock and prompted Goldman Sachs to push its next Fed rate-cut forecast back to 2027.",
+          "url": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz"
+        },
+        {
+          "title": "Ebola Death Toll Passes 625 in Congo as Outbreak Becomes Third-Largest on Record",
+          "subtitle": "UN News / NPR / CDC",
+          "meta": "~36h ago · Global Health",
+          "summary": "The DRC's Ebola outbreak — caused by the Bundibugyo species for which there is no approved vaccine — has reached 1,792 confirmed cases and 625 deaths, spreading beyond the Ituri epicenter into Tshopo and Haut-Uele provinces; cases have also been confirmed in Uganda and imported into Germany and France. WHO warns it is spreading faster than any previous Ebola outbreak, and a clinical trial of two therapies began July 2.",
+          "url": "https://news.un.org/en/story/2026/07/1167882"
+        },
+        {
+          "title": "Wildfire of 'Exceptional Scale' Tears Through Fontainebleau Forest, Closes Paris's Main Highway",
+          "subtitle": "France 24 / Euronews",
+          "meta": "~18h ago · Europe",
+          "summary": "A fast-moving blaze raced across more than 800 hectares of the Fontainebleau forest about 60 km south-east of Paris, forcing evacuations and shutting stretches of the A6 — France's main north-south motorway — during a peak summer travel weekend. France deployed fire-bomber aircraft to the Paris region for the first time on record, as the capital endures its third heatwave since May.",
+          "url": "https://www.euronews.com/my-europe/2026/07/13/residents-evacuated-as-fire-of-exceptional-scale-rages-in-fontainebleau-forest-south-of-pa"
+        },
+        {
+          "title": "Argentina Beats Switzerland 3-1 (AET) to Set Up England World Cup Semifinal",
+          "subtitle": "Al Jazeera / ESPN / NPR",
+          "meta": "~20h ago · Sports / World Cup 2026",
+          "summary": "Defending champions Argentina edged Switzerland 3-1 after extra time in Kansas City — Julián Álvarez's long-range strike in the 112th minute proving decisive — and will face England in the semifinals in Atlanta on Wednesday. The match drew global audiences in the billions as the North American-hosted World Cup reaches its final four.",
+          "url": "https://www.aljazeera.com/sports/2026/7/12/argentina-defeat-switzerland-to-set-up-england-semifinal-at-world-cup-2026"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CNN",
+    "Al Jazeera",
+    "NPR",
+    "Bloomberg",
+    "The National",
+    "UN News",
+    "CDC",
+    "France 24",
+    "Euronews",
+    "ESPN"
+  ],
+  "date": "2026-07-13",
+  "pretty": "Monday, 13 July 2026",
+  "generated_at": "2026-07-13 10:39 CEST"
+}
