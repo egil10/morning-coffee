@@ -1,0 +1,61 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A volatile Monday shaped by active U.S.-Iran strikes over the Strait of Hormuz, the sudden death of a key U.S. senator, and a landmark warning from Nobel economists on AI's looming economic upheaval.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "U.S. and Iran Trade Strikes as Hormuz Blockade Takes Effect, Pushing Oil Above $83",
+          "subtitle": "NPR / CNN / Al Jazeera / CNBC",
+          "meta": "~12h ago · Middle East & Markets",
+          "summary": "The U.S. launched a third consecutive night of airstrikes against Iran while Iranian cruise missiles struck two UAE oil tankers in Omani waters, killing at least one crew member. Trump simultaneously reimposed a naval blockade on Iranian ports and announced a 20% toll on all cargo transiting the strait, halving shipping crossings and sending Brent crude above $83 per barrel.",
+          "url": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates"
+        },
+        {
+          "title": "Senator Lindsey Graham, Longtime South Carolina Republican and Trump Ally, Dies at 71",
+          "subtitle": "NBC News / Washington Post / NPR",
+          "meta": "~36h ago · U.S. Politics",
+          "summary": "Graham died Saturday night at his Capitol Hill home from an aortic dissection, hours after returning from a trip to Ukraine; he was seeking a fifth Senate term. South Carolina's governor has already appointed a replacement to serve out the remainder of his term until early 2027, reshaping the Senate's Republican balance.",
+          "url": "https://www.nbcnews.com/politics/politics-news/sen-lindsey-graham-dies-71-brief-sudden-illness-rcna552722"
+        },
+        {
+          "title": "Nobel Laureates Among 200+ Economists Warn Leaders: 'We Must Act Now' on AI Job Displacement",
+          "subtitle": "Washington Post / Al Jazeera / U.S. News",
+          "meta": "~24h ago · Economy & Technology",
+          "summary": "A Stanford-organized statement signed by more than 200 economists and AI researchers — including 16 Nobel laureates, the chief economists of OpenAI and Anthropic, and former Google CEO Eric Schmidt — warns that AI may drive disruption 'larger than the Industrial Revolution, but unfolding over a vastly shorter time frame.' They urge immediate policy action before mass job displacement becomes irreversible.",
+          "url": "https://www.washingtonpost.com/technology/2026/07/13/nobel-economists-tech-leaders-warn-how-ai-could-threaten-jobs/"
+        },
+        {
+          "title": "Julián Álvarez's 112th-Minute Screamer Sends Argentina Into World Cup Semifinal Against England",
+          "subtitle": "ESPN / Sky Sports / NBC News",
+          "meta": "~36h ago · Sport / World Cup 2026",
+          "summary": "Defending champions Argentina edged Switzerland 3-1 in extra time in a Kansas City quarterfinal, with Álvarez's stunning long-range strike in the 112th minute proving the decisive blow. Argentina will now face England in Atlanta in a highly anticipated semifinal loaded with historic rivalry, with a final berth against France or Spain on the line.",
+          "url": "https://www.espn.com/soccer/story/_/id/49339687/argentina-switzerland-2026-world-cup-julian-alvarez-england"
+        },
+        {
+          "title": "Justice Department Subpoenas Four New York Times Reporters Over Air Force One Security Stories",
+          "subtitle": "NPR / Washington Post / PBS NewsHour",
+          "meta": "~48h ago · U.S. Politics & Press Freedom",
+          "summary": "The Trump administration issued federal grand jury subpoenas to four NYT journalists who reported that the Boeing 747 gifted by Qatar lacks the anti-missile countermeasures of the old Air Force One. Press freedom organizations condemned the move as a direct attack on the First Amendment, while the Justice Department said it was targeting leakers of classified information rather than the reporters themselves.",
+          "url": "https://www.npr.org/2026/07/13/nx-s1-5890969/doj-subpoenas-new-york-times-reporters-over-air-force-one-reporting"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "NPR",
+    "CNN",
+    "Al Jazeera",
+    "CNBC",
+    "NBC News",
+    "Washington Post",
+    "ESPN",
+    "Sky Sports",
+    "PBS NewsHour",
+    "U.S. News & World Report"
+  ],
+  "date": "2026-07-14",
+  "pretty": "Tuesday, 14 July 2026",
+  "generated_at": "2026-07-14 09:33 CEST"
+}
