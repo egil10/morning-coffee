@@ -1,0 +1,61 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A collapsing US-Iran ceasefire and a naval blockade on the world's most critical oil chokepoint dominate global attention, as trade records, a Bangkok tragedy, a World Cup semifinal, and cooling inflation fill out a consequential Wednesday.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "US Reimoses Naval Blockade on Iran as Strait of Hormuz War Escalates",
+          "subtitle": "CBS News / Al Jazeera / Bloomberg",
+          "meta": "~18h ago · Middle East / Global Energy",
+          "summary": "The US military restored its naval blockade of Iranian ports at 4 p.m. ET on July 14 and launched dozens of new strikes on Iranian military targets near the Strait of Hormuz — through which roughly 20% of world energy supplies pass — after a brief ceasefire collapsed. The renewed conflict is pushing oil prices higher and rattling global markets.",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-attacks-strait-of-hormuz/"
+        },
+        {
+          "title": "China's June Exports Hit Record $412 Billion, Surging 27% on AI Boom and Tariff Rush",
+          "subtitle": "CNBC / South China Morning Post",
+          "meta": "~20h ago · Economy / Trade",
+          "summary": "China's exports jumped 27% year-on-year in June to a record $412.39 billion, far exceeding forecasts, as soaring global demand for AI data-center hardware and buyers racing ahead of new US tariffs that took effect July 1 drove the second-largest monthly trade surplus on record. The figures underscore China's continued manufacturing dominance despite rising geopolitical headwinds.",
+          "url": "https://www.cnbc.com/2026/07/14/china-june-trade-data-exports-imports.html"
+        },
+        {
+          "title": "Bangkok Music Bar Fire Death Toll Rises to 30 as Police Probe Negligence",
+          "subtitle": "NPR / Al Jazeera",
+          "meta": "~22h ago · Southeast Asia",
+          "summary": "The death toll from a fire at the Rong Beer Na Lat Phrao live-music venue in Bangkok's Chatuchak district climbed to 30, with dozens more hospitalized in critical condition, after an electrical fault in a ceiling AC unit ignited flammable soundproofing and blocked emergency exits. Thai police are investigating possible negligence after finding beer crates and furniture obstructing escape routes.",
+          "url": "https://www.npr.org/2026/07/14/g-s1-133425/death-toll-bangkok-fire"
+        },
+        {
+          "title": "England vs. Argentina: Football's Fiercest Rivalry Renewed in World Cup Semifinal",
+          "subtitle": "Al Jazeera / FIFA",
+          "meta": "~3h ago · Sports / World Cup 2026",
+          "summary": "England and Argentina met today in the FIFA World Cup 2026 semifinal in Atlanta — their first World Cup clash since 2002 — with Lionel Messi and Harry Kane headlining a match watched by billions worldwide. The winner advances to the July 19 final at MetLife Stadium in New York/New Jersey.",
+          "url": "https://www.aljazeera.com/sports/2026/7/15/argentina-england-world-cup-semifinal-messi-kane-prediction-time"
+        },
+        {
+          "title": "US Stocks Rise to Records as June CPI Shows Consumer Prices Dipped",
+          "subtitle": "Charles Schwab / CNBC",
+          "meta": "~6h ago · Economy / Markets",
+          "summary": "June CPI data showed monthly consumer prices fell 0.1%, with core inflation holding at 2.9% year-over-year, lifting the Dow Jones above 53,000 to a record close and bolstering hopes for a Fed rate cut before year-end. Major bank earnings from Morgan Stanley, Johnson & Johnson, and BlackRock are also due today, keeping markets on watch.",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CBS News",
+    "Al Jazeera",
+    "Bloomberg",
+    "CNBC",
+    "NPR",
+    "South China Morning Post",
+    "Charles Schwab",
+    "FIFA",
+    "CNN",
+    "Washington Post"
+  ],
+  "date": "2026-07-15",
+  "pretty": "Wednesday, 15 July 2026",
+  "generated_at": "2026-07-15 09:46 CEST"
+}
