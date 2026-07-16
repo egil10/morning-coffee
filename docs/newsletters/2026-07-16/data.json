@@ -1,0 +1,60 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A day of escalating conflict and consequential decisions: the U.S.-Iran war intensifies, Washington opens a fresh trade front against Brazil, China's economy shows new cracks, Britain's next prime minister is effectively decided, and SpaceX targets its first payload-carrying Starship flight.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "U.S. Strikes Iran Again as Tehran Threatens to 'Crush' Regional Infrastructure",
+          "subtitle": "Al Jazeera / CNN",
+          "meta": "~12h ago · Middle East",
+          "summary": "U.S. forces carried out another wave of strikes on Iranian military sites on July 16, targeting coastal surveillance and missile facilities while a naval blockade of Iranian ports remained in force. Iran's military warned it would crush 'all infrastructure in the region' if the U.S. attacks civilian sites, raising fears of a wider regional war as ceasefire talks remain stalled.",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker"
+        },
+        {
+          "title": "U.S. Hits Brazil with 25% Tariffs Over 'Unfair Trade Practices'",
+          "subtitle": "CNBC / CNN Business",
+          "meta": "~12h ago · Trade & Economy",
+          "summary": "The Trump administration announced sweeping 25% tariffs on most Brazilian imports, effective July 22, following a yearlong USTR investigation into discriminatory barriers and lax anti-corruption enforcement — opening a significant new front in U.S. trade policy in Latin America. Brazil condemned the move, and a separate forced-labor probe could add another 12.5% on top.",
+          "url": "https://www.cnbc.com/2026/07/16/us-tariffs-brazil-unfair-trade-practices-section-301-.html"
+        },
+        {
+          "title": "China's Economy Posts Slowest Quarterly Growth Since 2022",
+          "subtitle": "CNBC / China National Bureau of Statistics",
+          "meta": "~24h ago · Economy",
+          "summary": "China's GDP grew 4.7% year-on-year in the first half of 2026, but Q2 slipped to just 4.3% — the weakest reading since 2022 — as sluggish consumer spending and business investment offset strong exports driven partly by the global AI boom. The figure falls within Beijing's 4.5–5% annual target but underscores persistent structural headwinds facing the world's second-largest economy.",
+          "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html"
+        },
+        {
+          "title": "Andy Burnham Set to Become UK Prime Minister After Nomination Deadline Passes",
+          "subtitle": "PBS NewsHour / Al Jazeera",
+          "meta": "~6h ago · UK Politics",
+          "summary": "Labour Party leadership nominations closed today with Andy Burnham mathematically certain to be the only candidate, meaning he will be formally announced as Britain's next prime minister on July 17 — ending a leadership crisis triggered by Keir Starmer's resignation in June. Burnham's near-certain appointment will make him the UK's seventh prime minister in ten years.",
+          "url": "https://www.pbs.org/newshour/world/andy-burnham-prepares-for-a-uk-labour-leadership-contest-that-may-be-a-coronation"
+        },
+        {
+          "title": "SpaceX Targets Starship Flight 13 — First Mission to Carry Starlink Satellites",
+          "subtitle": "Space.com / SpaceX",
+          "meta": "~6h ago · Science & Technology",
+          "summary": "SpaceX is targeting a July 16 evening launch for Starship's 13th test flight, the first to carry a commercial payload — 20 next-generation Starlink V3 satellites — while also attempting a Raptor engine relight in orbit and a Super Heavy booster catch. Success would mark the transition of the world's most powerful rocket from test vehicle to operational launcher.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-13-launch-what-time"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Al Jazeera",
+    "CNN",
+    "CNBC",
+    "CNN Business",
+    "PBS NewsHour",
+    "Space.com",
+    "Bloomberg",
+    "China National Bureau of Statistics",
+    "SpaceX"
+  ],
+  "date": "2026-07-16",
+  "pretty": "Thursday, 16 July 2026",
+  "generated_at": "2026-07-16 09:52 CEST"
+}
