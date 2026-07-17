@@ -1,0 +1,60 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A day shaped by escalating U.S.-Iran strikes, a record-breaking Ebola crisis, sweeping new trade tariffs, a UK political transition, and a historic World Cup final on the horizon.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "U.S. Launches Sixth Consecutive Night of Strikes on Iran as Qatar and Kuwait Hit by Missiles",
+          "subtitle": "Al Jazeera / CNN",
+          "meta": "~18h ago · Middle East",
+          "summary": "The U.S. military completed its sixth straight night of airstrikes on Iran, targeting military sites along the southern coast and near the Strait of Hormuz. Iran struck back at U.S. positions in Kuwait and Qatar — where a child was wounded — marking a dangerous spread of the conflict beyond Iranian borders after the June ceasefire collapsed.",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker"
+        },
+        {
+          "title": "WHO: Ebola Spreading in DR Congo 'Faster Than Any Previous Outbreak Ever Seen'",
+          "subtitle": "France 24 / UN News",
+          "meta": "~18h ago · Africa / Global Health",
+          "summary": "The World Health Organization warned that the Ebola outbreak in eastern DR Congo has hit nearly 2,000 confirmed cases and over 700 deaths across five provinces, with the fastest single-month growth on record. The rare Bundibugyo strain driving it has no approved vaccine or treatment, and more than 80% of new cases stem from untraceable transmission chains amid active armed conflict.",
+          "url": "https://www.france24.com/en/africa/20260716-ebola-spreading-faster-than-any-previous-outbreak-dr-congo-who-warns"
+        },
+        {
+          "title": "Trump Imposes 25% Tariffs on Brazil, Signals Imminent Global Rollout Covering 80+ Countries",
+          "subtitle": "CNBC / Washington Post",
+          "meta": "~20h ago · Economy / Trade",
+          "summary": "The Trump administration announced 25% tariffs on most Brazilian imports — citing unfair trade practices, tech discrimination, and illegal deforestation — with levies taking effect July 22. Officials confirmed a broader global tariff wave targeting more than 80 countries is expected within weeks, extending the administration's aggressive trade posture worldwide.",
+          "url": "https://www.cnbc.com/2026/07/16/us-tariffs-brazil-unfair-trade-practices-section-301-.html"
+        },
+        {
+          "title": "Andy Burnham Poised to Become UK Prime Minister July 20 as Labour Leadership Vote Closes",
+          "subtitle": "Bloomberg / Al Jazeera",
+          "meta": "~18h ago · United Kingdom / Politics",
+          "summary": "Labour's leadership nomination window closed July 16 with Andy Burnham securing support from 349 of 403 Labour MPs — an unassailable majority — following Keir Starmer's resignation in June. Burnham is set to be formally installed as the UK's sixth prime minister in seven years on July 20.",
+          "url": "https://www.aljazeera.com/news/2026/7/13/andy-burnham-in-line-to-become-british-pm-after-securing-party-support"
+        },
+        {
+          "title": "2026 FIFA World Cup Final Set: Argentina vs. Spain at MetLife Stadium on Sunday",
+          "subtitle": "Fox Sports / NBC New York",
+          "meta": "~24h ago · Global Sports",
+          "summary": "Argentina and Spain will meet in the first-ever World Cup final between the two nations on July 19 in East Rutherford, New Jersey, after Argentina's dramatic late comeback over England and Spain's 2–0 defeat of France. Argentina is chasing back-to-back World Cup titles — a feat unseen since Brazil in 1958 and 1962 — with Lionel Messi playing in what is likely his final World Cup.",
+          "url": "https://www.foxsports.com/stories/soccer/2026-world-cup-bracket-semifinals-final-matchups"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Al Jazeera",
+    "CNN",
+    "France 24",
+    "UN News",
+    "CNBC",
+    "Washington Post",
+    "Bloomberg",
+    "Fox Sports",
+    "NBC New York"
+  ],
+  "date": "2026-07-17",
+  "pretty": "Friday, 17 July 2026",
+  "generated_at": "2026-07-17 09:49 CEST"
+}
