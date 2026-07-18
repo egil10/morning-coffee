@@ -1,0 +1,58 @@
+{
+  "title": "Morning Headlines",
+  "intro": "From the Strait of Hormuz to Wall Street, the day is shaped by military escalation with Iran, a new trade war front opened against Brazil, and a sharp selloff across global markets.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Iran Calls Strait of Hormuz an 'Unbreakable Red Line' as U.S. Expands Strikes",
+          "subtitle": "CNN / CNBC",
+          "meta": "~8h ago · Middle East",
+          "summary": "After a fifth consecutive night of U.S. military operations against Iran, Tehran warned that any move to interfere with the Strait of Hormuz — through which roughly 20% of global oil flows — will be met with full retaliation, and asked Houthi forces in Yemen to stand ready to close the Red Sea route as well. Trump has threatened to strike Iranian power plants and bridges next week if no diplomatic breakthrough is reached.",
+          "url": "https://edition.cnn.com/2026/07/16/world/live-news/iran-war-trump"
+        },
+        {
+          "title": "Chip Selloff, Oil Surge, and Netflix Miss Batter Markets at Open",
+          "subtitle": "Charles Schwab / CNBC",
+          "meta": "~4h ago · Markets",
+          "summary": "U.S. equities opened sharply lower Friday as the PHLX Semiconductor Index extended losses toward 20% from recent highs, Brent oil climbed above $80 on Middle East tensions, and Netflix shed more than 10% after quarterly revenue narrowly missed consensus. Investors rotated out of tech and into financials, industrials, and energy ahead of hyperscaler earnings next week.",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "title": "Zelenskyy Ousts Popular Defense Minister Fedorov; Protests Erupt Across Ukraine",
+          "subtitle": "The Washington Post / NPR",
+          "meta": "~18h ago · Europe",
+          "summary": "President Volodymyr Zelenskyy abruptly fired Defense Minister Mykhailo Fedorov — architect of Ukraine's battlefield drone program — citing an irreconcilable clash between Fedorov and top military commander Syrsky. Thousands took to the streets in Ukrainian cities, underscoring how closely the country's wartime identity had become tied to Fedorov's tech-first approach to fighting Russia.",
+          "url": "https://www.washingtonpost.com/world/2026/07/16/zelensky-ousts-popular-defense-minister-an-architect-ukraines-drone-program/"
+        },
+        {
+          "title": "Trump Imposes 25% Tariffs on Brazil, Signaling Global Rollout Within Weeks",
+          "subtitle": "CNBC / CNN Business",
+          "meta": "~36h ago · Trade",
+          "summary": "The Trump administration announced 25% duties on most Brazilian goods under a Section 301 investigation, citing digital trade restrictions, intellectual property violations, and deforestation practices, with the tariffs set to take effect July 22. The move is widely seen as the opening salvo in a wider global tariff sweep expected to cover more than 80 countries within weeks.",
+          "url": "https://www.cnbc.com/2026/07/16/us-tariffs-brazil-unfair-trade-practices-section-301-.html"
+        },
+        {
+          "title": "Bangkok Bar Fire Death Toll Reaches 33; Band Members Among the Dead",
+          "subtitle": "NPR / Al Jazeera",
+          "meta": "~48h ago · Southeast Asia",
+          "summary": "The toll from Saturday's fire at the Rong Beer Na Ladprao music bar in Bangkok climbed to 33, with four of the six performing band members killed and more than 70 people injured, making it the Thai capital's deadliest blaze in 17 years. Investigators found that blocked rear exits and a ceiling covered in highly combustible material trapped victims inside.",
+          "url": "https://www.npr.org/2026/07/16/g-s1-133907/death-toll-bangkok-fire"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CNN",
+    "CNBC",
+    "The Washington Post",
+    "NPR",
+    "Al Jazeera",
+    "Charles Schwab Market Update",
+    "Radio Free Europe/Radio Liberty"
+  ],
+  "date": "2026-07-18",
+  "pretty": "Saturday, 18 July 2026",
+  "generated_at": "2026-07-18 09:22 CEST"
+}
