@@ -1,0 +1,58 @@
+{
+  "title": "Morning Headlines",
+  "intro": "The US-Iran war enters its eighth night of strikes with American troops now among the casualties, the FIFA World Cup final is underway in New Jersey, and Britain prepares to swear in its seventh prime minister in a decade.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Two US Soldiers Killed in Jordan as America Concludes 8th Night of Iran Strikes",
+          "subtitle": "Al Jazeera / CBS News",
+          "meta": "~12h ago · Middle East",
+          "summary": "Two US service members were killed and one remains missing after Iranian ballistic missile and drone attacks on bases in Jordan, bringing total American fatalities in the conflict to at least 16. US Central Command simultaneously struck Iranian military targets near the Strait of Hormuz for the eighth consecutive night, as Iran's Revolutionary Guard warned of a 'full-scale offensive' if attacks continue.",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/18/iran-war-live-two-us-service-members-killed-in-jordan-and-another-missing"
+        },
+        {
+          "title": "Spain vs. Argentina: FIFA World Cup 2026 Final Kicks Off at MetLife Stadium",
+          "subtitle": "FIFA / Al Jazeera",
+          "meta": "~3h ago · Sport / USA",
+          "summary": "Defending champions Argentina face European champions Spain in the World Cup final in East Rutherford, New Jersey — the first to feature a Super Bowl-style halftime show, with Shakira, Madonna, and Coldplay performing. President Trump is in attendance to present the trophy to the winning side.",
+          "url": "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-spain-and-argentina-whose-form-guide-points-to-victory"
+        },
+        {
+          "title": "Andy Burnham Confirmed as UK Labour Leader, to Be Sworn In as Prime Minister Monday",
+          "subtitle": "Al Jazeera / CBS News",
+          "meta": "~18h ago · UK Politics",
+          "summary": "Former Manchester Mayor Andy Burnham was declared leader of Britain's governing Labour Party on Friday and will become prime minister on Monday, replacing Keir Starmer who resigned under mounting pressure in June. Burnham pledged to put the cost-of-living crisis 'front and centre,' making him Britain's seventh PM in a decade.",
+          "url": "https://www.aljazeera.com/news/2026/7/17/burnham-confirmed-as-leader-of-uks-governing-labour-party-headed-for-pm"
+        },
+        {
+          "title": "Josh Kerr Shatters 27-Year-Old World Mile Record with 3:42.66 in London",
+          "subtitle": "NPR / World Athletics",
+          "meta": "~20h ago · Sport / UK",
+          "summary": "British middle-distance runner Josh Kerr broke Hicham El Guerrouj's 1999 world record in the mile, clocking 3:42.66 at the London Diamond League meet and becoming the first person to run sub-3:43. The feat, dubbed 'Project 222,' came in front of a home crowd and was one of the most anticipated track performances in years.",
+          "url": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time"
+        },
+        {
+          "title": "AI Chip Stocks Extend Steep Selloff as Investors Retreat from AI Trade",
+          "subtitle": "Fortune / ABC News",
+          "meta": "~2d ago · Markets",
+          "summary": "The Philadelphia Semiconductor Index dropped more than 20% from its June peak by Friday's close as investors rotated out of crowded AI-hardware positions following TSMC's higher-than-expected capital expenditure outlook, hawkish signals from the Fed, and memory-chip production cuts at SK Hynix. Nvidia, TSMC, and ASML all fell sharply on the week.",
+          "url": "https://fortune.com/2026/07/17/tech-stocks-global-selloff-as-investors-ai-semiconductor-chips/"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Al Jazeera",
+    "CBS News",
+    "NPR",
+    "World Athletics",
+    "Fortune",
+    "ABC News",
+    "FIFA"
+  ],
+  "date": "2026-07-19",
+  "pretty": "Sunday, 19 July 2026",
+  "generated_at": "2026-07-19 09:55 CEST"
+}
