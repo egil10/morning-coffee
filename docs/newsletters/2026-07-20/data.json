@@ -1,0 +1,58 @@
+{
+  "title": "Morning Headlines",
+  "intro": "An escalating U.S.–Iran war, a new British prime minister, and a World Cup final headlined one of 2026's most consequential 24-hour news cycles.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "U.S.–Iran War Enters 9th Night of Strikes as American Service Member Killed in Iraq",
+          "subtitle": "CBS News / CNN",
+          "meta": "~12h ago · Middle East",
+          "summary": "President Trump said Iran was hit 'very hard' as the U.S. completed a ninth consecutive night of airstrikes; the death toll of American service members in the now-five-month conflict has reached 17. Iran's IRGC claimed retaliatory strikes on U.S. air bases in Kuwait, Bahrain, and Jordan, deepening fears the conflict will spiral further.",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-attacks-persian-gulf/"
+        },
+        {
+          "title": "Russia Hits Ukraine with 41 Missiles and 125 Drones in Massive Overnight Assault",
+          "subtitle": "NPR",
+          "meta": "~18h ago · Europe / War",
+          "summary": "Russia launched one of its largest combined missile-and-drone salvos in weeks, killing at least one person and sparking fires in five districts of Kyiv. The attack exposed widening gaps in Ukraine's air defenses, which are critically short of Patriot interceptor missiles.",
+          "url": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv"
+        },
+        {
+          "title": "Andy Burnham Formally Becomes UK Prime Minister, Succeeding Keir Starmer",
+          "subtitle": "ABC News / NPR",
+          "meta": "~4h ago · Politics",
+          "summary": "The former Greater Manchester mayor met with King Charles III on Monday and was appointed Britain's seventh prime minister in a decade. Starmer resigned after less than two years in office following a Labour Party leadership crisis; Burnham ran unopposed to succeed him.",
+          "url": "https://abcnews.com/International/wireStory/andy-burnham-become-uk-prime-minister-after-meeting-134906887"
+        },
+        {
+          "title": "Spain Wins 2026 FIFA World Cup, Defeating Argentina 1–0 in Extra Time",
+          "subtitle": "ESPN",
+          "meta": "~12h ago · Sport",
+          "summary": "Substitute Ferran Torres scored in the 106th minute at New York/New Jersey Stadium to give Spain their second World Cup title, ending Lionel Messi's Argentina's reign as champions. Spain dominated the match, limiting Argentina to zero shots on target across 120 minutes of play.",
+          "url": "https://www.espn.com/soccer/story/_/id/49403084/2026-world-cup-final-spain-argentina-score-ferran-torres"
+        },
+        {
+          "title": "Wildfires Scorch More Than 13,000 Hectares in Spain, Forcing 700 to Flee",
+          "subtitle": "Channels Television",
+          "meta": "~18h ago · Europe / Climate",
+          "summary": "Fires burning north of Madrid in Guadalajara province and near Zaragoza have consumed over 25,000 hectares combined, with 300 firefighters and 26 water-dropping aircraft deployed. Flames have spread into the Sierra Norte nature reserve, threatening protected wildlife habitat.",
+          "url": "https://www.channelstv.com/2026/07/19/hundreds-evacuated-as-wildfire-scorches-13000-hectares-in-spain/"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CBS News",
+    "CNN",
+    "NPR",
+    "ABC News",
+    "ESPN",
+    "Channels Television",
+    "Morocco World News"
+  ],
+  "date": "2026-07-20",
+  "pretty": "Monday, 20 July 2026",
+  "generated_at": "2026-07-20 10:34 CEST"
+}
