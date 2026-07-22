@@ -1,0 +1,59 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A turbulent Tuesday as the US-Iran ceasefire collapses over the Strait of Hormuz and Ukraine shakes up its military command — here are the day's five most consequential stories.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "US-Iran Ceasefire Collapses; Strikes Resume and Tanker Hit in Strait of Hormuz",
+          "subtitle": "CNBC / Reuters",
+          "meta": "~15h ago · Middle East",
+          "summary": "President Trump declared the ceasefire deal with Iran 'over,' US Central Command resumed its naval blockade, and Iran struck two supertankers in the Strait of Hormuz — killing at least one crew member and sending global oil prices surging more than 9%. The breakdown centres on Iran's insistence on exerting tolling rights over the strategic waterway, raising fears of a broader energy-supply shock.",
+          "url": "https://www.cnbc.com/2026/07/21/us-iran-war-trump-hormuz-houthis.html"
+        },
+        {
+          "title": "Zelenskyy Fires Ukraine's Military Chief After Protests, Names Drapatyi",
+          "subtitle": "NPR / Al Jazeera",
+          "meta": "~18h ago · Europe / Ukraine",
+          "summary": "President Volodymyr Zelenskyy dismissed General Oleksandr Syrskyi as commander-in-chief following six days of street protests in Kyiv and appointed Mykhailo Drapatyi as the new army chief, calling it a 'reset' of the country's defence posture. The leadership shake-up is the most significant change to Ukraine's military command since Russia's full-scale invasion began.",
+          "url": "https://www.npr.org/2026/07/21/g-s1-134849/ukraine-military-chief-fired-protests"
+        },
+        {
+          "title": "AI Chip Surge Drives Broad Global Market Rally",
+          "subtitle": "Bloomberg / CNBC",
+          "meta": "~6h ago · Markets",
+          "summary": "The S&P 500 rose 0.89% to near 7,509 and the Nasdaq added 1.29% as semiconductor stocks surged on stronger-than-expected South Korean and Taiwanese export data, renewing conviction that the AI infrastructure build-out has further to run. The Philadelphia Semiconductor Index is now up more than 47% year-to-date.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-21/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "title": "Gaza: Israeli Airstrikes Kill 12 Palestinians, Including Four Children",
+          "subtitle": "Democracy Now! / AP",
+          "meta": "~20h ago · Middle East / Gaza",
+          "summary": "Israeli airstrikes across Gaza City killed at least 12 Palestinians, including four children, as fighting continued across the territory on Tuesday. The strikes mark another deadly day in a conflict that has now stretched well past a year of intensive bombardment.",
+          "url": "https://www.democracynow.org/2026/7/21/headlines"
+        },
+        {
+          "title": "Spain's World Cup Champions Return to 2 Million in Madrid Streets",
+          "subtitle": "NPR / Al Jazeera",
+          "meta": "~24h ago · Sports / Europe",
+          "summary": "Spain's national football team paraded through Madrid to an estimated crowd of two million after defeating Argentina 1-0 in extra time to claim the country's second FIFA World Cup title and first since 2010. The players were received by King Felipe VI and Prime Minister Pedro Sánchez in a celebration that brought the capital to a standstill.",
+          "url": "https://www.npr.org/2026/07/21/nx-s1-5901832/spain-world-cup-champions-return-home"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CNBC",
+    "NPR",
+    "Al Jazeera",
+    "Bloomberg",
+    "ABC News",
+    "CBC",
+    "Democracy Now!",
+    "Reuters"
+  ],
+  "date": "2026-07-22",
+  "pretty": "Wednesday, 22 July 2026",
+  "generated_at": "2026-07-22 10:03 CEST"
+}
