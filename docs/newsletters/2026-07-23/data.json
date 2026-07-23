@@ -1,0 +1,59 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A widening US-Iran conflict, a landmark nuclear deal with Saudi Arabia, and Europe's boldest tech law yet dominate a consequential day of global news.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "US Launches 12th Straight Night of Strikes on Iran as Tehran Hits US Bases in Jordan",
+          "subtitle": "CBS News / NPR / Al Jazeera",
+          "meta": "~6h ago · Middle East",
+          "summary": "US Central Command carried out its 12th consecutive night of airstrikes against Iranian targets overnight while Iran's Revolutionary Guard claimed drone and missile strikes on US facilities in Jordan, killing or wounding an unspecified number of personnel. President Trump threatened to destroy an Iranian bridge or power plant for every ship Iran targets in the Strait of Hormuz, as the $37.5 billion war shows no sign of a new ceasefire.",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-hormuz-oil-prices-red-sea-houthis/"
+        },
+        {
+          "title": "US Signs 30-Year Nuclear Deal with Saudi Arabia, Opening Path to Uranium Enrichment",
+          "subtitle": "NPR / Washington Post / Al Jazeera",
+          "meta": "~18h ago · Politics / Energy",
+          "summary": "The Trump administration signed a civilian nuclear cooperation agreement with Saudi Arabia on July 22, giving American companies priority access to build reactors in the kingdom. Nonproliferation experts have raised alarm because the deal stops short of the 'gold standard' and could allow Saudi Arabia to eventually enrich its own uranium fuel — a first step toward a weapons capability.",
+          "url": "https://www.npr.org/2026/07/22/nx-s1-5903293/trump-saudi-arabia-nuclear-deal"
+        },
+        {
+          "title": "Zelensky Fires Ukraine's Commander-in-Chief Amid Street Protests in Kyiv",
+          "subtitle": "NPR / Washington Post / Al Jazeera",
+          "meta": "~36h ago · Europe / War",
+          "summary": "President Volodymyr Zelensky dismissed top general Oleksandr Syrskyi on July 21 following six days of protests triggered by the earlier sacking of tech-forward Defense Minister Mykhailo Fedorov. Mykhailo Drapatyi was named the new commander-in-chief, marking the most significant military leadership shakeup in Ukraine since the war began.",
+          "url": "https://www.npr.org/2026/07/22/nx-s1-5902279/ukraines-zelenskyy-fires-top-military-commander-amid-ongoing-protests"
+        },
+        {
+          "title": "France Becomes First EU Nation to Ban Social Media for Children Under 15",
+          "subtitle": "NPR / CNN / PBS NewsHour / Bloomberg",
+          "meta": "~20h ago · Technology / Policy",
+          "summary": "Both chambers of the French parliament passed legislation on July 22 requiring platforms to block users under 15 via mandatory age-verification systems. The ban applies to new accounts from September 1 and existing accounts from January 2027, and is expected to spark a wave of similar laws across the EU.",
+          "url": "https://www.npr.org/2026/07/22/g-s1-134875/france-social-media-ban"
+        },
+        {
+          "title": "Semiconductor Stocks Plunge ~10% on Renewed Doubt Over AI Spending Returns",
+          "subtitle": "CNBC / Bloomberg",
+          "meta": "~24h ago · Markets",
+          "summary": "Major semiconductor ETFs shed roughly 10% for the week through Wednesday as investors questioned whether massive AI infrastructure outlays will translate into earnings, dragging the Nasdaq to its worst weekly stretch in months. Oil's surge amid the US-Iran conflict added further pressure across broader equity markets.",
+          "url": "https://www.cnbc.com/2026/07/21/stock-market-today-live-updates.html"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CBS News",
+    "NPR",
+    "Al Jazeera",
+    "Washington Post",
+    "CNN",
+    "PBS NewsHour",
+    "Bloomberg",
+    "CNBC"
+  ],
+  "date": "2026-07-23",
+  "pretty": "Thursday, 23 July 2026",
+  "generated_at": "2026-07-23 10:05 CEST"
+}
