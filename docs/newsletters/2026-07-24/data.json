@@ -1,0 +1,63 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A day dominated by a widening US-Iran war, a deadly European wildfire crisis, and sweeping new American trade measures affecting nearly the entire world.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "US Strikes Iran for 13th Consecutive Night as Tehran Rejects Ceasefire",
+          "subtitle": "CNN",
+          "meta": "~6h ago · Middle East / War",
+          "summary": "US CENTCOM completed a 13th straight night of strikes targeting Iranian military command centers, drone facilities, and coastal surveillance sites around the Strait of Hormuz. Iran rejected a ceasefire proposal delivered by the Iraqi prime minister, saying it would not negotiate while the strait's status remains unresolved — keeping the conflict on a sharp escalatory path.",
+          "url": "https://edition.cnn.com/2026/07/24/world/live-news/iran-war-trump"
+        },
+        {
+          "title": "Deadly Wildfires Rage Across France, Spain, and Italy, Forcing Tens of Thousands to Flee",
+          "subtitle": "France 24",
+          "meta": "~18h ago · Europe / Climate",
+          "summary": "Extreme heat topping 49°C in Sicily and near-record temperatures in Spain drove simultaneous wildfires that killed three firefighters and forced more than 20,000 evacuations in southwestern France alone, while Spain's Guadalajara blaze burned over 32,000 hectares — its second-largest on record. The crisis underscores how Mediterranean Europe's wildfire seasons are intensifying under climate-driven heat extremes.",
+          "url": "https://www.france24.com/en/europe/20260723-wildfires-ravage-spain-france-and-italy-killing-three-firefighters"
+        },
+        {
+          "title": "US Slaps 10–12.5% Tariffs on Imports from 60 Countries Over Forced Labor",
+          "subtitle": "Bloomberg / Japan Times",
+          "meta": "~12h ago · Trade / Economy",
+          "summary": "The US Trade Representative invoked Section 301 of the Trade Act to impose new duties — 10% on partners with some forced-labor rules (including Mexico, Canada, the UK, and India) and 12.5% on the rest — effective July 26, covering 99% of US imports. The sweeping action revives a broad tariff wall and marks one of the most expansive single trade enforcement moves in recent history.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/us-sets-new-forced-labor-duties-as-trump-resurrects-tariff-wall"
+        },
+        {
+          "title": "DOJ Drops Subpoenas Against New York Times Reporters Under Judicial Pressure",
+          "subtitle": "NPR / CNN",
+          "meta": "~20h ago · Politics / Press Freedom",
+          "summary": "The Justice Department withdrew grand jury subpoenas and phone-record demands targeting Times journalists who reported on security concerns with Trump's Qatari-gifted Air Force One, backing down after US District Judge Arun Subramanian cited 'profound First Amendment' issues and sharply questioned prosecutors' conduct. The reversal is a significant, if contested, win for press freedom advocates.",
+          "url": "https://www.npr.org/2026/07/23/nx-s1-5905732/nyt-subpoenas-trump-air-force-one-plane-qatar-security"
+        },
+        {
+          "title": "Court Weighs States' Bid to Block $111 Billion Paramount–Warner Bros. Merger",
+          "subtitle": "Variety / CNBC",
+          "meta": "~8h ago · Business / Media",
+          "summary": "A federal court heard arguments from a coalition of 12 states, led by California, seeking to extend a temporary restraining order on the Paramount–Warner Bros. Discovery merger, alleging it will harm competition in theatrical and cable markets. The deal had cleared EU regulators, but the states' legal challenge puts the planned Q3 2026 close in jeopardy.",
+          "url": "https://variety.com/2026/film/news/paramount-warner-bros-merger-restraning-order-hearing-1236814831/"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CNN",
+    "France 24",
+    "ITV News",
+    "Bloomberg",
+    "Japan Times",
+    "USTR",
+    "Supply Chain Dive",
+    "NPR",
+    "Axios",
+    "Variety",
+    "CNBC",
+    "Euronews"
+  ],
+  "date": "2026-07-24",
+  "pretty": "Friday, 24 July 2026",
+  "generated_at": "2026-07-24 10:03 CEST"
+}
