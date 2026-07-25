@@ -1,0 +1,60 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A Russian missile strike on a Kyiv arms expo, sweeping new U.S. tariffs on 60 nations, and a record-breaking measles surge lead a packed day of global developments.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Russia Strikes Kyiv Arms Exhibition, Killing at Least 10",
+          "subtitle": "Kyiv Independent / Bloomberg",
+          "meta": "~24h ago · Europe / Ukraine war",
+          "summary": "A Russian ballistic missile hit a private defense expo in the Bucha district near Kyiv — held one day after President Zelensky hosted Raytheon executives — killing at least 10 and wounding nearly 100. The deliberate timing against a civilian defense event has prompted Ukraine to open a formal probe into how the gathering was authorized under martial law.",
+          "url": "https://kyivindependent.com/explosions-in-kyiv-as-russia-launches-daytime-missile-attack/"
+        },
+        {
+          "title": "Trump Imposes New 10–12.5% Tariffs on 60 Trading Partners",
+          "subtitle": "NPR",
+          "meta": "~24h ago · Global / Trade & Economy",
+          "summary": "The Trump administration replaced its now-defunct reciprocal tariffs — struck down by the Supreme Court in February — with new 'forced labor' duties of 10% and 12.5% on goods from 60 economies including the EU, China, Canada, and Mexico, timed to take effect the moment the prior universal 10% tariff expired. The move reignites a global trade war and has already drawn protests from major partners.",
+          "url": "https://www.npr.org/2026/07/24/nx-s1-5905783/trump-tariff-trade-global-canada"
+        },
+        {
+          "title": "U.S. Measles Cases Hit 35-Year Record With Five Months Still to Go",
+          "subtitle": "CNN / CDC",
+          "meta": "~12h ago · United States / Public Health",
+          "summary": "With 2,318 confirmed cases so far in 2026, the U.S. has already surpassed last year's total — itself the previous worst year in a generation — and the outbreak shows no signs of containment; 93% of infected people were unvaccinated. Health officials warn rising vaccine hesitancy means the final case count could be significantly higher.",
+          "url": "https://www.cnn.com/2026/07/24/health/us-measles-cases-record"
+        },
+        {
+          "title": "Rubio Meets Lavrov in Manila, Warns No Quick Ukraine Deal in Sight",
+          "subtitle": "NPR",
+          "meta": "~24h ago · Geopolitics / Diplomacy",
+          "summary": "Secretary of State Marco Rubio met Russian Foreign Minister Sergey Lavrov on the sidelines of the ASEAN summit in Manila and said the U.S. is ready to help end the war but that 'new ideas' would be needed as both sides remain far apart. Rubio acknowledged that the ongoing U.S.-Iran conflict has complicated efforts to broker a Ukraine settlement.",
+          "url": "https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war"
+        },
+        {
+          "title": "India: Wangchuk Ends 26-Day Hunger Strike as 'Cockroach' Youth Protests Rage On",
+          "subtitle": "NPR / AP",
+          "meta": "~24h ago · Asia / India",
+          "summary": "Activist Sonam Wangchuk ended his month-long fast against India's exam-paper-leak scandal after negotiations with government ministers, but the massive 'Cockroach' youth movement he helped spark vowed to continue until Education Minister Pradhan resigns. Prime Minister Modi responded with a pledge to introduce tougher anti-leak legislation, a sign the protests have forced a significant policy response.",
+          "url": "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Kyiv Independent",
+    "Bloomberg",
+    "NPR",
+    "CNN",
+    "CDC",
+    "Al Jazeera",
+    "The Washington Post",
+    "NBC News",
+    "ABC News"
+  ],
+  "date": "2026-07-25",
+  "pretty": "Saturday, 25 July 2026",
+  "generated_at": "2026-07-25 09:48 CEST"
+}
