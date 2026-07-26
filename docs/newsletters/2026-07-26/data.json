@@ -1,0 +1,57 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A potential pause in the US-Iran war dominates global attention as Europe reels from a terror attack at Berlin Pride and catastrophic wildfires, while India's largest youth movement in a generation claims its first major scalp.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "US Pauses Iran Strikes as Trump Says Tehran Is 'Getting More Serious'",
+          "subtitle": "CNN",
+          "meta": "~12h ago · Middle East",
+          "summary": "The US military announced no new airstrikes against Iran for the second consecutive day — the first pause in nearly two weeks of nightly bombing campaigns — as President Trump said diplomacy may be gaining traction, while VP Vance and the Joint Chiefs chair privately raised concerns about escalation. Iran has so far rejected US ceasefire terms, keeping the Strait of Hormuz at the center of stalled negotiations.",
+          "url": "https://www.cnn.com/2026/07/26/world/live-news/iran-war-trump"
+        },
+        {
+          "title": "Van Plows Into Berlin Pride Crowd, Killing 1 and Injuring 16",
+          "subtitle": "CNN / Washington Post",
+          "meta": "~18h ago · Europe",
+          "summary": "A white van was driven at high speed into crowds attending Berlin's Christopher Street Day celebration near the Brandenburg Gate on Saturday evening, killing one woman and critically injuring several others before the driver fled on foot. Police identified a 21-year-old suspect and launched a city-wide manhunt; the event, which drew hundreds of thousands, was immediately called off.",
+          "url": "https://www.cnn.com/2026/07/25/europe/berlin-pride-car-intl-latam"
+        },
+        {
+          "title": "Europe Wildfires Force More Than 250,000 Evacuations in France and Spain",
+          "subtitle": "CNN",
+          "meta": "~18h ago · Europe / Climate",
+          "summary": "A brutal heat wave pushing temperatures to 42–44 °C has driven one of the worst wildfire seasons on record across southern Europe, with over 250,000 people evacuated from homes and resorts in Spain and France. One blaze in central Spain alone has scorched nearly 79,000 acres and is among the largest in the country's history.",
+          "url": "https://www.cnn.com/2026/07/25/world/live-news/france-spain-wildfires-evacuations"
+        },
+        {
+          "title": "India's Education Minister Resigns After Gen-Z 'Cockroach' Protest Movement",
+          "subtitle": "CNBC / Al Jazeera",
+          "meta": "~24h ago · South Asia",
+          "summary": "Dharmendra Pradhan stepped down Saturday after weeks of nationwide youth demonstrations over a leaked medical-school entrance exam that forced 2 million students to retest — the biggest challenge to PM Narendra Modi in his 12 years in office. The government also agreed to drop all charges against protesters and compensate families of students who died by suicide in connection with the scandal.",
+          "url": "https://www.cnbc.com/2026/07/25/indias-education-minister-resigns-in-win-for-indian-youth-protesters.html"
+        },
+        {
+          "title": "Saudi Arabia Bombs Hodeidah as Houthi Attacks Drag Yemen Into Iran War",
+          "subtitle": "CNN / Al Jazeera",
+          "meta": "~20h ago · Middle East",
+          "summary": "Saudi Arabia launched airstrikes on Yemen's Hodeidah port Saturday after an Iranian-backed Houthi missile struck a Saudi vessel in the Red Sea; the Houthis immediately retaliated by targeting Saudi Red Sea coastal sites. The exchange marks a significant widening of the Iran conflict into a direct Saudi-Houthi front, threatening a chokepoint that carries roughly 10% of global trade.",
+          "url": "https://www.cnn.com/2026/07/25/world/live-news/iran-war-trump"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CNN",
+    "Washington Post",
+    "CNBC",
+    "Al Jazeera",
+    "NPR",
+    "NBC News"
+  ],
+  "date": "2026-07-26",
+  "pretty": "Sunday, 26 July 2026",
+  "generated_at": "2026-07-26 10:01 CEST"
+}
