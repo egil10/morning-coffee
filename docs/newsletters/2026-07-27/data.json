@@ -1,0 +1,63 @@
+{
+  "title": "Morning Headlines",
+  "intro": "As the US–Iran conflict enters its fifth month with oil above $100 and no ceasefire in sight, diplomatic tensions flare in South America while Washington tackles AI regulation and economic resilience data pushes Fed rate-cut hopes to year's end.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Trump Weighs Iran Escalation as Drone Strikes Hit US Bases",
+          "subtitle": "NPR / CNN / Al Jazeera",
+          "meta": "~3h ago · Middle East",
+          "summary": "President Trump met with top advisers to weigh further military escalation in Iran after 13 consecutive nights of US bombing and retaliatory Iranian drone strikes on American bases in Bahrain and Jordan. Oil has topped $100 a barrel for the first time since May as the widening conflict squeezes global energy supplies.",
+          "url": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates"
+        },
+        {
+          "title": "Brazil Recalls Ambassador After Milei Insults President Lula's Officials",
+          "subtitle": "The Washington Post / Daily Sabah",
+          "meta": "~18h ago · Latin America",
+          "summary": "Brazil's Foreign Ministry recalled its ambassador to Argentina for consultations after President Javier Milei called a Brazilian Supreme Court justice a 'bald piece of trash' at a Bolsonaro party convention. The move marks a sharp diplomatic rupture between South America's two largest economies.",
+          "url": "https://www.washingtonpost.com/world/2026/07/26/brazil-ambassador-milei-argentina-bolsonaro/1f176578-891a-11f1-8912-d71e69d679d7_story.html"
+        },
+        {
+          "title": "Bipartisan FRONTIER Act Targets Catastrophic-Risk AI Models in Congress",
+          "subtitle": "Punchbowl News / Yahoo News",
+          "meta": "~8h ago · Technology / Policy",
+          "summary": "Reps. Jay Obernolte (R-CA) and Lori Trahan (D-MA) introduced the FRONTIER Act, establishing a national risk-based framework for advanced AI, including mandatory independent audits and incident reporting for systems posing catastrophic risk. It is the most substantive federal AI governance legislation introduced to date.",
+          "url": "https://punchbowl.news/article/tech/obernolte-trahan-frontier-ai/"
+        },
+        {
+          "title": "Pope Leo XIV Urges Immediate Ceasefire and Return to Diplomacy in Middle East",
+          "subtitle": "Vatican News / LiCAS News",
+          "meta": "~20h ago · Vatican / Middle East",
+          "summary": "In his Angelus address at Castel Gandolfo, Pope Leo XIV called on all parties to suspend attacks and reopen dialogue, citing mounting civilian casualties in Gaza, the West Bank, and across the broader Middle East conflict zone. The appeal comes as the US–Iran war intensifies and regional violence spreads.",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-07/pope-leo-xiv-appeal-middleast-negotiations-just-solution-peace.html"
+        },
+        {
+          "title": "US Durable Goods Orders Rebound 1.6%, Delaying Federal Reserve Rate-Cut Hopes",
+          "subtitle": "Rio Times Online / Investing.com",
+          "meta": "~6h ago · Economy / Markets",
+          "summary": "June durable goods orders rose 1.6%, sharply reversing a 4.5% contraction in May, with core non-defense capital goods also beating expectations at 1.4%. The data signals continued business investment and gives the Fed room to hold rates steady, pushing near-term cut expectations firmly to the back half of the year.",
+          "url": "https://www.riotimesonline.com/global-economy-briefing-july-27-2026/"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "NPR",
+    "CNN",
+    "Al Jazeera",
+    "The Washington Post",
+    "Daily Sabah",
+    "Punchbowl News",
+    "Yahoo News",
+    "Vatican News",
+    "LiCAS News",
+    "Rio Times Online",
+    "Investing.com",
+    "Euronews"
+  ],
+  "date": "2026-07-27",
+  "pretty": "Monday, 27 July 2026",
+  "generated_at": "2026-07-27 11:01 CEST"
+}
