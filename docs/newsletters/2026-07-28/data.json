@@ -1,0 +1,59 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A fragile US-Iran ceasefire enters its third day as global chip stocks crater, Ukraine's president courts a brand-new British prime minister, the Fed opens its July rate meeting, and gunmen massacre dozens in northern Nigeria.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "US-Iran Hold Fire for Third Day as Mediators Push Ceasefire Deal",
+          "subtitle": "Al Jazeera",
+          "meta": "~20h ago · Middle East",
+          "summary": "The United States and Iran have now gone three consecutive days without exchanging strikes, with Qatar, Egypt, Pakistan, and Oman shuttling a proposal for a formal 10-day ceasefire between Washington and Tehran. Neither side has yet accepted, but sustained restraint on both ends has raised cautious hopes that a diplomatic off-ramp from the 'Twelve-Day War' may be within reach.",
+          "url": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day"
+        },
+        {
+          "title": "SK Hynix Plunges 14%, Samsung 13% as AI Chip Selloff Deepens",
+          "subtitle": "CNBC",
+          "meta": "~8h ago · Markets / Technology",
+          "summary": "A widening rout in semiconductor stocks sent South Korea's KOSPI tumbling and rippled across Asian bourses, as mounting investor doubts about the near-term returns on AI infrastructure spending hammered memory chipmakers. SK Hynix's decision to delay HBM4 expansion in favour of DDR5 production was read as a signal that AI-driven demand may be plateauing sooner than expected.",
+          "url": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html"
+        },
+        {
+          "title": "Zelenskyy and New UK PM Burnham Pledge Drones and Missile Defence at Portsmouth",
+          "subtitle": "Al Jazeera / France 24",
+          "meta": "~18h ago · Europe",
+          "summary": "Ukrainian President Volodymyr Zelenskyy made his first visit to a foreign head of government since Andy Burnham became Britain's prime minister just one week ago, meeting aboard HMS Queen Elizabeth in Portsmouth to discuss joint drone production and ballistic missile interceptors. The UK also pledged to transfer intellectual property for its new 'Stone Cloak' electronic warfare system capable of jamming Russian air defences.",
+          "url": "https://www.aljazeera.com/news/2026/7/27/new-uk-pm-burnham-assures-zelenskyy-of-continuing-ukraine-support"
+        },
+        {
+          "title": "Federal Reserve Opens July FOMC Meeting Amid Sticky Inflation and Trade Uncertainty",
+          "subtitle": "Kiplinger / Bloomberg",
+          "meta": "~4h ago · Economy",
+          "summary": "Fed Chair Kevin Warsh convened the two-day July policy meeting today with markets pricing in no rate cut, as tariff-driven inflation proves stickier than hoped and the US 10-year yield sits near 4.63%. Earnings from Amazon, Meta, and Microsoft this week will add to the data picture before Wednesday's decision.",
+          "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-july-2026"
+        },
+        {
+          "title": "Gunmen Kill at Least 30, Including 8 Children, in Nigeria's Kaduna State",
+          "subtitle": "The Washington Post / ABC News",
+          "meta": "~22h ago · Africa",
+          "summary": "Armed attackers struck Naridon village in Kaduna state's Kaura local government area late Sunday night, shooting residents at random, setting homes ablaze, and killing at least 30 people, eight of them children, before fleeing. No group has claimed responsibility for the massacre, which follows a pattern of escalating communal and insurgent violence in Nigeria's north-west.",
+          "url": "https://www.washingtonpost.com/world/2026/07/27/nigeria-gunmen-attack-kaduna-naridon-kaura/01ffd8d8-89d0-11f1-8912-d71e69d679d7_story.html"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Al Jazeera",
+    "CNBC",
+    "France 24",
+    "The Washington Post",
+    "ABC News",
+    "Kiplinger",
+    "Bloomberg",
+    "Gulf News"
+  ],
+  "date": "2026-07-28",
+  "pretty": "Tuesday, 28 July 2026",
+  "generated_at": "2026-07-28 10:09 CEST"
+}
