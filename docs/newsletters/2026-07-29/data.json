@@ -1,0 +1,59 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A fragile ceasefire between the US and Iran teeters as fresh missile strikes and high-stakes diplomacy converge on Washington, rattling energy markets and reshaping the Middle East.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Iran's IRGC Fires Ballistic Missiles at US Base and CENTCOM HQ in Jordan",
+          "subtitle": "Al Jazeera",
+          "meta": "~12h ago · Middle East",
+          "summary": "Iran's Islamic Revolutionary Guard Corps announced it launched ballistic missiles at a US air base and the US Central Command headquarters in Jordan, calling it a response to American 'aggressive actions.' The strike, which Jordanian forces said they partially intercepted, marks a fresh escalation even as diplomatic talks seek to stabilize the ceasefire.",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks"
+        },
+        {
+          "title": "US and Iran Pause Strikes for Third Consecutive Day as Diplomacy Presses Forward",
+          "subtitle": "ABC News / NPR",
+          "meta": "~36h ago · Middle East / Diplomacy",
+          "summary": "After nearly two weeks of US bombing and Iranian counterstrikes, both sides halted attacks for a third straight day while negotiators worked on an interim ceasefire centered on reopening the Strait of Hormuz. Trump said he was giving talks 'some space,' but Iran publicly denied direct negotiations were underway.",
+          "url": "https://abcnews.com/US/wireStory/airstrikes-paused-talks-pressing-forward-us-iran-off-135091184"
+        },
+        {
+          "title": "Trump Hosts Netanyahu and Zelenskyy in Back-to-Back White House Meetings",
+          "subtitle": "ABC News / Washington Times",
+          "meta": "~24h ago · Politics / US",
+          "summary": "President Trump met separately with Israeli Prime Minister Netanyahu and Ukrainian President Zelenskyy at the Oval Office on Tuesday, with both Iran's nuclear ambitions and Ukraine's need for Patriot interceptor missiles dominating discussions. Netanyahu called it 'one of his greatest' meetings with Trump, while Zelenskyy said the talks on a Ukraine peace deal were 'good.'",
+          "url": "https://abcnews.com/Politics/netanyahu-zelenskyy-push-agendas-white-house-meetings-trump/story?id=135123010"
+        },
+        {
+          "title": "Oil Prices Tumble Below $90 as Iran Ceasefire Hopes Grow",
+          "subtitle": "CNBC / Yahoo Finance",
+          "meta": "~36h ago · Markets / Energy",
+          "summary": "Brent crude fell more than 8% to around $88 a barrel and WTI dropped to roughly $83, the sharpest single-day decline since the conflict began, after Iran signaled it would suspend attacks while a US pause in hostilities holds. The Strait of Hormuz, through which roughly 20% of global oil flows, remained a central point of the diplomatic bargaining.",
+          "url": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html"
+        },
+        {
+          "title": "NASA's Psyche Spacecraft Aces Mars Flyby, Releases Stunning Timelapse",
+          "subtitle": "NASA / ScienceDaily",
+          "meta": "~36h ago · Science / Space",
+          "summary": "NASA released new data and a timelapse video from the Psyche spacecraft's successful Mars gravity-assist flyby, which used the planet's pull to boost the probe's speed by 1,000 mph and bend its trajectory toward a rare metal-rich asteroid targeted for arrival in 2029. Instruments also captured readings of Mars's magnetic environment and spotted its two tiny moons.",
+          "url": "https://www.nasa.gov/missions/psyche-mission/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid/"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Al Jazeera",
+    "ABC News",
+    "NPR",
+    "Washington Times",
+    "CNBC",
+    "Yahoo Finance",
+    "NASA",
+    "ScienceDaily"
+  ],
+  "date": "2026-07-29",
+  "pretty": "Wednesday, 29 July 2026",
+  "generated_at": "2026-07-29 10:13 CEST"
+}
