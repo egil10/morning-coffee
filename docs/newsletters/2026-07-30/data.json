@@ -1,0 +1,58 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A renewed US-Iran military exchange dominates the day as mass evacuations in Europe, high-stakes White House diplomacy, a Wall Street sell-off, and a devastating earthquake in Japan round out a volatile 24 hours.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "U.S. Launches Fresh Strikes on Iran After Surprise Missile Attack",
+          "subtitle": "CNBC / Bloomberg / CNN",
+          "meta": "~6h ago · Middle East",
+          "summary": "Iran fired a surprise ballistic missile barrage at U.S. forces in the Gulf, ending a fragile pause in the six-week-old war; the U.S. and Saudi Arabia responded with a heavy overnight strike package targeting IRGC command centers and missile facilities. The widening conflict is rattling oil markets, disrupting Strait of Hormuz shipping, and pulling additional regional actors into the fight.",
+          "url": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html"
+        },
+        {
+          "title": "Over 300,000 Evacuated as Wildfires Tear Through Spain and France",
+          "subtitle": "NPR / Al Jazeera / CNN",
+          "meta": "~36h ago · Europe",
+          "summary": "Climate-driven wildfires burning across the Madrid region and around Bordeaux have displaced more than 300,000 people, with temperatures set to surge again and no rain in sight. Fires are burning near French facilities integral to the country's submarine-launched nuclear deterrent, adding a strategic dimension to the humanitarian crisis.",
+          "url": "https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires"
+        },
+        {
+          "title": "Trump Hosts Zelenskyy and Netanyahu in Back-to-Back White House Summits",
+          "subtitle": "ABC News / NPR",
+          "meta": "~42h ago · Washington, D.C.",
+          "summary": "Ukrainian President Zelenskyy pressed Trump on Patriot interceptor licenses and renewed diplomacy to end the Russia-Ukraine war, while Israeli PM Netanyahu called their Iran discussions 'one of the best meetings we've had.' The dual summits highlight Washington's simultaneous entanglement in two active conflict zones.",
+          "url": "https://abcnews.com/Politics/netanyahu-zelenskyy-push-agendas-white-house-meetings-trump/story?id=135123010"
+        },
+        {
+          "title": "Dow Plunges 1,150 Points as Fed Holds Rates and Iran Tensions Spike Oil",
+          "subtitle": "CNBC",
+          "meta": "~18h ago · Markets",
+          "summary": "The Dow Jones suffered its worst single-day loss since April 2025, falling 2.19%, as the Federal Reserve held rates steady at 3.50–3.75% and crude oil surged 4% on renewed Middle East hostilities. The S&P 500 and Nasdaq also dropped sharply, leaving equities more than 10% off their intraday records.",
+          "url": "https://www.cnbc.com/2026/07/29/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "7.1-Magnitude Earthquake Strikes Japan's Kyushu, Collapses Shopping Mall",
+          "subtitle": "NPR / The Japan Times",
+          "meta": "~42h ago · Japan",
+          "summary": "A powerful quake hit Kumamoto prefecture on Japan's southern island of Kyushu, causing partial collapse of the Aeon Mall in Kashima Town and trapping an unknown number of people. The disaster cut power to 40,000 homes, suspended all JR Kyushu rail services, and prompted a brief tsunami advisory for the Ariake and Yatsushiro Seas.",
+          "url": "https://www.npr.org/2026/07/28/nx-s1-5910498/japan-earthquake"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CNBC",
+    "Bloomberg",
+    "CNN",
+    "NPR",
+    "Al Jazeera",
+    "ABC News",
+    "The Japan Times"
+  ],
+  "date": "2026-07-30",
+  "pretty": "Thursday, 30 July 2026",
+  "generated_at": "2026-07-30 10:01 CEST"
+}
