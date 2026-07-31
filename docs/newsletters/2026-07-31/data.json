@@ -1,0 +1,59 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A potential Gaza breakthrough, an escalating Iran war spilling into Kuwait, a Wall Street AI rally, a deadly migration crisis at Spain's border, and ongoing earthquake rescue in Japan headline Friday's top stories.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Trump Announces Deal for Hamas to Disarm, but Many Hurdles Remain",
+          "subtitle": "NPR",
+          "meta": "~3h ago · Middle East / Politics",
+          "summary": "President Trump declared a framework agreement for Hamas to disarm and Israeli forces to withdraw from Gaza, nine months after a US-brokered ceasefire was first signed. Neither Hamas nor Israel immediately confirmed the deal, and long timelines with an international verification process leave its prospects deeply uncertain.",
+          "url": "https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza"
+        },
+        {
+          "title": "Iran Strikes Chinese Firm's Building in Kuwait, Killing One Worker",
+          "subtitle": "The National / Al Jazeera",
+          "meta": "~18h ago · Middle East / War",
+          "summary": "An Iranian missile hit a Chinese company's building in northern Kuwait on July 30, killing one worker, while Jordan intercepted five additional Iranian missiles the same day. The US responded with strikes on dozens of IRGC targets inside Iran, signaling further escalation in the broader 2026 US-Iran war.",
+          "url": "https://www.thenationalnews.com/news/mena/2026/07/30/kuwait-reports-death-from-iranian-strike-as-jordan-intercepts-five-missiles/"
+        },
+        {
+          "title": "Wall Street Surges as Microsoft Azure Tops $100 Billion; S&P 500 Up 1.7%",
+          "subtitle": "Bloomberg / CNBC",
+          "meta": "~12h ago · Markets / Technology",
+          "summary": "Microsoft's fiscal Q4 earnings beat sent its shares up 16% — adding roughly $450 billion in market value in a single session — after Azure cloud revenue crossed $100 billion for the first time, fueling a broad AI-driven rally that lifted the Nasdaq 2.8% and the S&P 500 1.7%.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-30/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "title": "At Least 18 Migrants Die After Mass Breach of Morocco–Spain Border at Ceuta",
+          "subtitle": "NPR",
+          "meta": "~6h ago · Europe / Migration",
+          "summary": "Thousands of people stormed the border from Morocco into Spain's exclave of Ceuta, with at least 18 dying from drowning and stampede injuries at the Tarajal beach crossing. Spain deployed its military and declared a humanitarian emergency as migrants including unaccompanied minors slept in the open without shelter.",
+          "url": "https://www.npr.org/2026/07/31/g-s1-136507/morocco-spain-migration"
+        },
+        {
+          "title": "Rescuers Dig Through Kumamoto Mall Rubble Three Days After Magnitude-7.1 Earthquake",
+          "subtitle": "CNN / The Japan Times",
+          "meta": "~3 days, rescue ongoing · Japan / Disaster",
+          "summary": "Search teams are still sifting through debris at Aeon Mall in Kumamoto, which was destroyed by a post-quake explosion after a magnitude-7.1 earthquake struck on July 28 — just weeks after the mall reopened following reconstruction from the 2016 quakes. At least 14 people have been killed and several remain missing across the region, with more than 100 aftershocks recorded.",
+          "url": "https://www.cnn.com/2026/07/28/world/live-news/japan-earthquake-kumamoto"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "NPR",
+    "Al Jazeera",
+    "The National",
+    "Bloomberg",
+    "CNBC",
+    "CNN",
+    "The Japan Times",
+    "Washington Post"
+  ],
+  "date": "2026-07-31",
+  "pretty": "Friday, 31 July 2026",
+  "generated_at": "2026-07-31 10:25 CEST"
+}
