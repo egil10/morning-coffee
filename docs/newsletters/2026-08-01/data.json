@@ -1,0 +1,65 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A Russian missile inside NATO territory, a landmark Gaza disarmament deal, and a record-pace Ebola emergency headline a day of acute global crises.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Russian Missile Crashes Inside Poland, Triggering NATO Alert",
+          "subtitle": "CNN / Euronews / Irish Times",
+          "meta": "~30h ago · Europe / NATO",
+          "summary": "A Russian missile fired during a massive barrage on Ukraine — at least 74 missiles and hundreds of Shahed drones that killed 13 Ukrainians — flew roughly 90 km into Polish territory and exploded in a field. NATO scrambled aircraft, Poland's PM said forces were ready to intercept, and EU Commission President von der Leyen called it an 'unacceptable violation' of EU airspace.",
+          "url": "https://www.cnn.com/2026/07/29/europe/ukraine-kyiv-missile-attack-latam-intl"
+        },
+        {
+          "title": "Trump Announces Historic Hamas Disarmament Agreement for Gaza",
+          "subtitle": "CBS News / Axios / Al Jazeera",
+          "meta": "~24h ago · Middle East",
+          "summary": "Trump's 'Board of Peace' announced that Hamas has agreed in principle to full disarmament, with a detailed roadmap due within 14 days. Hamas says disarmament is conditional on Israel ceasing strikes and withdrawing from Gaza; Israel remains skeptical, and implementation faces significant obstacles over a seven-to-eight-month timeline.",
+          "url": "https://www.cbsnews.com/news/trump-hamas-next-phase-gaza-peace-deal-disarmament/"
+        },
+        {
+          "title": "DRC Ebola Outbreak Passes 1,500 Deaths — Fastest-Spreading on Record",
+          "subtitle": "WHO Africa / Mercy Corps / ECDC",
+          "meta": "~48h ago · Central Africa / Global Health",
+          "summary": "As of July 29, the 2026 Ituri Ebola outbreak has recorded 3,442 confirmed cases and 1,521 deaths across five DRC provinces, making it the third-largest and fastest-growing Ebola outbreak ever. WHO declared a Public Health Emergency of International Concern in May; cross-border spread to Uganda has raised regional alarm.",
+          "url": "https://www.afro.who.int/health-topics/ebola-disease/outbreak-drc-26"
+        },
+        {
+          "title": "U.S. Q2 GDP Growth Slows to 1.5% as Tariffs and Trade Deficit Bite",
+          "subtitle": "NPR / Fortune / Bloomberg",
+          "meta": "~30h ago · Economy / U.S.",
+          "summary": "The Commerce Department reported annualized second-quarter GDP growth of just 1.5%, down from 2.1% in Q1, as tariffs, a widening trade deficit, and lower government spending weighed on output. Consumer spending rose 3.2% but is being funded partly by savings drawdowns, a pace economists warn is unsustainable.",
+          "url": "https://www.npr.org/2026/07/30/nx-s1-5913230/economy-gdp-inflation"
+        },
+        {
+          "title": "Japan Earthquake Kills 35 in Kumamoto; Rescue Efforts Continue",
+          "subtitle": "Al Jazeera / Japan Times / Korea Times",
+          "meta": "~72h ago · Asia / Natural Disaster",
+          "summary": "A magnitude 7.1 earthquake struck Kumamoto Prefecture on July 28, killing at least 35 people, partly collapsing a shopping mall, and cutting power to nearly 35,000 homes. Rescue teams were still searching for survivors on July 31, with expressways, rail lines, and sections of Kumamoto Castle damaged.",
+          "url": "https://www.aljazeera.com/news/2026/7/28/magnitude-7-1-earthquake-shakes-southern-japan-tsunami-warning-issued"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CNN",
+    "Euronews",
+    "Irish Times",
+    "CBS News",
+    "Axios",
+    "Al Jazeera",
+    "WHO Africa",
+    "Mercy Corps",
+    "ECDC",
+    "NPR",
+    "Fortune",
+    "Bloomberg",
+    "Japan Times",
+    "Korea Times"
+  ],
+  "date": "2026-08-01",
+  "pretty": "Saturday, 01 August 2026",
+  "generated_at": "2026-08-01 09:57 CEST"
+}
