@@ -1,0 +1,59 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A Russian ballistic barrage kills civilians in Kyiv, a landmark Hamas disarmament deal takes its first tentative steps, Asian markets stage the biggest single-day surge in South Korean history, and a deadly border crisis unfolds at Spain's African enclave.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Russia Strikes Kyiv with Ballistic Missiles, Killing at Least 9",
+          "subtitle": "Al Jazeera",
+          "meta": "~24h ago · Europe / War",
+          "summary": "Russia fired 27 ballistic missiles at Ukraine's capital on August 1, with only one intercepted — Ukraine's Patriot air-defense stocks reportedly exhausted — killing nine people including children and wounding 33 more. The scale of the raid underscores Ukraine's deepening air-defense crisis as the war enters its fifth year.",
+          "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv"
+        },
+        {
+          "title": "Trump Calls Hamas Disarmament Agreement 'Historic' as Two-Week Ceasefire Begins",
+          "subtitle": "Axios / CNN",
+          "meta": "~36h ago · Middle East / Diplomacy",
+          "summary": "The US-led Board of Peace announced Hamas agreed to a phased 200–250-day disarmament process in Gaza, with militants beginning ceasefire terms on August 1; however, Israel has not publicly accepted its own withdrawal obligations, leaving the deal's durability in doubt.",
+          "url": "https://www.axios.com/2026/07/30/hamas-weapons-gaza-deal-israel-board-peace"
+        },
+        {
+          "title": "South Korea's KOSPI Rockets 18% — Its Largest Single-Day Gain Ever",
+          "subtitle": "Korea Times / Bloomberg",
+          "meta": "~24h ago · Markets / Asia",
+          "summary": "Samsung Electronics surged 28% and SK Hynix hit its 30% daily limit-up as strong AI cloud-spending results from Microsoft and Amazon reversed a brutal three-day tech selloff driven by AI-bubble fears and rising Chinese chip competition; Japan's Nikkei and Taiwan's TAIEX also rose sharply.",
+          "url": "https://www.koreatimes.co.kr/economy/20260731/kospi-rockets-18-in-record-breaking-rally"
+        },
+        {
+          "title": "Death Toll Reaches 67 in Spain's Ceuta Border Crisis with Morocco",
+          "subtitle": "Euronews",
+          "meta": "~24h ago · Europe / Migration",
+          "summary": "Dozens of migrants died — some drowning, others crushed in a stampede — while attempting to cross a breakwater barrier into Spain's North African exclave of Ceuta, making it one of the deadliest single migration incidents at the Spanish border in years and reigniting EU-Morocco tensions.",
+          "url": "https://www.euronews.com/video/2026/08/01/latest-news-bulletin-august-1st-2026-midday"
+        },
+        {
+          "title": "S&P 500 Rises 1% as Magnificent Seven Lead Tech Rebound; Index Up 9% for 2026",
+          "subtitle": "Seeking Alpha / CNBC",
+          "meta": "~18h ago · Markets / US",
+          "summary": "US equities recovered on August 1 — the Nasdaq gained 2.8% and the S&P 500 closed up 1% — as mega-cap tech stocks reversed a midweek Federal Reserve-driven selloff, with Wall Street's consensus year-end S&P 500 target now sitting at roughly 7,850.",
+          "url": "https://seekingalpha.com/article/4929185-the-1-minute-market-report-august-1-2026"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Al Jazeera",
+    "Axios",
+    "CNN",
+    "Korea Times",
+    "Bloomberg",
+    "Euronews",
+    "Seeking Alpha",
+    "CNBC"
+  ],
+  "date": "2026-08-02",
+  "pretty": "Sunday, 02 August 2026",
+  "generated_at": "2026-08-02 09:58 CEST"
+}
