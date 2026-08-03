@@ -1,0 +1,59 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A tense 24 hours shaped by a last-minute U.S.-Iran military stand-down, catastrophic wildfires in Washington State, intensifying fighting in Ukraine, and a deadly maritime disaster in Indonesia.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Trump Cancels Planned Strike on Iran, Says 'Perimeters of a Deal' Reached",
+          "subtitle": "CNBC / Al Jazeera",
+          "meta": "~22h ago · Middle East · Geopolitics",
+          "summary": "President Trump announced he called off what he described as a massive military attack on Iran after saying deal terms — including full opening of the Strait of Hormuz and an end to Iran's nuclear program — had been agreed in principle. Oil prices fell sharply on the news while U.S. forces remained on alert pending a formal agreement.",
+          "url": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html"
+        },
+        {
+          "title": "Spokane Wildfires Force 60,000 Evacuations and Destroy 600+ Structures",
+          "subtitle": "CNN / NPR",
+          "meta": "~20h ago · Pacific Northwest, U.S.",
+          "summary": "A fast-moving wildfire complex swept through Spokane, Washington, burning over 7,000 acres with zero containment and destroying at least 600 homes and businesses. The Washington National Guard was activated as large portions of the city were placed under Level 3 'Leave NOW' evacuation orders.",
+          "url": "https://www.cnn.com/2026/08/02/us/live-news/spokane-washington-wildfire-old-trails-hnk"
+        },
+        {
+          "title": "Russia Strikes Kyiv Killing 9; Ukraine Hits Russian Air Base in Engels",
+          "subtitle": "RBC-Ukraine / Global Security",
+          "meta": "~24h ago · Ukraine",
+          "summary": "Russian ballistic missiles struck five districts of Kyiv before dawn Saturday, killing nine people and injuring 33, while a separate strike on a Kharkiv depot destroyed millions of books. Ukraine responded by striking a Russian air base in Engels and an oil refinery in Saratov Oblast overnight.",
+          "url": "https://www.globalsecurity.org/military/world/war/russo-ukraine-2026-08-02.htm"
+        },
+        {
+          "title": "Indonesian Ferry Fire Kills 5 and Leaves 41 Missing from 271 Aboard",
+          "subtitle": "Washington Post / Al Jazeera",
+          "meta": "~20h ago · Indonesia · Maritime",
+          "summary": "The Mutiara Sentosa 2 ferry caught fire in waters off Madura island while traveling from Surabaya to Makassar, forcing hundreds of panicked passengers into the sea. Rescue vessels recovered five bodies and saved 227 people, with 41 still unaccounted for as authorities investigated the cause.",
+          "url": "https://www.washingtonpost.com/world/2026/08/02/indonesia-sumenep-ferry-catches-fire/adeb6e6a-8e66-11f1-9fdc-0a725c989a7b_story.html"
+        },
+        {
+          "title": "Oil Slides on Iran Reprieve as Tech Earnings Fuel S&P 500 to New Highs",
+          "subtitle": "Bloomberg / CNBC",
+          "meta": "~12h ago · Economy · Markets",
+          "summary": "Oil prices fell sharply after Trump suspended the Iran strike, while U.S. equities held firm on a blowout earnings season — 85% of S&P 500 reporters beat estimates with aggregate profits tracking 47% growth — lifting Amazon 15%, Alphabet 7%, and Nvidia 3% on the week.",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-to-cancel-iran-attack-subject-to-a-rapid-deal"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CNBC",
+    "Al Jazeera",
+    "CNN",
+    "NPR",
+    "Washington Post",
+    "Bloomberg",
+    "RBC-Ukraine",
+    "Global Security"
+  ],
+  "date": "2026-08-03",
+  "pretty": "Monday, 03 August 2026",
+  "generated_at": "2026-08-03 10:55 CEST"
+}
