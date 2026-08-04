@@ -1,0 +1,64 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A deadly drone strike on a Russian beach resort, a pivotal US Senate deal, a landmark AI law kicking in, and escalating conflict in the West Bank define an unusually charged Tuesday.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Ukrainian Drone Strikes Crowded Russian Black Sea Beach, Killing 7 Including 3 Children",
+          "subtitle": "CNN / Al Jazeera / Euronews",
+          "meta": "~24h ago · Russia–Ukraine war",
+          "summary": "A drone hit a packed summer beach near Gelendzhik, Russia, killing at least seven people and injuring roughly 47; Ukrainian officials say Russian air defenses shot the drone down over vacationers, while Moscow blames Kyiv directly. The civilian toll has drawn sharp international attention and threatens to intensify pressure on both sides.",
+          "url": "https://www.cnn.com/2026/08/03/europe/ukrainian-drone-southern-russia-beach-intl"
+        },
+        {
+          "title": "Todd Blanche AG Nomination Back on Track After Senate Republicans Strike Deal on Anti-Weaponization Fund",
+          "subtitle": "CNBC / NPR / CBS News",
+          "meta": "~24h ago · US politics",
+          "summary": "Senators Cornyn and Tillis announced support for Trump's attorney-general pick after Blanche formally dissolved a controversial fund that critics said could pay Jan. 6 rioters, clearing the path for a Judiciary Committee vote on Tuesday. The resolution ends weeks of intra-GOP standoff and brings the Trump administration's top law-enforcement post closer to being filled.",
+          "url": "https://www.cnbc.com/2026/08/03/todd-blanche-doj-ag-senate-cornyn.html"
+        },
+        {
+          "title": "EU AI Act Transparency Rules Take Effect, Requiring All AI Systems to Identify Themselves",
+          "subtitle": "European Commission / Travers Smith",
+          "meta": "~2d ago · Technology / Regulation",
+          "summary": "As of August 2, chatbots, AI voice assistants, and agentic AI systems operating in the EU must disclose to users that they are interacting with AI, and deepfakes must carry machine-readable labels. It is the first continent-wide enforcement of AI transparency law and sets a compliance benchmark other jurisdictions are likely to follow.",
+          "url": "https://commission.europa.eu/news-and-media/news/safer-and-more-transparent-ai-2026-08-02_en"
+        },
+        {
+          "title": "Israeli Forces and Settlers Intensify West Bank Operations Amid Military Dispute Over Expansion",
+          "subtitle": "Anadolu Agency / IMEMC News",
+          "meta": "~12h ago · Middle East",
+          "summary": "Four Palestinians were injured in Monday raids across the West Bank, while Israeli Army Radio reported an open disagreement between the defense minister and military Central Command over how far to expand operations; settlers also set fire to homes and vehicles south of Nablus. The internal Israeli friction signals a potential strategic shift in an already volatile area.",
+          "url": "https://aa.com.tr/en/middle-east/4-palestinians-injured-as-israeli-forces-and-occupiers-intensify-west-bank-operations/4017569"
+        },
+        {
+          "title": "Ukrainian Naval Drones Sink Russian State Nuclear Giant's Cargo Ship in Black Sea",
+          "subtitle": "United24 Media / Meduza",
+          "meta": "~48h ago · Russia–Ukraine war",
+          "summary": "Ukrainian sea drones struck and sank the sanctioned vessel Yanina, a cargo ship linked to Russia's state nuclear corporation Rosatom, in the Black Sea; President Zelenskyy confirmed it displaced over 100,000 tons. The sinking underscores Ukraine's expanding naval-drone capability and its ability to disrupt Russian maritime logistics despite having no conventional navy.",
+          "url": "https://united24media.com/war-in-ukraine/ukraines-naval-drones-sink-russian-state-nuclear-giants-cargo-ship-in-black-sea-21254"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CNN",
+    "Al Jazeera",
+    "Euronews",
+    "CNBC",
+    "NPR",
+    "CBS News",
+    "European Commission",
+    "Travers Smith",
+    "Anadolu Agency",
+    "IMEMC News",
+    "United24 Media",
+    "Meduza",
+    "Detroit News"
+  ],
+  "date": "2026-08-04",
+  "pretty": "Tuesday, 04 August 2026",
+  "generated_at": "2026-08-04 10:12 CEST"
+}
