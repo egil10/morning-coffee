@@ -1,0 +1,62 @@
+{
+  "title": "Morning Headlines",
+  "intro": "Iran-US peace talks inch toward a breakthrough, Wall Street smashes records on a blowout AI quarter, and a Russian opposition figure reaches safety in Paris while Europe bakes in historic heat.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Iran and US Near Deal as Qatar Confirms 'Very Progressive' Peace Talks",
+          "subtitle": "Foreign Policy / CNN",
+          "meta": "~18h ago · Middle East & geopolitics",
+          "summary": "Qatari mediators confirmed that US-Iran indirect negotiations to end the monthslong Strait of Hormuz conflict have entered 'very progressive stages,' with draft agreement language now circulating between the parties through Oman and Qatar. The talks matter globally because roughly 20% of world oil supply transits the Strait, and progress sent energy prices lower and equities higher.",
+          "url": "https://foreignpolicy.com/2026/08/04/iran-us-indirect-peace-talks-qatar-oman-strait-hormuz-trump/"
+        },
+        {
+          "title": "S&P 500 and Dow Hit All-Time Highs on Easing Iran Tensions and Tech Surge",
+          "subtitle": "CNN Business / The Motley Fool",
+          "meta": "~18h ago · Markets",
+          "summary": "The S&P 500 closed at a record 7,737 (+1.79%) and the Dow topped 54,000 (+1.71%) on Tuesday, with the Nasdaq gaining 2.59% as investors cheered progress toward an Iran ceasefire and explosive AI-driven earnings. Europe's STOXX 600 also hit a record, making it a broad global risk-on session.",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/08/04/stock-market-today-aug-4-s-and-p-500-and-dow-set-new-highs-on-easing-geopolitical-tensions/"
+        },
+        {
+          "title": "Palantir Surges 20% After Reporting 93% Revenue Growth and 149% Jump in US Commercial Sales",
+          "subtitle": "CNBC",
+          "meta": "~24h ago · Technology & AI",
+          "summary": "Palantir's Q2 2026 results far exceeded estimates — revenue hit $1.93 billion (+93% YoY), US commercial revenue nearly tripled, and full-year guidance was raised to $8.15 billion — signalling that AI software adoption has reached a tipping point among large enterprises and government agencies. The stock's 20% jump made Palantir one of the biggest single-day gainers in S&P 500 history.",
+          "url": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html"
+        },
+        {
+          "title": "Putin Critic Boris Nadezhdin Flees Russia for Paris After 'Foreign Agent' Designation",
+          "subtitle": "France 24 / Washington Post",
+          "meta": "~48h ago · Russia & politics",
+          "summary": "Boris Nadezhdin, one of the last prominent anti-war politicians to remain inside Russia, announced he had reached Paris after authorities labeled him a 'foreign agent,' blocked him from parliamentary elections, and charged him over a post referencing Alexei Navalny. His departure removes a rare visible voice of domestic dissent as the Kremlin tightens its grip ahead of autumn elections.",
+          "url": "https://www.france24.com/en/europe/20260803-anti-war-politician-and-kremlin-critic-boris-nadezhdin-flees-russia-for-france"
+        },
+        {
+          "title": "Italy Issues Red Alerts for Record 25 Cities During Fourth Heatwave of the Summer",
+          "subtitle": "Wanted in Rome / The Diplomatic Insight",
+          "meta": "~48h ago · Europe & climate",
+          "summary": "Italy's health ministry placed a record 25 of its 27 monitored cities on maximum red-heat alert — meaning dangerous conditions for the general population, not just the vulnerable — as a North African anticyclone pushed inland temperatures past 40°C. It is Italy's fourth heatwave of 2026 and the widest red-alert footprint yet recorded, intensifying pressure on European governments to accelerate heat-adaptation plans.",
+          "url": "https://www.wantedinrome.com/news/italy-puts-25-cities-on-heatwave-red-alert-on-3-august.html"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Foreign Policy",
+    "CNN",
+    "CNN Business",
+    "The Motley Fool",
+    "CNBC",
+    "France 24",
+    "Washington Post",
+    "Wanted in Rome",
+    "The Diplomatic Insight",
+    "ABC News",
+    "NPR"
+  ],
+  "date": "2026-08-05",
+  "pretty": "Wednesday, 05 August 2026",
+  "generated_at": "2026-08-05 10:12 CEST"
+}
