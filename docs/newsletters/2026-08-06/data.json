@@ -1,0 +1,60 @@
+{
+  "title": "Morning Headlines",
+  "intro": "Ukraine's exhausted air defenses fail against a massive Russian barrage killing 17 in Kyiv, while U.S.-Iran diplomats race to reopen the Strait of Hormuz and autonomous vehicles hit a commercial milestone.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Russia Kills 17 in Kyiv as Ukraine's Missile Interceptors Run Dry",
+          "subtitle": "Washington Post / Kyiv Independent / Al Jazeera",
+          "meta": "~18h ago · Europe",
+          "summary": "Russia fired 24 ballistic missiles and 115 drones at Kyiv overnight into August 5; Ukraine's air force failed to intercept a single missile amid critical shortages of air-defense munitions, leaving 17 dead and 44 wounded. President Zelensky urged Western allies to urgently deliver anti-ballistic systems, warning that delays were directly causing mass casualties.",
+          "url": "https://www.washingtonpost.com/world/2026/08/05/ukraine-war-russia-kyiv-patriot-ballistic-missile/03aab2ca-9092-11f1-9fdc-0a725c989a7b_story.html"
+        },
+        {
+          "title": "U.S., Iran, and Oman Edge Toward Deal to Reopen Strait of Hormuz",
+          "subtitle": "Al Jazeera / CNN",
+          "meta": "~18h ago · Middle East",
+          "summary": "The U.S., Iran, and Oman are nearing an interim agreement that could reopen the Strait of Hormuz — blocked since a U.S.-Israel air campaign killed Iran's supreme leader in February — with Iran's foreign minister reportedly accepting a Qatari-brokered navigation formula. Trump has suspended threatened strikes pending a quick deal, keeping global oil markets and Asian equities on tenterhooks.",
+          "url": "https://www.aljazeera.com/news/2026/8/5/iran-oman-us-close-to-hormuz-deal-what-do-they-all-want"
+        },
+        {
+          "title": "Amazon's Zoox to Launch First Paid Fully Driverless Robotaxi Service",
+          "subtitle": "CNBC / TechCrunch / Bloomberg",
+          "meta": "~18h ago · Technology",
+          "summary": "Amazon's Zoox announced it will begin charging fares for rides in its steering-wheel- and pedal-free robotaxis in Las Vegas starting August 10, becoming the first company to receive a federal NHTSA exemption permitting public paid rides with no human controls. The launch marks a historic commercial milestone in the autonomous-vehicle race and puts Zoox in direct competition with Alphabet's Waymo.",
+          "url": "https://www.cnbc.com/2026/08/05/amazon-zoox-paid-robotaxi-rides-las-vegas.html"
+        },
+        {
+          "title": "Record Wildfires Scorch 600+ Square Miles Across Spain and France",
+          "subtitle": "Al Jazeera / NBC News",
+          "meta": "~3 days, ongoing · Europe",
+          "summary": "Fueled by Europe's hottest summer on record and months of drought, wildfires have burned through more than 600 square miles in Spain and France over the past two weeks, displacing tens of thousands and generating a rare fire-cloud tornado. Climate scientists say the scale and speed of destruction are unprecedented in modern European history.",
+          "url": "https://www.aljazeera.com/gallery/2026/8/3/wildfires-still-burning-in-france-and-spain-amid-fears-of-more-to-come"
+        },
+        {
+          "title": "Wall Street Hits New Highs on Hormuz Peace Hopes; SpaceX Tumbles 14%",
+          "subtitle": "Bloomberg / Charles Schwab",
+          "meta": "~6h ago · Markets",
+          "summary": "U.S. stocks climbed to fresh record highs Thursday on optimism over a potential Strait of Hormuz reopening deal and strong earnings from Eli Lilly and Disney, even as SpaceX sank 14% after roughly $101 billion in employee shares became eligible for trading despite better-than-expected results. Asian index futures edged lower as investors awaited Friday's nonfarm payrolls report.",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-05/stock-market-today-dow-s-p-live-updates"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Washington Post",
+    "Kyiv Independent",
+    "Al Jazeera",
+    "CNN",
+    "CNBC",
+    "TechCrunch",
+    "Bloomberg",
+    "NBC News",
+    "Charles Schwab"
+  ],
+  "date": "2026-08-06",
+  "pretty": "Thursday, 06 August 2026",
+  "generated_at": "2026-08-06 10:11 CEST"
+}
