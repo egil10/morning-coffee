@@ -1,0 +1,59 @@
+{
+  "title": "Morning Headlines",
+  "intro": "The U.S. economy logged its first job losses in months, Russia hammered Kyiv again, Trump renewed his birthright citizenship push, a New Mexico court handed Meta a nearly $1 billion child-safety judgment, and Ukraine escalated by striking deep into Russian economic infrastructure.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "U.S. Shed 23,000 Jobs in July, Shocking Markets",
+          "subtitle": "CNBC / U.S. Bureau of Labor Statistics",
+          "meta": "~24h ago · Economy",
+          "summary": "U.S. nonfarm payrolls fell by 23,000 in July — the first monthly decline in over a year and far short of the +83,000 expected — with losses concentrated in government, retail, and leisure. The report also revised May and June down by a combined 103,000 jobs, intensifying debate over Federal Reserve rate policy.",
+          "url": "https://www.cnbc.com/amp/2026/08/07/jobs-report-july-2026.html"
+        },
+        {
+          "title": "Russian Strikes Near Kyiv Kill Three, Including a Child",
+          "subtitle": "Al Jazeera",
+          "meta": "~6h ago · Europe / War",
+          "summary": "Russian missiles struck the Kyiv region early Saturday, killing at least three people including a child and igniting fires across multiple city districts. The attack is part of a sustained Russian bombardment that Ukraine's depleted air defences have increasingly failed to stop.",
+          "url": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child"
+        },
+        {
+          "title": "Trump Signs Two New Executive Orders Targeting Birthright Citizenship",
+          "subtitle": "ABC News / NPR",
+          "meta": "~36h ago · U.S. Politics",
+          "summary": "President Trump signed orders restricting automatic citizenship for children of foreign diplomats and cracking down on 'birth tourism,' just five weeks after the Supreme Court struck down his original effort as unconstitutional. Both orders face immediate legal challenges before they can be enforced.",
+          "url": "https://abcnews.com/Politics/trump-signs-executive-orders-target-birthright-citizenship/story?id=135437344"
+        },
+        {
+          "title": "New Mexico Court Orders Meta to Pay $942 Million Total Over Child Safety",
+          "subtitle": "Forbes / CNBC",
+          "meta": "~24h ago · Tech & Legal",
+          "summary": "A Santa Fe judge added a $567 million public-nuisance penalty on top of a $375 million jury award from earlier this year, finding that Meta designed Instagram and Facebook to addict minors and expose them to exploitation. The ruling also mandates usage limits and curfew-style notification restrictions for users under 18 in the state.",
+          "url": "https://www.forbes.com/sites/siladityaray/2026/08/07/new-mexico-court-orders-meta-to-pay-nearly-1-billion-over-child-safety-issues/"
+        },
+        {
+          "title": "Ukraine Strikes Wildberries as Both Sides Escalate Attacks on Economic Infrastructure",
+          "subtitle": "Al Jazeera",
+          "meta": "~24h ago · Europe / War",
+          "summary": "Ukraine targeted warehouses and logistics hubs of Wildberries, Russia's largest e-commerce company, which Kyiv accuses of supplying Moscow's war effort. Russia simultaneously struck five Ukrainian regions, killing at least six people and wounding dozens, marking a broadening of the conflict beyond frontline battlefields.",
+          "url": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CNBC",
+    "U.S. Bureau of Labor Statistics",
+    "Al Jazeera",
+    "ABC News",
+    "NPR",
+    "Forbes",
+    "Washington Post",
+    "TechCrunch"
+  ],
+  "date": "2026-08-08",
+  "pretty": "Saturday, 08 August 2026",
+  "generated_at": "2026-08-08 08:30 CEST"
+}
