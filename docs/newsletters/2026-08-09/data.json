@@ -1,0 +1,61 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A landmark Iran-US ceasefire framework, a sweeping social media penalty, and a historic diplomatic pivot in the Balkans headline a consequential 24 hours.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Iran Says Hormuz Deal Framework Finalized as US-Iran War Enters Endgame",
+          "subtitle": "CNN / ABC News / Al Jazeera",
+          "meta": "~12h ago · Middle East",
+          "summary": "Iran announced that a preliminary framework with Oman for reopening the Strait of Hormuz has been agreed, though it still requires sign-off from senior authorities. A full deal would end six months of US-Iran hostilities that have throttled global oil shipments, with Washington signaling it would lift its blockade of Iranian ports once terms are formalized.",
+          "url": "https://edition.cnn.com/2026/08/08/world/live-news/iran-war-trump"
+        },
+        {
+          "title": "New Mexico Court Orders Meta to Pay $942 Million in Child Safety Case",
+          "subtitle": "TechCrunch / Forbes / CNBC",
+          "meta": "~20h ago · Tech / Law",
+          "summary": "A New Mexico judge added a $567 million penalty to Meta's earlier $375 million fine, bringing the total to $942 million for creating a 'public nuisance' through lax child safety on Facebook and Instagram. The court also mandated sweeping operational changes including nightly notification blackouts for minors, making it one of the largest social-media child-safety rulings in US history.",
+          "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/"
+        },
+        {
+          "title": "US Pledges $1 Billion Security Package as Colombia Swears In Right-Wing President",
+          "subtitle": "CBS News / US News & World Report",
+          "meta": "~18h ago · Americas",
+          "summary": "Colombia inaugurated Abelardo de la Espriella on August 8, and the US immediately announced a $1 billion security assistance package aimed at dismantling narco-terrorist networks. The pledge marks a sharp reversal from four years of tension under outgoing leftist leader Gustavo Petro, resetting a strategically vital Latin American alliance.",
+          "url": "https://www.cbsnews.com/news/abelardo-de-la-espriella-us-pledges-1-billion-security-assistance-colombia/"
+        },
+        {
+          "title": "Zelenskyy Makes Historic First Visit to Serbia, Sealing Ukraine-Serbia Realignment",
+          "subtitle": "Bloomberg / Mezha / EU Alive",
+          "meta": "~22h ago · Europe",
+          "summary": "Ukrainian President Volodymyr Zelenskyy traveled to Belgrade for his first-ever visit since Russia's 2022 invasion, with Serbia's Vučić pledging support for Ukraine's territorial integrity and a mutual EU accession track. The two countries agreed to finalize a free trade deal by year-end, underscoring Serbia's accelerating drift away from Russian influence.",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-08/zelenskyy-makes-debut-trip-to-serbia-as-russian-influence-wanes"
+        },
+        {
+          "title": "Major Wildfire Forces 200+ Evacuations Near Italy's Lake Garda",
+          "subtitle": "Euronews / Al Jazeera",
+          "meta": "~20h ago · Europe / Climate",
+          "summary": "A fast-moving wildfire fanned by 40 km/h winds tore through the hills above Lake Garda's western shore, forcing more than 200 residents and tourists to flee the Tignale municipality. The blaze, fueled by severe drought, threatens one of Italy's most visited tourist regions and underscores a summer of record fire risk across southern Europe.",
+          "url": "https://www.euronews.com/my-europe/2026/08/08/major-wildfire-in-hills-above-lake-garda-at-least-200-residents-and-tourists-evacuated"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CNN",
+    "ABC News",
+    "Al Jazeera",
+    "TechCrunch",
+    "Forbes",
+    "CNBC",
+    "CBS News",
+    "US News & World Report",
+    "Bloomberg",
+    "Euronews"
+  ],
+  "date": "2026-08-09",
+  "pretty": "Sunday, 09 August 2026",
+  "generated_at": "2026-08-09 08:33 CEST"
+}
