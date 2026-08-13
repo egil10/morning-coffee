@@ -1,0 +1,61 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A direct military confrontation in the Gulf of Oman, a climbing death toll in Colombia, and a tame U.S. inflation print headline a packed August 13 news day.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "U.S. Navy Fires Hellfire Missiles at Cargo Ship Defying Iran Naval Blockade",
+          "subtitle": "Democracy Now / multiple outlets",
+          "meta": "~18h ago · Middle East",
+          "summary": "A U.S. Navy MH-60 helicopter fired two Hellfire missiles to disable the steering gear of a Panama-flagged cargo ship off Pakistan that was ignoring orders to stop violating the blockade of Iranian ports — the most direct naval engagement of the Hormuz crisis to date. Separately, Iran announced it is close to a shipping-route deal with Oman, though it is demanding U.S. troop withdrawal and financial compensation before the strait fully reopens, keeping global oil markets on edge.",
+          "url": "https://www.democracynow.org/2026/8/12/headlines"
+        },
+        {
+          "title": "Colombia Earthquake Death Toll Passes 265 as Rescuers Struggle to Reach Epicenter",
+          "subtitle": "NPR / CNN / Al Jazeera",
+          "meta": "~18h ago · Latin America",
+          "summary": "The death toll from a magnitude-7.4 earthquake that struck the remote Chocó department on August 10 has climbed past 265, with more than 4,100 people still missing and rescue teams blocked by landslides from reaching the worst-hit areas around San José del Palmar. Colombia declared a national disaster and the quake is the deadliest to hit the country in over a decade.",
+          "url": "https://www.npr.org/2026/08/12/g-s1-138315/colombia-earthquake-updates"
+        },
+        {
+          "title": "U.S. July CPI Hits 3.4%, In Line With Forecasts, Relieving Rate-Hike Fears",
+          "subtitle": "CNBC / Bureau of Labor Statistics",
+          "meta": "~18h ago · Economy",
+          "summary": "The Bureau of Labor Statistics reported July consumer prices rose just 0.1% month-over-month, pulling the annual rate down to 3.4% — matching Wall Street forecasts and continuing a gradual disinflation trend. Stock futures rallied after the release and markets cut the probability of an imminent Federal Reserve rate hike from about 70% a month ago to roughly 38%.",
+          "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html"
+        },
+        {
+          "title": "Total Solar Eclipse Sweeps Across Europe for the First Time Since 1999",
+          "subtitle": "Space.com / multiple outlets",
+          "meta": "~20h ago · Science",
+          "summary": "The moon's shadow cut a path from Greenland and Iceland through northern Spain and the Balearic Islands on August 12, delivering the first total solar eclipse visible from Europe in 27 years, while millions more in northeastern North America saw a partial eclipse. Record crowds of eclipse chasers descended on the Iberian Peninsula for one of the most anticipated astronomical events of the decade.",
+          "url": "https://www.space.com/news/live/total-solar-eclipse-today-aug-12-2026-live-updates"
+        },
+        {
+          "title": "White House Press Secretary Karoline Leavitt Resigns, Will Advise Trump Externally",
+          "subtitle": "CNBC / NPR / CNN",
+          "meta": "~18h ago · U.S. Politics",
+          "summary": "President Trump announced that Karoline Leavitt, 28 — the youngest person ever to serve as White House press secretary — will leave the post by the end of August to spend more time with her family, transitioning to a role as an outside Trump adviser focused on the November midterms. No successor has been named, leaving a prominent communications position open less than three months before the midterm elections.",
+          "url": "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Democracy Now",
+    "NPR",
+    "CNN",
+    "CNBC",
+    "Bureau of Labor Statistics",
+    "Al Jazeera",
+    "Space.com",
+    "NBC News",
+    "Axios",
+    "Washington Post"
+  ],
+  "date": "2026-08-13",
+  "pretty": "Thursday, 13 August 2026",
+  "generated_at": "2026-08-13 09:07 CEST"
+}
