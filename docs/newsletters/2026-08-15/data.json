@@ -1,0 +1,57 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A week of escalating crises: the US-Iran war enters a new economic phase, record floods devastate Japan, and Trump's economic pitch struggles ahead of November midterms.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "US Readies Unprecedented Economic Penalties Against Iran as War Nears Six Months",
+          "subtitle": "Bloomberg",
+          "meta": "~18h ago · Middle East / US Foreign Policy",
+          "summary": "The Trump administration is preparing sweeping new economic sanctions targeting Iran after roughly 23 weeks of conflict, signaling a shift away from military operations toward economic strangulation. The move comes as Iran's inflation hits 77% and the OECD has raised its US inflation forecast to 4.2% — partly due to the war's spillover effects.",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-14/us-readies-iran-penalties-as-trump-downplays-midterms-impact"
+        },
+        {
+          "title": "Record Floods Kill 8 Near Tokyo, Force Evacuation of 100,000 in Chiba",
+          "subtitle": "The Watchers / ABC News / NPR",
+          "meta": "~24h ago · Japan / Natural Disaster",
+          "summary": "Unprecedented rainfall — three times the monthly August average in half a day — inundated Chiba Prefecture east of Tokyo, killing at least eight people and triggering Japan's highest-level heavy rain warning for the region for the first time. More than 100,000 residents received evacuation orders as landslides and power outages spread across the area.",
+          "url": "https://watchers.news/2026/08/14/record-rainfall-floods-and-outages-hit-chiba-leaving-at-least-8-dead-japan/"
+        },
+        {
+          "title": "Trump's 'Golden Age' Economy Pitch Fizzles With Midterm Voters",
+          "subtitle": "Bloomberg / Fortune",
+          "meta": "~20h ago · US Politics / Economy",
+          "summary": "With the November midterms less than three months away, polling shows Trump's economic case — built on the claim that a 'golden age' is already here — is failing to land, as inflation exceeds 3% and gas tops $4 a gallon partly due to the Iran war. Americans are now nearly evenly split on which party they trust more on the economy, putting Republican control of Congress at risk.",
+          "url": "https://fortune.com/2026/08/14/trump-economy-midterm-voters-inflation-gas/"
+        },
+        {
+          "title": "Afghanistan Marks Five Years of Taliban Rule with Millions of Girls Still Locked Out of School",
+          "subtitle": "NPR / Washington Post",
+          "meta": "~12h ago · South Asia / Human Rights",
+          "summary": "August 15 is the fifth anniversary of the Taliban's return to power, and girls above sixth grade remain banned from school while women are barred from universities — the world's most severe restrictions on female education. New reporting finds the crisis has also begun degrading boys' education, as classrooms pivot to rote religious instruction at the expense of practical skills.",
+          "url": "https://www.npr.org/2026/08/14/g-s1-138584/taliban-afghanistan-boys-girls-education-school"
+        },
+        {
+          "title": "Europe's Fifth Heatwave of Summer Sparks Wildfires as Asia Drowns in Floods",
+          "subtitle": "NPR",
+          "meta": "~20h ago · Global / Climate",
+          "summary": "Firefighters across France, Britain, and Croatia battled Europe's fifth heatwave of the summer, even as Japan endured record rainfall in the same week — a pattern scientists say illustrates simultaneous climate extremes becoming the norm. The back-to-back disasters are stretching emergency services across two continents.",
+          "url": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Bloomberg",
+    "Fortune",
+    "NPR",
+    "The Watchers",
+    "ABC News",
+    "Washington Post"
+  ],
+  "date": "2026-08-15",
+  "pretty": "Saturday, 15 August 2026",
+  "generated_at": "2026-08-15 08:16 CEST"
+}
