@@ -1,0 +1,60 @@
+{
+  "title": "Morning Headlines",
+  "intro": "The world's most important oil chokepoint remains a flashpoint as the US-Iran war enters a new phase, historic floods batter two continents, and Israeli strikes widen the Middle East conflict.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Ships Struck in Hormuz as Trump Claims Waterway; Iran-Oman Deal Edges Closer",
+          "subtitle": "CNBC / Bloomberg / Washington Post",
+          "meta": "~24h ago · Middle East / Global Energy",
+          "summary": "A bulk carrier was hit by a projectile in the Strait of Hormuz on Friday, the latest in a string of attacks, as Trump declared he would make the waterway 'U.S. territory' — a claim Iran immediately and flatly rejected. Separately, Bloomberg reports that Iran and Oman have quietly converged on agreed shipping routes through the strait, raising guarded hopes for an eventual ceasefire in the six-month-old US-Iran war.",
+          "url": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html"
+        },
+        {
+          "title": "Midwest Floods Break 113-Year Record; Indiana Governor Requests Federal Emergency",
+          "subtitle": "NPR",
+          "meta": "~24h ago · United States",
+          "summary": "Indiana's White River crested at 24.9 feet — surpassing a flood mark that has stood since 1913 — as relentless thunderstorms dropped more than 11 inches of rain across parts of Indiana and Ohio. At least three people have died, over 150,000 are without power, and Governor Mike Braun has mobilized the National Guard while formally requesting a presidential emergency declaration through FEMA.",
+          "url": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema"
+        },
+        {
+          "title": "Israeli Airstrikes Kill 9 in Lebanon as War Spreads Beyond Iran's Borders",
+          "subtitle": "The Washington Post",
+          "meta": "~24h ago · Middle East",
+          "summary": "Israeli forces struck targets in Lebanon on Friday, killing at least nine people, even as diplomatic efforts to contain the broader US-Iran conflict remained stalled. The strikes underscore fears that the six-month war is metastasizing into a wider regional conflict with no clear off-ramp.",
+          "url": "https://www.washingtonpost.com/business/2026/08/15/iran-israel-lebanon-uae-us-hormuz-august-15-2026/f14138c2-9878-11f1-9ef9-1be722184483_story.html"
+        },
+        {
+          "title": "Philippines: 16 Killed, 3.1 Million Affected After Nine Days of Monsoon Rains",
+          "subtitle": "Manila Bulletin / Wikipedia Current Events",
+          "meta": "~24h ago · Southeast Asia",
+          "summary": "The Philippine civil defense office reports at least 16 deaths across Luzon — including seven in Baguio — from floods, landslides, and weather-related incidents after the southwest monsoon combined with two tropical cyclones to produce nine straight days of heavy rain. Infrastructure damage has reached ₱2.1 billion and over 3.1 million Filipinos across multiple regions have been affected.",
+          "url": "https://mb.com.ph/2026/08/12/death-toll-from-habagat-cyclones-hits-21-while-31m-filipinos-affected-nationwide-ocd"
+        },
+        {
+          "title": "Russia's Supreme Court Bans Only Anti-War Party From September Parliamentary Elections",
+          "subtitle": "NBC News / Human Rights Watch",
+          "meta": "~3 days ago · Russia / Europe",
+          "summary": "Russia's Supreme Court stripped the liberal Yabloko party — the country's sole political force openly opposing the Ukraine war — of its registration for the September 18 State Duma elections, citing alleged copyright violations and foreign funding. Human rights groups condemned the ruling as a Kremlin-orchestrated move to silence dissent before voters go to the polls, with roughly 500 supporters rallying outside the court during the hearing.",
+          "url": "https://www.nbcnews.com/world/russia/russia-ukraine-supreme-court-bans-anti-war-party-rcna591775"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CNBC",
+    "Bloomberg",
+    "The Washington Post",
+    "NPR",
+    "Al Jazeera",
+    "NBC News",
+    "Human Rights Watch",
+    "Manila Bulletin",
+    "Wikipedia Current Events"
+  ],
+  "date": "2026-08-16",
+  "pretty": "Sunday, 16 August 2026",
+  "generated_at": "2026-08-16 08:20 CEST"
+}
