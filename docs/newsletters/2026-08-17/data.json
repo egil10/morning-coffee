@@ -1,0 +1,61 @@
+{
+  "title": "Morning Headlines",
+  "intro": "Escalating conflicts on two fronts — Ukraine's largest drone assault of the war and a NATO jet shooting down a Russian drone over Romania — collide with a sprint of Middle East diplomacy and a US pivot away from a key Asian ally.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Ukraine launches 600-drone assault on Russia, one of the largest attacks of the war",
+          "subtitle": "NPR / France 24",
+          "meta": "~18h ago · Russia-Ukraine",
+          "summary": "Ukraine fired roughly 600 drones overnight at Russia, killing at least six people and striking targets near Moscow, Rostov, and a missile fuel production facility. Russia claimed to have shot down more than 800 drones in total — calling it the largest Ukrainian aerial attack since the start of the year — but Ukrainian drones still hit a Wildberries warehouse and residential areas.",
+          "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia"
+        },
+        {
+          "title": "NATO jet shoots down suspected Russian drone over Romania near Moldova border",
+          "subtitle": "CNBC / CNN / Euronews",
+          "meta": "~18h ago · Europe / NATO",
+          "summary": "A Spanish F-18 scrambled from Mihail Kogalniceanu Air Base intercepted and destroyed a suspected Russian drone that entered Romanian airspace at 4:44 a.m., the fourth such shoot-down this year. The incident — occurring simultaneously with Ukraine's massive drone offensive — marks another direct incursion into NATO territory and sharpens pressure on the alliance's collective-defense posture.",
+          "url": "https://www.cnbc.com/2026/08/16/suspected-russian-drone-shot-down-in-romanian-airspace.html"
+        },
+        {
+          "title": "Kushner holds rare meeting with Hamas leader in Egypt, then heads to Netanyahu",
+          "subtitle": "NPR / AP",
+          "meta": "~18h ago · Middle East",
+          "summary": "US envoy Jared Kushner met Hamas leader Khalil al-Hayya in Cairo to push a 15-point Gaza road map that calls for Hamas disarmament and an Israeli withdrawal — a plan Netanyahu publicly rejected last week in an unusual show of defiance toward Washington. Kushner is headed to Israel on Monday, with the talks representing the most direct US-Hamas contact since the ceasefire framework stalled.",
+          "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks"
+        },
+        {
+          "title": "Israel strikes Lebanon, kills senior Hezbollah commander — deadliest day in months",
+          "subtitle": "Japan Times / Bloomberg",
+          "meta": "~12h ago · Middle East",
+          "summary": "Israeli strikes killed 11 people in southern Lebanon on Sunday, including Hezbollah commander Abu Hassan Alaa, the deadliest single day of fighting since the sides' June ceasefire. Israel said the strikes were retaliation for a Hezbollah attack that wounded three of its soldiers, and warned it would strike again if threatened — raising fears the ceasefire is unraveling just as US sanctions on Iran loom.",
+          "url": "https://www.japantimes.co.jp/news/2026/08/17/world/israel-lebanon-us-iran-sanctions/"
+        },
+        {
+          "title": "Trump orders Pentagon to scale back US–South Korea joint military exercises",
+          "subtitle": "Washington Post / PBS NewsHour",
+          "meta": "~18h ago · Asia-Pacific",
+          "summary": "President Trump directed Defense Secretary Pete Hegseth to substantially cut the 11-day Ulchi Freedom Shield exercises — citing South Korea's refusal to help denuclearize Iran and calling the drills a \"hostile\" signal to a \"respectful\" North Korea. The move rattles a cornerstone alliance in the Pacific and could undermine joint readiness against North Korean threats at a moment of heightened global tension.",
+          "url": "https://www.washingtonpost.com/politics/2026/08/16/korea-trump-military-exercises/cc275164-99ba-11f1-9cc4-2dc9b46e2d5c_story.html"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "NPR",
+    "France 24",
+    "CNBC",
+    "CNN",
+    "Euronews",
+    "Japan Times",
+    "Bloomberg",
+    "Washington Post",
+    "PBS NewsHour",
+    "AP"
+  ],
+  "date": "2026-08-17",
+  "pretty": "Monday, 17 August 2026",
+  "generated_at": "2026-08-17 08:26 CEST"
+}
