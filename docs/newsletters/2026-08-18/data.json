@@ -1,0 +1,59 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A collapsed Iran deal, a reshuffled Pacific alliance, competitive US primary elections, surging oil prices, and a landmark memory-chip breakthrough define Tuesday's most consequential stories.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "US-Iran Nuclear Deal Collapses; Trump Threatens Oman as Lebanon Violence Surges",
+          "subtitle": "CNN / Bloomberg",
+          "meta": "~24h ago · Middle East",
+          "summary": "The 60-day US-Iran memorandum of understanding expired August 17 with no final deal; Trump said he will not extend it and threatened Oman, while Saturday was one of the deadliest days in Lebanon since the June ceasefire framework was signed. The breakdown raises fears of a widening regional war and sent oil prices climbing toward $85 a barrel.",
+          "url": "https://www.cnn.com/2026/08/17/world/live-news/iran-war-trump"
+        },
+        {
+          "title": "Trump Orders Pentagon to 'Substantially Reduce' Joint Exercises with South Korea",
+          "subtitle": "NPR / The Washington Post",
+          "meta": "~24h ago · Indo-Pacific / Security",
+          "summary": "President Trump directed the military to scale back the annual Ulchi Freedom Shield drills with South Korea, citing Seoul's refusal to assist in the Iran conflict and his 'good relationship' with Kim Jong Un. The move signals a dramatic shift in US alliance posture in Asia at a moment of heightened regional tension.",
+          "url": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea"
+        },
+        {
+          "title": "Alaska and Florida Hold Key 2026 Midterm Primaries",
+          "subtitle": "NPR / Ballotpedia",
+          "meta": "~12h ago · US Politics",
+          "summary": "Voters in Alaska and Florida cast ballots in consequential primaries today, with Alaska's nonpartisan blanket primary featuring a high-profile rematch: incumbent Senator Dan Sullivan against former Rep. Mary Peltola for a coveted Senate seat. Results will help determine which party controls the Senate after November.",
+          "url": "https://www.kgou.org/politics-and-government/2026-08-17/here-are-alaskas-2026-primary-election-results"
+        },
+        {
+          "title": "Oil Hits $85 as Iran Deal Collapses; US Stocks Tread Water",
+          "subtitle": "CNBC / Bloomberg",
+          "meta": "~8h ago · Economy & Markets",
+          "summary": "West Texas Intermediate crude rose 0.6% to $85 a barrel after the US-Iran deal expired and Lebanon fighting intensified, reviving fears over Strait of Hormuz supply flows. US equity indexes were broadly flat — the S&P 500 near unchanged, the Dow down 123 points — as investors weighed elevated energy costs ahead of major retailer earnings.",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "title": "Scientists Fuse Synthetic DNA with Semiconductors to Create Ultra-Low-Power Memory",
+          "subtitle": "ScienceDaily / TechRadar",
+          "meta": "~2d ago · Science & Technology",
+          "summary": "A Penn State team combined synthetic DNA with perovskite semiconductors to build a memristor that matches conventional memory chips while using just one-tenth the power. The bio-hybrid device stores and processes data in the same location — mimicking neurons — and could sharply cut the energy footprint of AI systems and next-generation computers.",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "CNN",
+    "Bloomberg",
+    "NPR",
+    "The Washington Post",
+    "CNBC",
+    "ScienceDaily",
+    "TechRadar",
+    "Ballotpedia"
+  ],
+  "date": "2026-08-18",
+  "pretty": "Tuesday, 18 August 2026",
+  "generated_at": "2026-08-18 08:19 CEST"
+}
