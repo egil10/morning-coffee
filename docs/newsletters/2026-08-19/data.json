@@ -1,0 +1,60 @@
+{
+  "title": "Morning Headlines",
+  "intro": "Iran's diplomatic window slams shut, Big Tech faces its biggest courtroom reckoning over children, and a global chip selloff rattles markets from Seoul to Wall Street.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "US-Iran Nuclear Deal Deadline Expires Without Talks Ever Starting",
+          "subtitle": "Al Jazeera / CNN",
+          "meta": "~2d ago · Middle East",
+          "summary": "The 60-day US-Iran memorandum of understanding expired August 17 with negotiations never having begun; Iran cited US violations as 'moot,' while Trump separately threatened to bomb Oman — the only remaining diplomatic mediator — if it interfered in the Strait of Hormuz. The breakdown deepens a six-month-old conflict and raises the prospect of renewed military escalation.",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner"
+        },
+        {
+          "title": "Meta's Landmark Child Safety Trial Opens in Federal Court",
+          "subtitle": "NPR / Axios",
+          "meta": "~1d ago · Technology / Law",
+          "summary": "Opening arguments began Tuesday in Oakland as lawyers for 29 state attorneys general accused Meta of knowingly engineering addictive features on Instagram and Facebook that harmed minors and violated federal children's privacy law (COPPA); Meta denied the allegations. The case is widely seen as the most consequential legal challenge Big Tech has faced over youth safety.",
+          "url": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening"
+        },
+        {
+          "title": "Asian Chip Stocks Plunge as AI Bubble Fears Deepen Global Selloff",
+          "subtitle": "Yahoo Finance / Bloomberg",
+          "meta": "~12h ago · Markets / Asia",
+          "summary": "South Korea's KOSPI index dropped 5.5% Wednesday and Samsung and SK Hynix each fell more than 7%, extending a global semiconductor rout driven by worries over AI-infrastructure financing models, rising Chinese chip competition, and surging US Treasury yields. The MSCI Asia-Pacific benchmark slid 2%, its sharpest single-session drop in months.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/chip-stock-selloff-deepens-asia-035114530.html"
+        },
+        {
+          "title": "US 30-Year Treasury Yield Hits Highest Level Since 2007",
+          "subtitle": "Bloomberg",
+          "meta": "~1d ago · Economy",
+          "summary": "The 30-year US Treasury yield climbed to 5.34% — a level unseen since 2007 — and the 10-year reached 4.73%, its highest of the year, as fiscal concerns, persistent inflation expectations, and the economic drag from the Iran conflict combined to rattle global bond markets. The surge in yields is amplifying equity volatility and tightening financial conditions worldwide.",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-18/stock-market-today-dow-s-p-live-updates"
+        },
+        {
+          "title": "Trump Orders 'Substantial Reduction' of US-South Korea Military Exercises",
+          "subtitle": "NBC News",
+          "meta": "~1d ago · Asia / Defense",
+          "summary": "President Trump issued an abrupt directive to significantly scale back joint military drills with South Korea, unsettling Seoul at a moment of heightened regional tension; South Korean President Lee Jae Myung publicly expressed alarm at the unexpected move. Analysts warn the order undermines deterrence on the Korean Peninsula and signals a broader pullback from alliance commitments in East Asia.",
+          "url": "https://www.nbcnews.com/politics"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Al Jazeera",
+    "CNN",
+    "NPR",
+    "Axios",
+    "Yahoo Finance",
+    "Bloomberg",
+    "NBC News",
+    "Investing.com",
+    "CNBC"
+  ],
+  "date": "2026-08-19",
+  "pretty": "Wednesday, 19 August 2026",
+  "generated_at": "2026-08-19 08:21 CEST"
+}
