@@ -1,0 +1,59 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A last-minute US-Canada trade reprieve, Iranian missiles over the Gulf, and a grim debt milestone headline a turbulent Wednesday.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Trump Pauses 50% Canada Tariffs at 11th Hour, Citing Tentative Deal",
+          "subtitle": "Bloomberg / NPR / Al Jazeera",
+          "meta": "~18h ago · Trade & Politics",
+          "summary": "With less than two hours to spare before 50% tariffs on Canadian imports were set to kick in, President Trump announced a tentative agreement and granted a three-day pause. The deal in principle would halve steel and aluminum duties to 25% and cap auto tariffs at 15%, though key terms remain unresolved and Prime Minister Carney cautioned that 'important work' lies ahead.",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-19/trump-pauses-50-canada-tariffs-for-three-days-subject-to-a-deal-mszgvwa3"
+        },
+        {
+          "title": "UAE Suspends All Trade and Financial Ties with Iran After Missile Strike",
+          "subtitle": "The Washington Post / CNBC / U.S. News",
+          "meta": "~18h ago · Middle East",
+          "summary": "The United Arab Emirates announced it is suspending all trade and financial transactions with Iran indefinitely after Iranian ballistic missiles targeted UAE territory — both were intercepted, one landing in UAE territorial waters. The move marks a major escalation in the broader US-Israel-Iran conflict now in its sixth month, threatening shipping stability across the Gulf.",
+          "url": "https://www.washingtonpost.com/world/2026/08/19/uae-says-it-is-suspending-trade-with-iran-after-missile-attack/"
+        },
+        {
+          "title": "US National Debt Surpasses $40 Trillion for the First Time",
+          "subtitle": "Bloomberg / CNBC / CBS News / NPR",
+          "meta": "~18h ago · Economy",
+          "summary": "Treasury data released Tuesday confirmed that US public debt crossed the $40 trillion mark, arriving years ahead of Congressional Budget Office projections and more than doubling over the past decade. The milestone comes amid a $1.8 trillion deficit for the first ten months of fiscal year 2026, and raises fresh alarm about a potential debt-yield 'doom loop.'",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-19/us-public-debt-hits-40-trillion-high-raising-doom-loop-risk"
+        },
+        {
+          "title": "30-Year Treasury Yield Hits Highest Level in Nearly Two Decades",
+          "subtitle": "TheStreet / Bloomberg",
+          "meta": "~24h ago · Markets",
+          "summary": "The 30-year US Treasury yield climbed to its highest point in almost 20 years on Tuesday, hammering stocks and the dollar before the Treasury Department announced it would more than double the size of its long-dated debt buybacks. The surprise buyback move pulled yields back 10 basis points to 5.18% and triggered a broad market rally, with gold rising and the dollar falling to a three-month low.",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-18-2026"
+        },
+        {
+          "title": "Moderna-Merck Melanoma Vaccine Trial Cuts Recurrence — Both Stocks Surge",
+          "subtitle": "Bloomberg Markets Live / TheStreet",
+          "meta": "~18h ago · Science & Health",
+          "summary": "Shares of Moderna roughly doubled and Merck rose approximately 10% after the companies reported that their joint mRNA-based vaccine dramatically cut melanoma recurrence rates in a pivotal trial. The result is one of the most promising readouts yet for mRNA cancer-vaccine technology and could accelerate regulatory review for a new class of oncology treatments.",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-19/stock-market-today-dow-s-p-live-updates"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Bloomberg",
+    "The Washington Post",
+    "CNBC",
+    "NPR",
+    "CBS News",
+    "TheStreet",
+    "Al Jazeera",
+    "U.S. News & World Report"
+  ],
+  "date": "2026-08-20",
+  "pretty": "Thursday, 20 August 2026",
+  "generated_at": "2026-08-20 08:22 CEST"
+}
