@@ -1,0 +1,61 @@
+{
+  "title": "Morning Headlines",
+  "intro": "A day of escalating economic warfare in the Middle East, a landmark debt milestone, and a potential turning point in cancer treatment top a consequential Friday.",
+  "sections": [
+    {
+      "heading": "Top 5 · last 24 hours",
+      "items": [
+        {
+          "title": "Trump declares 'economic warfare' on Iran as military pressure stalls",
+          "subtitle": "Al Jazeera / Bloomberg / CNN",
+          "meta": "~24h ago · Middle East / Geopolitics",
+          "summary": "President Trump announced what he called the 'most crushing economic operation ever taken against any country,' threatening Iran and any nation trading with it — particularly China — with sweeping sanctions after months of military strikes and a naval blockade failed to force Tehran to negotiate. Oil markets responded immediately, with Brent crude rising to about $94 a barrel.",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions"
+        },
+        {
+          "title": "U.S. national debt passes $40 trillion for the first time",
+          "subtitle": "CNBC / Washington Post / NPR",
+          "meta": "~36h ago · Economy / United States",
+          "summary": "The U.S. Treasury confirmed the national debt crossed $40 trillion — reaching the milestone months earlier than forecasters expected, partly due to revenue lost from invalidated tariffs. The figure represents roughly $117,000 per American and comes as the country pays more than $1.1 trillion annually just to service its debt, slightly exceeding the defense budget.",
+          "url": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html"
+        },
+        {
+          "title": "Moderna and Merck's personalized mRNA cancer vaccine succeeds in Phase 3 melanoma trial",
+          "subtitle": "STAT News / CNN / Boston Globe",
+          "meta": "~36h ago · Science / Health",
+          "summary": "In a landmark late-stage trial of 1,137 patients, a personalized mRNA vaccine tailored to each patient's tumor genetics significantly reduced the recurrence and spread of melanoma when combined with Merck's Keytruda. Researchers and oncologists called the results a 'paradigm shift,' with regulatory filings expected within months and potential applications across many cancer types.",
+          "url": "https://www.statnews.com/2026/08/19/mrna-cancer-vaccine-trial-melanoma-merck-moderna/"
+        },
+        {
+          "title": "Israeli military opens first criminal investigations into troop conduct in Gaza",
+          "subtitle": "Wikipedia Current Events / Reuters",
+          "meta": "~24h ago · Middle East / Human Rights",
+          "summary": "Israel's military announced its first-ever criminal probes into alleged misconduct by its own soldiers in Gaza, focusing on the deaths of 5-year-old Hind Rajab, her family, and 15 Palestinian paramedics. The move comes amid sustained international pressure and signals a significant if contested shift in how Israel is handling accountability for its military operations.",
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events/August_2026"
+        },
+        {
+          "title": "Evergrande founder Hui Ka Yan sentenced to life in prison",
+          "subtitle": "Wikipedia Current Events / Financial Times",
+          "meta": "~24h ago · Finance / China",
+          "summary": "A Chinese court sentenced Hui Ka Yan, the founder of collapsed property giant Evergrande, to life imprisonment, closing a chapter on one of the largest corporate collapses in history — more than $300 billion in liabilities. The verdict underscores Beijing's continued legal crackdown on high-profile business figures tied to the country's prolonged real estate crisis.",
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events/August_2026"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "Al Jazeera",
+    "Bloomberg",
+    "CNN",
+    "CNBC",
+    "NPR",
+    "Washington Post",
+    "STAT News",
+    "Boston Globe",
+    "Reuters",
+    "Wikipedia Current Events"
+  ],
+  "date": "2026-08-21",
+  "pretty": "Friday, 21 August 2026",
+  "generated_at": "2026-08-21 08:22 CEST"
+}
